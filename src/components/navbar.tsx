@@ -256,6 +256,7 @@ function HomeLogo() {
 }
 
 // Main Navbar Component
+
 export function Navbar() {
   useEffect(() => {
     const hash = window.location.hash;
@@ -310,13 +311,13 @@ export function Navbar() {
                 leaveFrom="opacity-100 scale-100"
                 leaveTo="opacity-0 scale-95"
               >
-                <Popover.Panel className="absolute right-0 mt-2 w-40 bg-black text-white rounded-lg shadow-lg">
-                  <div className="flex flex-col">
-                    <button className="px-4 py-2 text-sm hover:bg-cyan-400 hover:text-black">
-                      Log In
+                <Popover.Panel className="absolute z-10 justify-center items-center mt-2 w-24 h-14 bg-black border border-cyan-400 rounded-xl shadow-lg top-full right-0">
+                  <div className="flex flex-col py-2">
+                    <button className="flex items-center px-4 text-sm text-white hover:bg-cyan-400 hover:text-black">
+                      <span className="ml-2">Log In</span>
                     </button>
-                    <button className="px-4 py-2 text-sm hover:bg-cyan-400 hover:text-black">
-                      Sign Up
+                    <button className="flex items-center px-4 py-1 text-sm text-white hover:bg-cyan-400 hover:text-black">
+                      <span className="ml-2">Sign Up</span>
                     </button>
                   </div>
                 </Popover.Panel>
@@ -325,7 +326,7 @@ export function Navbar() {
           </div>
 
           {/* Country Select Dropdown */}
-          <div className="flex order-1 lg:order-3 lg:ml-4">
+          <div className="flex lg:ml-4">
             <CountrySelect />
           </div>
 
