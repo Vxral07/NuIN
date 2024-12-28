@@ -45,19 +45,19 @@ const AboutPage = () => {
                 <div className="flex text-white font-poppins flex-col justify-center items-center mt-16">
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-8">
                         {/* Team Member 1 */}
-                        <div className="abtWrap flex flex-col md:flex-row gap-2 justify-items-center">
-                            <div className="leftWrp text-center sm:text-left">
+                        <div className="abtWrap flex flex-col md:flex-row gap-4 justify-center items-center">
+                            <div className="leftWrp text-center">
                                 <h6 className="text-lg sm:text-xl lg:text-2xl font-semibold">
                                     <strong>Imran Farooqui</strong>
                                     <br /> Founder & CEO
                                 </h6>
                                 <img
-                                    src="/team/abt-1.png"
+                                    src="/team/ab-1.png"
                                     alt="Imran Farooqui"
-                                    className="mt-4 w-48 sm:w-48 lg:w-56 rounded-lg mx-auto"
+                                    className="mt-4 w-full sm:w-48 lg:w-56 rounded-lg mx-auto"
                                 />
                             </div>
-                            <div className="rigtWrp mt-4 sm:mt-0 text-center sm:text-left">
+                            <div className="rigtWrp mt-4 sm:mt-0 text-center">
                                 <p className="text-base sm:text-lg">
                                     <Link
                                         to={"https://www.linkedin.com/in/imran-farooqui-baa2b7208/"}
@@ -71,20 +71,20 @@ const AboutPage = () => {
                         </div>
 
                         {/* Team Member 2 */}
-                        <div className="abtWrap flex flex-col md:flex-row justify-center gap-2">
-                            <div className="leftWrp text-center sm:text-left">
+                        <div className="abtWrap flex flex-col md:flex-row gap-4 justify-center items-center">
+                            <div className="leftWrp text-center">
                                 <h6 className="text-lg sm:text-xl lg:text-2xl font-semibold">
                                     <strong>Shreemohan Chauhaan</strong>
                                     <br />
                                     Co-Founder & COO
                                 </h6>
                                 <img
-                                    src="/team/abt-2.png"
+                                    src="/team/ab-2.png"
                                     alt="Shreemohan Chauhaan"
-                                    className="mt-4 w-48 sm:w-48 lg:w-56 rounded-lg mx-auto"
+                                    className="mt-4 w-full sm:w-48 lg:w-56 rounded-lg mx-auto"
                                 />
                             </div>
-                            <div className="rigtWrp mt-4 sm:mt-0 text-center sm:text-left">
+                            <div className="rigtWrp mt-4 sm:mt-0 text-center">
                                 <p className="text-base sm:text-lg">
                                     <Link
                                         to={"https://www.linkedin.com/in/shremohan/"}
@@ -98,20 +98,20 @@ const AboutPage = () => {
                         </div>
 
                         {/* Team Member 3 */}
-                        <div className="abtWrap flex flex-col md:flex-row justify-center gap-2">
-                            <div className="leftWrp text-center sm:text-left">
+                        <div className="abtWrap flex flex-col md:flex-row gap-4 justify-center items-center">
+                            <div className="leftWrp text-center">
                                 <h6 className="text-lg sm:text-xl lg:text-2xl font-semibold">
                                     <strong>Irfan Mulla</strong>
                                     <br />
                                     Head of Marketing
                                 </h6>
                                 <img
-                                    src="/team/abt-4.png"
+                                    src="/team/ab-4.png"
                                     alt="Sonell Kanyal"
-                                    className="mt-4 w-48 sm:w-48 lg:w-56 rounded-lg mx-auto"
+                                    className="mt-4 w-full sm:w-48 lg:w-56 rounded-lg mx-auto"
                                 />
                             </div>
-                            <div className="rigtWrp mt-4 sm:mt-0 text-center sm:text-left">
+                            <div className="rigtWrp mt-4 sm:mt-0 text-center">
                                 <p className="text-base sm:text-lg">
                                     <Link
                                         to={"https://www.linkedin.com/in/sonell-kanyal-frm-privatebanker-uae/"}
@@ -119,14 +119,14 @@ const AboutPage = () => {
                                     >
                                         <LinkedinIcon className="my-2 text-secondary mx-auto" />
                                     </Link>
-                                    Advertising and Marketing lead with focused digital ecosystem marketing experience across AMEA regions. Statistics graduate with over 25 years of industry experience.
+                                    Advertising and Marketing lead with focused digital ecosystem marketing experience across AMEA regions. Statistics graduate with over 25 years of industry experience.  
                                 </p>
                             </div>
                         </div>
 
                         {/* Team Member 4 */}
-                        <div className="abtWrap flex flex-col md:flex-row justify-center gap-2">
-                            <div className="leftWrp text-center sm:text-left">
+                        <div className="abtWrap flex flex-col md:flex-row gap-4 justify-center items-center">
+                            <div className="leftWrp text-center">
                                 <h6 className="text-lg sm:text-xl lg:text-2xl font-semibold">
                                     <strong>Osama Sharif</strong>
                                     <br />
@@ -135,10 +135,10 @@ const AboutPage = () => {
                                 <img
                                     src="/team/abt-5.png"
                                     alt="Osama Sharif"
-                                    className="mt-4 w-48 sm:w-48 lg:w-56 rounded-lg mx-auto"
+                                    className="mt-4 w-full sm:w-48  lg:w-56 rounded-lg mx-auto"
                                 />
                             </div>
-                            <div className="rigtWrp mt-4 sm:mt-0 text-center sm:text-left">
+                            <div className="rigtWrp mt-4 sm:mt-0 text-center">
                                 <p className="text-base sm:text-lg">
                                     <Link
                                         to={"https://www.linkedin.com/in/shremohan/"}
@@ -146,26 +146,26 @@ const AboutPage = () => {
                                     >
                                         <LinkedinIcon className="my-2 text-secondary mx-auto" />
                                     </Link>
-                                    10+ Years experience in IT Digital Transformation in Saudi Arabia, UAE & India. Certified Project Management Professional (PMP) and Oracle Certified Programmer (OCP) to lead Product Implementation & development projects for large organizations.
+                                    10+ Years experience in IT Digital Transformation in Saudi Arabia, UAE & India. Certified Project Management Professional (PMP) and Oracle Certified Programmer (OCP) to lead Product Implementation & development projects for large organizations.                                
                                 </p>
                             </div>
                         </div>
 
                         {/* Team Member 5 */}
-                        <div className="abtWrap flex flex-col md:flex-row justify-center gap-2">
-                            <div className="leftWrp text-center sm:text-left">
+                        <div className="abtWrap flex flex-col md:flex-row gap-4 justify-center items-center">
+                            <div className="leftWrp text-center">
                                 <h6 className="text-lg sm:text-xl lg:text-2xl font-semibold">
                                     <strong>Sonell Kanyal</strong>
                                     <br />
                                     Head of Investment Advisory
                                 </h6>
                                 <img
-                                    src="/team/abt-6.png"
+                                    src="/team/ab-6.png"
                                     alt="Sonell Kanyal"
-                                    className="mt-4 w-48 sm:w-48 lg:w-56 rounded-lg mx-auto"
+                                    className="mt-4 w-full sm:w-48 lg:w-56 rounded-lg mx-auto"
                                 />
                             </div>
-                            <div className="rigtWrp mt-4 sm:mt-0 text-center sm:text-left">
+                            <div className="rigtWrp mt-4 sm:mt-0 text-center">
                                 <p className="text-base sm:text-lg">
                                     <Link
                                         to={"https://www.linkedin.com/in/sonell-kanyal-frm-privatebanker-uae/"}
@@ -179,20 +179,20 @@ const AboutPage = () => {
                         </div>
 
                         {/* Team Member 6 */}
-                        <div className="abtWrap flex flex-col md:flex-row justify-center gap-2">
-                            <div className="leftWrp text-center sm:text-left">
+                        <div className="abtWrap flex flex-col md:flex-row gap-4 justify-center items-center">
+                            <div className="leftWrp text-center">
                                 <h6 className="text-lg sm:text-xl lg:text-2xl font-semibold">
                                     <strong>Sohail Shafiq</strong>
                                     <br />
                                     Islamic Banking Specialist
                                 </h6>
                                 <img
-                                    src="/team/abt-7.jpeg"
+                                    src="/team/ab-7.jpeg"
                                     alt="Sohail Shafiq"
-                                    className="mt-4 w-48 sm:w-48 lg:w-56 rounded-lg mx-auto"
+                                    className="mt-4 w-full sm:w-48 lg:w-56 rounded-lg mx-auto"
                                 />
                             </div>
-                            <div className="rigtWrp mt-4 sm:mt-0 text-center sm:text-left">
+                            <div className="rigtWrp mt-4 sm:mt-0 text-center">
                                 <p className="text-base sm:text-lg">
                                     <Link
                                         to={"https://www.linkedin.com/in/sonell-kanyal-frm-privatebanker-uae/"}
@@ -200,8 +200,8 @@ const AboutPage = () => {
                                     >
                                         <LinkedinIcon className="my-2 text-secondary mx-auto" />
                                     </Link>
-                                    Sohail has been associated with Islamic banking for over 20 years, working with leading multinational and regional institutions including EY (Ernst & Young), Bank Sarasin, and Standard Chartered Bank.
-                                </p>
+                                    Sohail has been associated with Islamic banking for over 20 years, working with leading multinational and regional institutions including EY (Ernst & Young), Bank Sarasin, and Standard Chartered Bank.                                
+                                 </p>
                             </div>
                         </div>
                     </div>
@@ -212,7 +212,6 @@ const AboutPage = () => {
 };
 
 export default AboutPage;
-
 
 
 
