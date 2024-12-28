@@ -319,7 +319,9 @@ export function Navbar() {
             </Popover>
           </div>
 
-          
+          <div className="flex lg:ml-4">
+            <CountrySelect />
+          </div>
 
           {/* Mobile Navigation (Hamburger Menu) */}
           <div className="lg:hidden order-3">
@@ -334,9 +336,7 @@ export function Navbar() {
             <button className="px-3 py-2 text-sm font-semibold text-white bg-transparent border border-cyan-400 rounded-xl hover:bg-cyan-400 hover:text-black">
               Login
             </button>
-            <div className="flex lg:ml-4">
-              <CountrySelect />
-            </div>
+
           </div>
         </div>
       </div>
