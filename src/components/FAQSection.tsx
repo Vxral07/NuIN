@@ -157,8 +157,8 @@ export const FAQSection: React.FC = () => {
         />
 
         <FAQCard
-          title="Does Nuqi leverage its associations to provide access to in-depth research reports?"
-          description="Yes IRIS & Ethosphere keep a watch."
+          title="Does Nuqi collaborate with international brokers to offer a wider range of investment options??"
+          description="YES collaborations is one of the pillars for NUQI Wealth to provide.."
           customStyles="min-h-[200px] lg:mr-0 mr-2 border border-solid border-white border-opacity-40 rounded-[50px] max-md:ml-2"
         />
         <FAQCard
