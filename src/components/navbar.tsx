@@ -1,5 +1,4 @@
-
-import { Popover, Transition, } from "@headlessui/react";
+import { Popover, Transition } from "@headlessui/react";
 import { Globe, Menu, X } from "lucide-react";
 import { Fragment, ReactNode, useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
@@ -10,7 +9,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "./ui/select"; // Assuming you have a custom Select component
-
 
 // NavItem Component
 function NavItem({
@@ -289,19 +287,15 @@ export function Navbar() {
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     className="h-6 w-6"
-                    fill="none"
+                    fill="white" /* Make the icon white */
                     viewBox="0 0 24 24"
-                    stroke="currentColor"
+                    stroke="none" /* Remove stroke for cleaner look */
                   >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth="2"
-                      d="M5.121 17.804A7.938 7.938 0 0112 16c1.739 0 3.33.555 4.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zM4 6h16"
-                    />
+                    <path d="M12 12c2.28 0 4-1.72 4-4s-1.72-4-4-4-4 1.72-4 4 1.72 4 4 4zm0 2c-3.31 0-10 1.67-10 5v1h20v-1c0-3.33-6.69-5-10-5z" />
                   </svg>
                 </div>
               </Popover.Button>
+
               <Transition
                 as={Fragment}
                 enter="transition ease-out duration-100"
@@ -349,4 +343,3 @@ export function Navbar() {
     </header>
   );
 }
-
