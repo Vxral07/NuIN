@@ -271,11 +271,11 @@ const Privacy = () => {
         );
       case "disclaimer":
         return <p>
-          This disclaimer is intended for general informational purposes only. It is provided by Nuqi Digital Wealth Limited ("NUQI DIFC"), a company regulated by the Dubai Financial Services Authority ("DFSA") with offices located at, 501, Innovation One Building, DIFC, Dubai, UAE. <br/> <br/>
-          Please note that the information provided is not intended to be research material, investment advice, or a solicitation to buy or sell any securities or financial instruments. It is for general informational purposes only and does not take into account your specific investment objectives, financial situation, or individual needs. You should not rely solely on this information when making investment decisions.<br/><br/>
-          Before making any investment, you should carefully review the relevant offering documents and seek independent legal, tax, and regulatory advice. This includes consulting with a qualified advisor to determine if a particular investment is suitable for you, considering your unique circumstances.<br/><br/>
-          Opinions, forecasts, and estimates are those of Nuqi Digital Wealth Limited as of the date of this information and are subject to change without notice. Past performance is not indicative of future results, and no guarantee or warranty is made regarding future investment performance.<br/><br/>
-          Any forecasts included here regarding potential future movements in rates, prices, events, or occurrences are solely opinions and should not be taken as guarantees of actual future results. Neither the analysts who prepared this information nor their close associates have any material financial interest in the investments mentioned. Additionally, Nuqi Digital Wealth Limited do not hold shares in any of the recommended securities.<br/><br/>
+          This disclaimer is intended for general informational purposes only. It is provided by Nuqi Digital Wealth Limited ("NUQI DIFC"), a company regulated by the Dubai Financial Services Authority ("DFSA") with offices located at, 501, Innovation One Building, DIFC, Dubai, UAE. <br /> <br />
+          Please note that the information provided is not intended to be research material, investment advice, or a solicitation to buy or sell any securities or financial instruments. It is for general informational purposes only and does not take into account your specific investment objectives, financial situation, or individual needs. You should not rely solely on this information when making investment decisions.<br /><br />
+          Before making any investment, you should carefully review the relevant offering documents and seek independent legal, tax, and regulatory advice. This includes consulting with a qualified advisor to determine if a particular investment is suitable for you, considering your unique circumstances.<br /><br />
+          Opinions, forecasts, and estimates are those of Nuqi Digital Wealth Limited as of the date of this information and are subject to change without notice. Past performance is not indicative of future results, and no guarantee or warranty is made regarding future investment performance.<br /><br />
+          Any forecasts included here regarding potential future movements in rates, prices, events, or occurrences are solely opinions and should not be taken as guarantees of actual future results. Neither the analysts who prepared this information nor their close associates have any material financial interest in the investments mentioned. Additionally, Nuqi Digital Wealth Limited do not hold shares in any of the recommended securities.<br /><br />
           Furthermore, Nuqi Digital Wealth Limited and its affiliates do not act as corporate brokers, market makers, or have any commercial relationships with the issuers of the securities mentioned in this material. Likewise, none of the issuers of these securities have any ownership stake in Nuqi Digital Wealth Limited or its affiliates.
 
         </p>;
@@ -287,6 +287,15 @@ const Privacy = () => {
 
           If you wish to remove cookies, you can deactivate cookies within your browser's parameters. However, if you deactivate your cookies, you might not be able to access some parts of our Site. We offer a free app for a variety of mobile devices. The app processes the personal details you give us in much the same way as our website does. With your consent, we may send you push notifications with information. You may grant us access to your location data or contact details in order to provide services requested by you. Please read the instructions of your mobile device to understand how to change the settings and enable the sharing of such data or the receipt of push notifications.
         </p>; <br />
+      case "termsConditions":
+        return (
+          <p>
+            {/* Add your Terms & Conditions content here */}
+            
+            
+          </p>
+        );
+
       default:
         return <p>Privacy Policy content goes here...</p>;
     }
@@ -343,6 +352,15 @@ const Privacy = () => {
                   Cookie Policy
                 </button>
               </li>
+              <button
+                className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "termsConditions"
+                  ? "bg-cyan-400 text-white font-semibold"
+                  : "hover:bg-cyan-400 text-gray-300"
+                  }`}
+                onClick={() => setSelectedPage("termsConditions")}
+              >
+                Terms & Conditions
+              </button>
             </ul>
           </div>
 
@@ -356,7 +374,9 @@ const Privacy = () => {
                     ? "Terms of Use"
                     : selectedPage === "disclaimer"
                       ? "Disclaimer"
-                      : "Cookie Policy"}
+                      : selectedPage === "cookie"
+                        ? "Cookie Policy"
+                        : "Terms & Conditions"}
               </h2>
             </div>
             <div className="mt-6 text-gray-400 text-base leading-relaxed">
