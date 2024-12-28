@@ -311,7 +311,7 @@ export function Navbar() {
                 leaveFrom="opacity-100 scale-100"
                 leaveTo="opacity-0 scale-95"
               >
-                <Popover.Panel className="absolute z-10 justify-center items-center mt-2 w-24 h-14 bg-black border border-cyan-400 rounded-xl shadow-lg top-full right-0">
+                <Popover.Panel className="absolute z-10 justify-center items-center -mr-6 mt-2 w-24 h-14 bg-black border border-cyan-400 rounded-2xl shadow-lg top-full right-0">
                   <div className="flex flex-col py-2">
                     <button className="flex items-center px-4 text-sm text-white hover:bg-cyan-400 hover:text-black">
                       <span className="ml-2">Log In</span>
