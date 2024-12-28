@@ -28,9 +28,8 @@ function NavItem({
       <a
         href={href}
         onClick={onClick}
-        className={`block px-2 py-2 text-base font-bold transition ${
-          isActive ? "text-cyan-400" : "text-white hover:text-cyan-400"
-        }`}
+        className={`block px-2 py-2 text-base font-bold transition ${isActive ? "text-cyan-400" : "text-white hover:text-cyan-400"
+          }`}
       >
         {children}
       </a>
@@ -158,7 +157,7 @@ function MobileNavigation() {
               </div>
               <nav className="mt-4 tracking-wide">
                 <ul className="space-y-4 tracking-wide">
-                  <NavItem href="/" isActive={false} onClick={() => {}}>
+                  <NavItem href="/" isActive={false} onClick={() => { }}>
                     Home
                   </NavItem>
                   <NavItem
@@ -175,13 +174,13 @@ function MobileNavigation() {
                   >
                     Prive
                   </NavItem>
-                  <NavItem href="/iris" isActive={false} onClick={() => {}}>
+                  <NavItem href="/iris" isActive={false} onClick={() => { }}>
                     IRIS
                   </NavItem>
                   <NavItem
                     href="/ethosphere"
                     isActive={false}
-                    onClick={() => {}}
+                    onClick={() => { }}
                   >
                     Ethosphere
                   </NavItem>
@@ -321,9 +320,9 @@ export function Navbar() {
           </div>
 
           {/* Country Select Dropdown */}
-          <div className="flex lg:ml-4">
+          {/* <div className="flex lg:ml-4">
             <CountrySelect />
-          </div>
+          </div> */}
 
           {/* Mobile Navigation (Hamburger Menu) */}
           <div className="lg:hidden order-3">
@@ -338,6 +337,9 @@ export function Navbar() {
             <button className="px-3 py-2 text-sm font-semibold text-white bg-transparent border border-cyan-400 rounded-xl hover:bg-cyan-400 hover:text-black">
               Login
             </button>
+            <div className="flex lg:ml-4">
+              <CountrySelect />
+            </div>
           </div>
         </div>
       </div>
