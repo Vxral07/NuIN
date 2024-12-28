@@ -5,7 +5,7 @@ const Disclaimer = () => {
     <section className="py-10 sm:py-16">
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl text-white font-poppins">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-3xl pb-5 font-poppins mr-12 font-medium leading-tight tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-4xl lg:text-5xl">
+          <h2 className="text-3xl pb-5 font-poppins mr-12 font-medium leading-tight tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-4xl lg:text-4xl">
             Disclaimer
           </h2>
           <div className="w-[40rem] h-10 relative">

@@ -1,4 +1,3 @@
-
 import { Popover, Transition } from "@headlessui/react";
 import { Globe, Menu, X } from "lucide-react";
 import { Fragment, ReactNode, useEffect, useState } from "react";
@@ -320,9 +319,15 @@ export function Navbar() {
           </div>
 
           {/* Country Select Dropdown */}
+<<<<<<< HEAD
           {/* <div className="flex lg:ml-4">
             <CountrySelect />
           </div> */}
+=======
+          <div className="flex lg:ml-4">
+            <CountrySelect />
+          </div>
+>>>>>>> 15b088729f2c10614dbe59facfba4a30ef930b6b
 
           {/* Mobile Navigation (Hamburger Menu) */}
           <div className="lg:hidden order-3">
@@ -337,9 +342,12 @@ export function Navbar() {
             <button className="px-3 py-2 text-sm font-semibold text-white bg-transparent border border-cyan-400 rounded-xl hover:bg-cyan-400 hover:text-black">
               Login
             </button>
+<<<<<<< HEAD
             <div className="flex lg:ml-4">
               <CountrySelect />
             </div>
+=======
+>>>>>>> 15b088729f2c10614dbe59facfba4a30ef930b6b
           </div>
         </div>
       </div>

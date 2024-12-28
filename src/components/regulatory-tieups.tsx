@@ -35,7 +35,7 @@ const RegulatoryTieups = () => {
               <div key={index} className="flex mb-16 min-w-52 justify-center">
                 <img
                   src={`/tieups/${image}`}
-                  className=" h-[2.5rem] mx-5 w-70 object-cover"
+                  className=" h-[3.5rem] mx-5 w-70 object-cover"
                 />
               </div>
             ))}

@@ -367,7 +367,7 @@ const Privacy = () => {
           {/* Main Content */}
           <div className="lg:w-3/4 w-full p-8 font-poppins rounded-lg shadow-lg ">
             <div className="text-left">
-              <h2 className="text-3xl sm:text-4xl font-bold leading-tight text-cyan-400 pb-6 border-b border-[#32363e]">
+              <h2 className="text-3xl sm:text-4xl font-poppins font-medium leading-tight text-cyan-400 pb-6 border-b border-[#32363e]">
                 {selectedPage === "privacy"
                   ? "Privacy Policy"
                   : selectedPage === "terms"
