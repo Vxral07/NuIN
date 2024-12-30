@@ -56,7 +56,7 @@ const Iris = () => {
   const [exchange] = useState(
     () => irisRegions.find((s) => s.name === region)?.exchanges[0]
   );
-  const [searchKey, ] = useState("");
+  const [searchKey,] = useState("");
   const [currencySymbol, setCurrencySymbol] = useState(
     region === "India" ? "₹" : "$"
   );
@@ -301,15 +301,9 @@ const Iris = () => {
           </p>
         </div>
       </div>
-      <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-        <div className="max-w-3xl mx-auto text-center lg:text-left">
-          <h2 className="text-xl  font-poppins sm:text-4xl lg:text-3xl font-medium leading-tight bg-gradient-to-r text-cyan-400 sm:text-center mt-10 lg:ml-0">
-            <span className="text-white ">Trending</span> Ethical Stocks
-          </h2>
-        </div>
-      </div>
+      
 
-      <div className="flex w-full justify-center items-center">      
+      <div className="flex w-full justify-center items-center">
         <div className=" self-center  font-poppins lg:max-w-screen-xl border-2 border-cyan-400 bg-black p-6 rounded-3xl sm:mx-6 lg:mx-36 mt-10 hover:shadow-[inset_0_0_20px_10px_rgba(0,255,255,0.7)] transition-shadow duration-300 ease-in-out">
           <h4 className="text-left sm:text-center lg:text-left ml-7 text-lg font-bold leading-tight text-white sm:text-2xl lg:text-xl mt-2">
             Most Active
@@ -321,7 +315,14 @@ const Iris = () => {
             they meet ethical investment criteria.
           </p>
         </div>
-      </div> 
+      </div>
+      <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+        <div className="max-w-3xl mx-auto text-center lg:text-left">
+          <h2 className="text-xl  font-poppins sm:text-4xl lg:text-3xl font-medium leading-tight bg-gradient-to-r text-cyan-400 sm:text-center mt-10 lg:ml-0">
+            <span className="text-white ">Trending</span> Ethical Stocks
+          </h2>
+        </div>
+      </div>
 
 
       <div className="flex flex-wrap  gap-4 p-4 bg-black rounded-lg shadow-md ml-10 mt-5">
