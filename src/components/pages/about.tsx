@@ -7,7 +7,7 @@ const AboutPage = () => {
     return (
         <section className="py-10 sm:py-16 lg:py-20">
             <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-        <div className="h-[10rem] w-full -mt-24g flex flex-col items-center justify-center overflow-hidden rounded-md">
+        <div className="h-[10rem] w-full -mt-24 flex flex-col items-center justify-center overflow-hidden rounded-md">
             <h2 className="text-3xl  font-poppins pb-5 font-medium leading-tight tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-3xl lg:text-5xl">
               <span className="text-white">About</span> Us
             </h2>
