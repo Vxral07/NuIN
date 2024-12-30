@@ -28,36 +28,36 @@ const Privacy = () => {
 
           By proceeding into this website, you are representing and warranting that you are an Eligible Person as defined in the DIFC Conduct of Business Rulebook and agree to the use of the website subject to the terms and conditions stated herein..<br /> <br />
 
-          <p className="font-bold text-xl text-white"> 1. Introduction</p> 
+          <p className="font-bold text-xl text-white"> 1. Introduction</p>
 
           Nuqi is a DIFC-based company licensed and regulated by the Dubai Financial Services Authority, is a category 3C firm authorized to carry on regulated activities of managing assets, arranging custody, arranging Credit & Advising on Credit, advising on Financial Products and arranging Deals in Investments, with endorsement of retail and operating an Islamic Window, which is available online and through mobile applications. Nuqi’s Dubai Financial Services Authority’s reference number is F007613, and the full DFSA Register is available on the DFSA’s website which can be accessed here https://www.dfsa.ae/public-register/firms/nuqi-digital-wealth-ltd<br /> <br />
-          <p className="font-bold text-xl text-white">1.1 Purpose </p> 
+          <p className="font-bold text-xl text-white">1.1 Purpose </p>
 
           We offer traditional External Assets manager and an automated digital investment management service (the Services). Should you choose to become our client (“Client”), we will manage a diversified, continually rebalanced portfolio of securities on your behalf in a very low cost and diversified manner. When you use our website and mobile application you enter into a series of legally binding agreements. You also agree to our Privacy Policy which covers how we collect, use, share and store your personal information.<br /> <br />
-          <p className="font-bold text-xl text-white"> 1.2 Binding Agreement </p> 
+          <p className="font-bold text-xl text-white"> 1.2 Binding Agreement </p>
 
           When you access our website at https://uae.nuqiwealth.com/ and/or our mobile application ("our website", "our App" or "Nuqi") as a user (“User”), you're agreeing to be bound by the following Terms of Use, and, if you've elected to become a Client, our Client Agreement. Please therefore take the time to read the following binding Terms of Use below. For the purpose of this Terms of Use, a User is an individual who uses our website or App to evaluate our Service, or for educational purposes and a Client is an individual who signs our Client Agreement that entitles the Client to have her or his investment portfolio managed by Nuqi on a discretionary basis and in accordance with an agreed investment mandate. This Terms of Use, as well as the Privacy Policy applies to both Users and Clients. If you elect to become a Client, you will be subject to these Terms of Use, our Client Agreement, our Privacy Policy and any additional terms to which you agree when you create and fund an investment account.<br /> <br />
 
           <p className="font-bold text-xl text-white"> 2. Clients  </p><br />
-          <p className="font-bold text-xl text-white">2.1 Eligibility</p> 
+          <p className="font-bold text-xl text-white">2.1 Eligibility</p>
 
           Nuqi is intended solely for individuals who are 18 years or older. Any access to or use of Nuqi by anyone under 18 is unauthorized, unlicensed, and in violation of these Terms of Use. By accessing or using Nuqi, you represent and warrant that you are 18 or older, that you can form a binding contract with Nuqi, that you are not a person barred from using the Service under the laws of the United Arab Emirates, DIFC laws, or any other applicable jurisdiction, and that you will comply with these Terms of Use Agreement and all applicable local, state, national, and international laws, rules, and regulations..<br /> <br />
           You will keep your username and password safe. <br />
           You will not share your account with anyone else. <br /> <br />
 
 
-          <p className="font-bold text-xl text-white">2.2 Your Access</p> 
+          <p className="font-bold text-xl text-white">2.2 Your Access</p>
           To access certain features of Nuqi, you must register and create a User Account. During registration, you will choose a password, which you will need to access your User Account. Nuqi employs physical, electronic, and procedural safeguards that comply with DIFC standards to protect Users' and Clients' non-public personal information. You are responsible for safeguarding your password and User Account information. You agree not to disclose your password to any third party and to notify Nuqi immediately if your password is lost or stolen or if you suspect any unauthorized use of your User Account. As a User, you agree to be solely responsible for any activities or actions under your User Account,  whether or not you have authorized such activities or actions.  <br /><br />You agree that the information you provide during account registration through our website, app, or any other communication channel will be true, accurate, current, and complete. You are prohibited from scraping or copying information through any means (including crawlers, browser plugins, add-ons, and any other technology or manual work) as detailed in Section 6.2. The content of the site is protected by applicable copyright and trademark laws. Unauthorized use or exploitation of such content is strictly prohibited, including, but not limited to, unauthorized downloading, retransmission, storage in any medium, copying, redistribution, reproduction, or republication of the site, or any part thereof, for any purpose. Nuqi cannot guarantee complete confidentiality or security for information that is transmitted electronically. By accessing the site, you acknowledge that Nuqi is not responsible for any damages or losses you may suffer due to your electronic transmission of confidential or sensitive details. Please refer to Nuqi’s privacy policy for more information. We may send you communications that you are required to read. You may customize them according to your preferences.<br /><br />
 
-          <p className="font-bold text-xl text-white">2.3 Alerts, Notifications and Service Communications</p> 
+          <p className="font-bold text-xl text-white">2.3 Alerts, Notifications and Service Communications</p>
 
           By creating a User Account, you automatically sign up for various types of alerts via e-mail and mobile notifications. When logged in, you may customize, modify, and in some cases, deactivate alerts by adjusting the settings accordingly. We never include your password in these communications; however, we may include your name, email address, and information about your portfolio(s) if you are a Client. Anyone with access to your email or mobile device will be able to view these alerts.<br /><br />
 
-          <p className="font-bold text-xl text-white"> 3. TermsOfUse and Limit of Liability    </p> 
+          <p className="font-bold text-xl text-white"> 3. TermsOfUse and Limit of Liability    </p>
 
           Nuqi cannot be held responsible for any financial insights or recommendations provided to Users. This website is only intended to provide you with general information and is neither considered to be a financial advice, an offer to sell nor a solicitation of an offer to purchase any security and may not rely on investment purposes.<br /><br />
 
-          <p className="font-bold text-xl text-white"> 3.1 For a User who is not a Client   </p> 
+          <p className="font-bold text-xl text-white"> 3.1 For a User who is not a Client   </p>
 
           You understand and acknowledge that the investment results you could obtain from investment information and financial insights provided by Nuqi cannot be guaranteed and that Nuqi cannot be held responsible. All investments entail a risk of loss and that you may lose all your money. Investment management services may be offered to individuals who become clients, at the sole discretion of Nuqi. Your election to engage our investment management services are subject to your explicit enrolment and acceptance of the separate Client Agreement and related fee schedule.<br /><br />
           You agree and understand that your use of Nuqi is for its intended purposes only and it is not intended to provide legal, tax or financial planning advice. You agree as a User that you are responsible for your own investment research and investment decisions, that Nuqi is only one of many tools you may use as part of a comprehensive investment education process, that you should not and will not rely on Nuqi as the primary basis of your investment decisions and, except as otherwise provided for herein, Nuqi will not be liable for decisions/ actions you take or authorize third parties to take on your behalf based on information you receive as a User of Nuqi or information you otherwise see on our website.<br /><br />
@@ -66,7 +66,7 @@ const Privacy = () => {
           Links to other sites should not be taken as Nuqi’s endorsement or approval of such sites, the third parties named therein, or their products and services, nor is any liability assumed for incompatibility, non-suitability, viral infection or other destructive components on or from such sites.<br /><br />
           This is our TermsOfUse of legal liability. <br /><br />
           <p className="font-bold text-xl text-white">
-            3.2 TermsOfUse of Warranties </p> 
+            3.2 TermsOfUse of Warranties </p>
 
           Your use of Nuqi's website, and the personal information you provide is at your sole discretion and risk. Nuqi's website and all materials, information, products and services included therein, are provided on an AS IS and AS AVAILABLE basis without any representations, warranties or conditions of any kind from Nuqi. Whether expressed or implied, and including without limitation implied representations, warranties or conditions of title, non-infringement, merchantability, fitness for a particular purpose, performance, durability, availability, timeliness, accuracy, or completeness, all of which are now disclaimed by Nuqi to the fullest extent permitted by law.<br /><br />
 
@@ -82,7 +82,7 @@ const Privacy = () => {
 
           These are the limits of legal liability we may have to you. <br /> <br />
 
-          <p className="font-bold text-xl text-white">  3.3 Limitation of Liability </p> 
+          <p className="font-bold text-xl text-white">  3.3 Limitation of Liability </p>
 
           IN NO EVENT SHALL NUQI OR ANY OF ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU FOR ANY DAMAGES WHATSOEVER, INCLUDING WITHOUT LIMITATION INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF NUQI, CONTENT AND/OR USER INFORMATION, INCLUDING BUT NOT LIMITED TO THE QUALITY, ACCURACY, OR UTILITY OF THE INFORMATION PROVIDED AS PART OF OR THROUGH NUQI OR FOR ANY INVESTMENT DECISIONS MADE ON THE BASIS OF SUCH INFORMATION, WHETHER THE DAMAGES ARE FORESEEABLE AND WHETHER OR NOT NUQI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION AND IN NO EVENT SHALL NUQI'S CUMULATIVE LIABILITY TO YOU EXCEED U.S. AED250.<br /><br />
 
@@ -90,7 +90,7 @@ const Privacy = () => {
 
           By accessing the website, you agree to indemnify and hold harmless Nuqi and its agents, suppliers and their respective directors, officers, and employees from and against all actions, proceedings, costs, claims, liabilities, damages, and expenses (including reasonable legal fees) arising from or in connection with a breach of these terms and conditions or the use of this website.<br /><br />
 
-          <p className="font-bold text-xl text-white">4. Termination</p> 
+          <p className="font-bold text-xl text-white">4. Termination</p>
 
           Each of us can end this Terms of Use at any time.
           You may request termination of your User Account at any time and for any reason by sending an email to service@nuqiwealth.me or through the process specified in the App.
@@ -98,18 +98,18 @@ const Privacy = () => {
 
           Any suspension, termination, or cancellation shall not affect your obligations to Nuqi under these Terms of Use (including but not limited to ownership, indemnification, and limitation of liability), which by their sense and context are intended to survive such suspension, termination, or cancellation. <br /><br />
 
-          <p className="font-bold text-xl text-white">5. Dispute Resolution   </p> 
+          <p className="font-bold text-xl text-white">5. Dispute Resolution   </p>
 
           You agree that these Terms of Use shall be governed by and interpreted in accordance with the laws of the DIFC excluding that body of law pertaining to conflict of laws.
           Any legal action or proceeding arising under these Terms of Use will be brought exclusively in courts of the DIFC, and the parties hereby irrevocably consent to the personal jurisdiction and venue therein.<br /><br />
 
-          <p className="font-bold text-xl text-white"> 6. Nuqi "Dos" and "Don'ts"   </p> 
+          <p className="font-bold text-xl text-white"> 6. Nuqi "Dos" and "Don'ts"   </p>
 
           Nuqi grants you a license to use our website and App so long as you comply with all our rules.<br /> <br />
 
           <p className="font-bold text-xl text-white">  6.1 Dos.   </p><br />
 
-          <p className="font-bold text-xl text-white">You agree you will: </p> 
+          <p className="font-bold text-xl text-white">You agree you will: </p>
           Comply with all applicable laws, including, without limitation, privacy laws, intellectual property laws, export control laws, tax laws, and regulatory requirements;
           Provide accurate information to us, whether reported directly or through a third party who you authorize, and keep it updated;
           Use the services solely for your personal, non-commercial use;
@@ -119,7 +119,7 @@ const Privacy = () => {
 
           <p className="font-bold text-xl text-white"> 6.2 Don'ts.  </p><br />
 
-          <p className="font-bold text-xl text-white">    You agree you won't: </p> 
+          <p className="font-bold text-xl text-white">    You agree you won't: </p>
 
           Circumvent, disable, or otherwise interfere with security-related features of Nuqi or features that prevent or restrict use or copying of any content or User information.
           Upload, email, transmit, provide, or otherwise make available:
@@ -157,13 +157,13 @@ const Privacy = () => {
 
           If you become aware of any misuse of Nuqi or its content by any person, please contact Nuqi to report the abuse. Nuqi has adopted and implemented a policy that provides for the termination of Accounts of users who infringe the rights of copyright holders.<br /> <br />
 
-          <p className="font-bold text-xl text-white"> 7. Account Information from Third Party Sites  </p> 
+          <p className="font-bold text-xl text-white"> 7. Account Information from Third Party Sites  </p>
 
           Users may link their accounts with third-party financial institutions with which they have customer relationships, maintain accounts or engage in financial transactions and direct Nuqi to retrieve and display information from these accounts (“Account Information”). Nuqi works with one or more third-party service providers to access this Account Information. By linking these accounts or directing Nuqi to retrieve your third-party Account Information, you are consenting to the processing of your Account Information, and other personal information you provide that is needed to retrieve your Account Information, such as credentials, by Nuqi and such service provider(s) in connection with providing this service in accordance with our Privacy Policy and as permitted by law, and, if you’ve elected to become a Client, you are consenting to the use of your Account Information by Nuqi and its affiliates in connection with the management of your Nuqi account. Nuqi does not review the Account Information for accuracy, legality or non-infringement. Nuqi is not responsible for the Account Information or products and services offered by or on third-party sites.<br /> <br />
 
           Nuqi cannot always foresee or anticipate technical or other difficulties which may result in failure to obtain data or loss of data, personalization settings or other service interruptions. Nuqi cannot assume responsibility for the timeliness, accuracy, deletion, non-delivery or failure to store any user data, communications or personalization settings. Displayed Account Information is only as fresh as the time shown, which reflects when the information was obtained from third-party sources. <br /> <br />
 
-          <p className="font-bold text-xl text-white">   8. General Terms   </p> 
+          <p className="font-bold text-xl text-white">   8. General Terms   </p>
 
 
           Some other important details about the Terms of Use:<br />
@@ -179,33 +179,33 @@ const Privacy = () => {
 
           You agree the only way to provide us legal notice is at the address provided in Section 10.3. <br /><br />
 
-          <p className="font-bold text-xl text-white"> 9. International Use </p> 
+          <p className="font-bold text-xl text-white"> 9. International Use </p>
 
           Nuqi does not make any representation that its services are appropriate or available for use outside the DIFC. Similarly, we make no representations that accessing Nuqi from locations outside the DIFC is legal or permissible under local laws. If you access Nuqi from areas outside of the DIFC, you do so at your own risk and are solely responsible for compliance with local laws.<br /><br />
 
           <p className="font-bold text-xl text-white ">     10. Miscellaneous      </p><br />
 
 
-          <p className="font-bold text-xl text-white">10.1 Integration & Severability  </p> 
+          <p className="font-bold text-xl text-white">10.1 Integration & Severability  </p>
 
           This Terms of Use is the entire agreement between you and us with respect to Nuqi, and your use of our website and App, and supersedes all prior or contemporaneous communications and proposals (whether oral, written or electronic) between you and us. If any provision of this Terms of Use is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Terms of Use will otherwise remain in full force and effect. The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder. Investment recommendations are made to Clients on an individual basis and may differ based on specific circumstances. <br /> <br />
 
-          <p className="font-bold text-xl text-white"> 10.2 Advice may differ </p> 
+          <p className="font-bold text-xl text-white"> 10.2 Advice may differ </p>
 
           We and our personnel may make recommendations and take action for Clients that may differ from the recommendations we give to you or the action we take on your behalf.
           In addition, our personnel may take actions for their own accounts based on their own investment situations that differ from the recommendations we give you or actions we take on your behalf.
           Any notice or communication will be in writing by email. <br /> <br />
 
-          <p className="font-bold text-xl text-white">10.3 Communication </p> 
+          <p className="font-bold text-xl text-white">10.3 Communication </p>
 
           You agree that these Terms of Use and the rules, restrictions, and policies contained herein, and Nuqi's enforcement thereof, are not intended to confer and do not confer any rights or remedies on any person other than you and Nuqi. These Terms of Use together with Nuqi's Privacy Policy and Client Agreement (if applicable) constitute the entire agreement between Nuqi and you with respect to the subject matter hereof. Any notice or other communication to be given hereunder will be in writing and given by (a) Nuqi via email (in each case to the address that you provide), or (b) you via email to service@nuqiwealth.me or to such other addresses as Nuqi may specify in writing. The date of receipt shall be deemed the date on which such notice is transmitted. <br />
           We welcome your feedback! <br /><br />
 
-          <p className="font-bold text-xl text-white"> 10.4 Feedback </p> 
+          <p className="font-bold text-xl text-white"> 10.4 Feedback </p>
 
           Your feedback is welcome and encouraged. You may submit feedback by emailing us at service@nuqiwealth.me . You agree, however, that (i) by submitting unsolicited ideas to Nuqi or any of its employees or representatives, by any medium, including but not limited to email, written, or oral communication, you automatically forfeit your right to any intellectual property rights in such ideas; and (ii) such unsolicited ideas automatically become the property of Nuqi. You hereby assign and agree to assign all rights, title, and interest you have in such feedback and ideas to Nuqi together with all intellectual property rights therein. In addition, you warrant that all moral rights in any feedback have been waived, and you do hereby waive any such moral rights. <br /> <br />
 
-          <p className="font-bold text-xl text-white">10.5 Questions  </p> 
+          <p className="font-bold text-xl text-white">10.5 Questions  </p>
 
           This document constitutes Nuqi's complete Terms of Use for Nuqi and related services.
           If you have questions about these Terms of Use or about Nuqi or content thereon, please contact Nuqi at service@nuqiwealth.me.<br /> <br />
@@ -238,29 +238,29 @@ const Privacy = () => {
               •	To market our services;<br />
               •	To compile anonymous statistics, such as website usage statistics and statistics on the effectiveness of invitations and other emails; and<br />
               •	To allow our custodian and brokerage providers (through whom we are able to provide our services) to comply with the regulations of all jurisdictions in which they must comply in order to provide their services; and<br />
-              •	Where otherwise required by law.  <br /> <br /> 
-              <p className="font-bold text-xl text-white"> Relationship management</p> 
+              •	Where otherwise required by law.  <br /> <br />
+              <p className="font-bold text-xl text-white"> Relationship management</p>
               We operate a Relationship Management email mailing list program, which we use to inform clients and other contacts about our services, including our publications and events. Such marketing messages may contain tracking technologies in order to track subscriber activity relating to engagement, demographics and other data, and to build subscriber profiles.<br /><br />
               If you would like to cease receiving marketing materials from us at any time, please let our CRM management team know directly. You can also change your preferences for receiving our marketing emails and legal updates from us at any time, and you can unsubscribe by following the instructions specified in our marketing emails or via the websites. Please update your details by contacting our admin team by email at admin@nuqiwealth.me<br /><br />
-              <p className="font-bold text-xl text-white">Distribution of your information</p> 
+              <p className="font-bold text-xl text-white">Distribution of your information</p>
               We may disclose your personal information to a recipient (i) for the purposes of outsourcing one or more of the purposes-related functions described above; (ii) to confirm or update information provided by you; (iii) to inform you of events, information about our services, and other important information, or (iv) for other purposes disclosed at or before the time the information is collected. <br /><br />
               If you tell us you wish to attend an event, your name and organization may appear on a list which we provide to other delegates at the event. We also take photographs and video of our events, and this may result in your image being captured and used while reporting on the event (e.g. via social media or other means). <br /> <br />
               In relation to any other third parties we will only disclose your information where you have given your consent or where we are required to do so by law, or where it is necessary for the purpose of, or in connection with legal proceedings or in order to exercise or defend legal rights. <br /><br />
-              <p className="font-bold text-xl text-white">Cross-border transfer of your information</p> 
+              <p className="font-bold text-xl text-white">Cross-border transfer of your information</p>
               It may sometimes be necessary for us to share your personal information with other Entities around the world or for such Nuqi Digital Wealth Limited offices to share your information with Partner Offices in the DIFC. It may also be necessary for us to share your personal information with associated professional services firms around the world, who provide services to us or on our behalf (including data storage facilities or online storage located within or outside the United Arab Emirates, which may be operated by independent service contractors). This will entail a transfer of personal information from within the Dubai International Financial Centre to recipients outside the DIFC, and vice versa.<br /><br />
               The level of personal information protection in locations outside DIFC may be less than that offered within the DIFC or the country in which you reside and may not be recognized as providing an adequate level of protection, but we have procedures in place to ensure the protection of personal information. These procedures include putting steps in place to ensure that all such entities keep your personal information confidential and secure and only use it for the purposes that we have specified and communicated to you. When we transfer your information to other countries, we will use, share and safeguard that information as described in this privacy notice. We only transfer personal information to these countries, with your consent, when it is necessary for the services we provide you, or subject to appropriate safeguards that assure the protection of your personal information, such as standard contractual clauses. <br /><br />
-              <p className=" text-xl font-bold text-white">Your rights</p> 
+              <p className=" text-xl font-bold text-white">Your rights</p>
               The DIFC Data Protection aims to give you more control of your data. It provides new and strengthened rights.<br /><br />
               <p className="font-bold text-xl text-white"> •Right to access:</p> you can ask us whether we’re processing your personal data, including where and for what purpose. You can also request an electronic copy of your personal data free of charge<br /><br />
               <p className="font-bold text-xl text-white"> • Right to restrict processing:</p> in certain circumstances, you can ask us to restrict our use of your personal data <br /><br />
               <p className="font-bold text-xl text-white"> • Right to rectification:</p> you can ask us to correct inaccurate personal data we hold about you<br /><br />
               <p className="font-bold text-xl text-white"> • Right be forgotten:</p> in certain circumstances, you can ask us to erase your personal data<br /><br />
               <p className="font-bold text-xl text-white">• Right to data portability:</p> you can ask us to provide you with a copy of your personal data in a commonly used electronic format, so that you can transfer it to other businesses<br /><br />
-              <p className="font-bold text-xl text-white">• Right to object to automated decision-making:</p> in certain circumstances, you can ask us not to make automated decisions about you based on your personal data that produce significant legal effects<br /> <br/>
+              <p className="font-bold text-xl text-white">• Right to object to automated decision-making:</p> in certain circumstances, you can ask us not to make automated decisions about you based on your personal data that produce significant legal effects<br /> <br />
               <p className="font-bold text-xl text-white"> • Right to lodge a complaint:</p>you can lodge a complaint with your local data protection authority<br /><br />
               If you would like to exercise any of the above rights, please contact us at compliance@nuqiwealth.me<br /><br />
 
-              <p className=" text-xl font-bold text-white" >Keeping your data safe</p> 
+              <p className=" text-xl font-bold text-white" >Keeping your data safe</p>
               The information you provide may be confidential, and we will maintain such confidentiality and protect your information in accordance with this privacy notice, our professional obligations and applicable law. We do not sell, rent, distribute, or otherwise make, personal information commercially available to any third party. We may share information with our service providers for the purposes set out in this privacy notice.  We have implemented reasonable administrative, technical and physical measures to protect your personal information against loss, misuse and alteration.<br /><br />
               <p className=" text-xl font-bold text-white">Changes to this privacy policy</p>
               This Privacy Policy is effective as of October 20th Dec 2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically.
@@ -301,6 +301,94 @@ const Privacy = () => {
   };
 
   return (
+    // <section className="py-10 sm:py-16 text-white min-h-screen">
+    //   <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+    //     <div className="flex flex-col lg:flex-row gap-6">
+    //       {/* Left Side Navigation */}
+    //       <div className="lg:w-1/4 w-full p-4 rounded-lg shadow-lg">
+    //         <ul className="space-y-4">
+    //           <li>
+    //             <button
+    //               className={`block py-2 px-4 w-full text-left  rounded-3xl transition-colors duration-200 ${selectedPage === "terms"
+    //                 ? "bg-cyan-400 text-white font-semibold"
+    //                 : "hover:bg-cyan-400 text-white text-xl"
+    //                 }`}
+    //               onClick={() => setSelectedPage("terms")}
+    //             >
+    //               Terms of Use
+    //             </button>
+    //           </li>
+    //           <li>
+    //             <button
+    //               className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "termsConditions"
+    //                 ? "bg-cyan-400 text-white font-semibold"
+    //                 : "hover:bg-cyan-400 text-white text-xl"
+    //                 }`}
+    //               onClick={() => setSelectedPage("termsConditions")}
+    //             >
+    //               Terms & Conditions
+    //             </button>
+    //           </li>
+    //           <li>
+    //             <button
+    //               className={`block py-3 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "privacy"
+    //                 ? "bg-cyan-400 text-white font-semibold"
+    //                 : "hover:bg-cyan-400 text-white text-xl"
+    //                 }`}
+    //               onClick={() => setSelectedPage("privacy")}
+    //             >
+    //               Privacy Policy
+    //             </button>
+    //           </li>
+
+    //           <li>
+    //             <button
+    //               className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "disclaimer"
+    //                 ? "bg-cyan-400 text-white font-semibold"
+    //                 : "hover:bg-cyan-400  text-white text-xl"
+    //                 }`}
+    //               onClick={() => setSelectedPage("disclaimer")}
+    //             >
+    //               Disclaimer
+    //             </button>
+    //           </li>
+    //           <li>
+    //             <button
+    //               className={`block py-2 px-4 w-full text-left rounded-3xl  ${selectedPage === "cookie"
+    //                 ? "bg-cyan-400 text-white font-semibold"
+    //                 : "hover:bg-cyan-400 text-white text-xl "
+    //                 }`}
+    //               onClick={() => setSelectedPage("cookie text-black")}
+    //             >
+    //               Cookie Policy
+    //             </button>
+    //           </li>
+
+    //         </ul>
+    //       </div>
+
+    //       {/* Main Content */}
+    //       <div className="lg:w-3/4 w-full p-8 font-poppins rounded-lg shadow-lg ">
+    //         <div className="text-left">
+    //           <h2 className="text-3xl sm:text-4xl font-poppins font-medium leading-tight text-cyan-400 pb-6">
+    //             {selectedPage === "privacy"
+    //               ? "Privacy Policy"
+    //               : selectedPage === "terms"
+    //                 ? "Terms of Use"
+    //                 : selectedPage === "disclaimer"
+    //                   ? "Disclaimer"
+    //                   : selectedPage === "cookie"
+    //                     ? "Cookie Policy"
+    //                     : "Terms & Conditions"}
+    //           </h2>
+    //         </div>
+    //         <div className="mt-6  text-white text-base leading-relaxed">
+    //           {renderContent()}
+    //         </div>
+    //       </div>
+    //     </div>
+    //   </div>
+    // </section>
     <section className="py-10 sm:py-16 text-white min-h-screen">
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="flex flex-col lg:flex-row gap-6">
@@ -309,8 +397,8 @@ const Privacy = () => {
             <ul className="space-y-4">
               <li>
                 <button
-                  className={`block py-2 px-4 w-full text-left  rounded-3xl transition-colors duration-200 ${selectedPage === "terms"
-                    ? "bg-cyan-400 text-white font-semibold"
+                  className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "terms"
+                    ? "bg-cyan-400 text-black font-semibold"
                     : "hover:bg-cyan-400 text-white text-xl"
                     }`}
                   onClick={() => setSelectedPage("terms")}
@@ -321,7 +409,7 @@ const Privacy = () => {
               <li>
                 <button
                   className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "termsConditions"
-                    ? "bg-cyan-400 text-white font-semibold"
+                    ? "bg-cyan-400 text-black font-semibold"
                     : "hover:bg-cyan-400 text-white text-xl"
                     }`}
                   onClick={() => setSelectedPage("termsConditions")}
@@ -332,7 +420,7 @@ const Privacy = () => {
               <li>
                 <button
                   className={`block py-3 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "privacy"
-                    ? "bg-cyan-400 text-white font-semibold"
+                    ? "bg-cyan-400 text-black font-semibold"
                     : "hover:bg-cyan-400 text-white text-xl"
                     }`}
                   onClick={() => setSelectedPage("privacy")}
@@ -344,8 +432,8 @@ const Privacy = () => {
               <li>
                 <button
                   className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "disclaimer"
-                    ? "bg-cyan-400 text-white font-semibold"
-                    : "hover:bg-cyan-400  text-white text-xl"
+                    ? "bg-cyan-400 text-black font-semibold"
+                    : "hover:bg-cyan-400 text-white text-xl"
                     }`}
                   onClick={() => setSelectedPage("disclaimer")}
                 >
@@ -354,16 +442,15 @@ const Privacy = () => {
               </li>
               <li>
                 <button
-                  className={`block py-2 px-4 w-full text-left rounded-3xl  ${selectedPage === "cookie"
-                    ? "bg-cyan-400 text-white font-semibold"
-                    : "hover:bg-cyan-400 text-white text-xl "
+                  className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "cookie"
+                    ? "bg-cyan-400 text-black font-semibold"
+                    : "hover:bg-cyan-400 text-white text-xl"
                     }`}
                   onClick={() => setSelectedPage("cookie")}
                 >
                   Cookie Policy
                 </button>
               </li>
-
             </ul>
           </div>
 
@@ -382,13 +469,14 @@ const Privacy = () => {
                         : "Terms & Conditions"}
               </h2>
             </div>
-            <div className="mt-6  text-white text-base leading-relaxed">
+            <div className="mt-6 text-white text-base leading-relaxed">
               {renderContent()}
             </div>
           </div>
         </div>
       </div>
     </section>
+
   );
 };
 
