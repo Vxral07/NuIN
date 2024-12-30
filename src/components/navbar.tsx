@@ -1,4 +1,3 @@
-
 import { Popover, Transition } from "@headlessui/react";
 import { Globe, Menu, X } from "lucide-react";
 import { Fragment, ReactNode, useEffect, useState } from "react";
@@ -157,7 +156,7 @@ function MobileNavigation() {
               </div>
               <nav className="mt-4 tracking-wide">
                 <ul className="space-y-4 tracking-wide">
-                  <NavItem href="/" isActive={false} onClick={() => { }}>
+                  <NavItem href="/" isActive={false} onClick={() => { }} >
                     Home
                   </NavItem>
                   <NavItem
@@ -174,7 +173,7 @@ function MobileNavigation() {
                   >
                     Prive
                   </NavItem>
-                  <NavItem href="/iris" isActive={false} onClick={() => { }}>
+                  <NavItem href="/iris" isActive={false} onClick={() => { }} >
                     IRIS
                   </NavItem>
                   <NavItem
@@ -254,7 +253,6 @@ function HomeLogo() {
 }
 
 // Main Navbar Component
-
 export function Navbar() {
   useEffect(() => {
     const hash = window.location.hash;
@@ -319,13 +317,12 @@ export function Navbar() {
             </Popover>
           </div>
 
-          <div className="flex lg:ml-4">
-            <CountrySelect />
-          </div>
-
           {/* Mobile Navigation (Hamburger Menu) */}
           <div className="lg:hidden order-3">
             <MobileNavigation />
+          </div>
+          <div className="lg:hidden">
+            <CountrySelect />
           </div>
 
           {/* Sign Up & Login for Desktop */}
@@ -336,9 +333,17 @@ export function Navbar() {
             <button className="px-3 py-2 text-sm font-semibold text-white bg-transparent border border-cyan-400 rounded-xl hover:bg-cyan-400 hover:text-black">
               Login
             </button>
-
+            <div className="flex lg:ml-4">
+              <CountrySelect />
+            </div>
           </div>
+
         </div>
+
+        {/* Mobile View Country Select */}
+        {/* <div className="lg:hidden">
+          <CountrySelect />
+        </div> */}
       </div>
     </header>
   );
@@ -347,7 +352,8 @@ export function Navbar() {
 
 
 
-// import { Popover, Transition, } from "@headlessui/react";
+
+// import { Popover, Transition } from "@headlessui/react";
 // import { Globe, Menu, X } from "lucide-react";
 // import { Fragment, ReactNode, useEffect, useState } from "react";
 // import { Link, useLocation } from "react-router-dom";
@@ -358,7 +364,6 @@ export function Navbar() {
 //   SelectTrigger,
 //   SelectValue,
 // } from "./ui/select"; // Assuming you have a custom Select component
-
 
 // // NavItem Component
 // function NavItem({
@@ -377,9 +382,8 @@ export function Navbar() {
 //       <a
 //         href={href}
 //         onClick={onClick}
-//         className={`block px-2 py-2 text-base font-bold transition ${
-//           isActive ? "text-cyan-400" : "text-white hover:text-cyan-400"
-//         }`}
+//         className={`block px-2 py-2 text-base font-bold transition ${isActive ? "text-cyan-400" : "text-white hover:text-cyan-400"
+//           }`}
 //       >
 //         {children}
 //       </a>
@@ -507,7 +511,7 @@ export function Navbar() {
 //               </div>
 //               <nav className="mt-4 tracking-wide">
 //                 <ul className="space-y-4 tracking-wide">
-//                   <NavItem href="/" isActive={false} onClick={() => {}}>
+//                   <NavItem href="/" isActive={false} onClick={() => { }}>
 //                     Home
 //                   </NavItem>
 //                   <NavItem
@@ -524,13 +528,13 @@ export function Navbar() {
 //                   >
 //                     Prive
 //                   </NavItem>
-//                   <NavItem href="/iris" isActive={false} onClick={() => {}}>
+//                   <NavItem href="/iris" isActive={false} onClick={() => { }}>
 //                     IRIS
 //                   </NavItem>
 //                   <NavItem
 //                     href="/ethosphere"
 //                     isActive={false}
-//                     onClick={() => {}}
+//                     onClick={() => { }}
 //                   >
 //                     Ethosphere
 //                   </NavItem>
@@ -604,6 +608,7 @@ export function Navbar() {
 // }
 
 // // Main Navbar Component
+
 // export function Navbar() {
 //   useEffect(() => {
 //     const hash = window.location.hash;
@@ -636,19 +641,15 @@ export function Navbar() {
 //                   <svg
 //                     xmlns="http://www.w3.org/2000/svg"
 //                     className="h-6 w-6"
-//                     fill="none"
+//                     fill="white" /* Make the icon white */
 //                     viewBox="0 0 24 24"
-//                     stroke="currentColor"
+//                     stroke="none" /* Remove stroke for cleaner look */
 //                   >
-//                     <path
-//                       strokeLinecap="round"
-//                       strokeLinejoin="round"
-//                       strokeWidth="2"
-//                       d="M5.121 17.804A7.938 7.938 0 0112 16c1.739 0 3.33.555 4.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zM4 6h16"
-//                     />
+//                     <path d="M12 12c2.28 0 4-1.72 4-4s-1.72-4-4-4-4 1.72-4 4 1.72 4 4 4zm0 2c-3.31 0-10 1.67-10 5v1h20v-1c0-3.33-6.69-5-10-5z" />
 //                   </svg>
 //                 </div>
 //               </Popover.Button>
+
 //               <Transition
 //                 as={Fragment}
 //                 enter="transition ease-out duration-100"
@@ -658,13 +659,13 @@ export function Navbar() {
 //                 leaveFrom="opacity-100 scale-100"
 //                 leaveTo="opacity-0 scale-95"
 //               >
-//                 <Popover.Panel className="absolute right-0 mt-2 w-40 bg-black text-white rounded-lg shadow-lg">
-//                   <div className="flex flex-col">
-//                     <button className="px-4 py-2 text-sm hover:bg-cyan-400 hover:text-black">
-//                       Log In
+//                 <Popover.Panel className="absolute z-10 justify-center items-center -mr-6 mt-2 w-24 h-14 bg-black border border-cyan-400 rounded-2xl shadow-lg top-full right-0">
+//                   <div className="flex flex-col py-2">
+//                     <button className="flex items-center px-4 text-sm text-white hover:bg-cyan-400 hover:text-black">
+//                       <span className="ml-2">Log In</span>
 //                     </button>
-//                     <button className="px-4 py-2 text-sm hover:bg-cyan-400 hover:text-black">
-//                       Sign Up
+//                     <button className="flex items-center px-4 py-1 text-sm text-white hover:bg-cyan-400 hover:text-black">
+//                       <span className="ml-2">Sign Up</span>
 //                     </button>
 //                   </div>
 //                 </Popover.Panel>
@@ -672,8 +673,7 @@ export function Navbar() {
 //             </Popover>
 //           </div>
 
-//           {/* Country Select Dropdown */}
-//           <div className="flex order-1 lg:order-3 lg:ml-4">
+//           <div className="flex lg:ml-4">
 //             <CountrySelect />
 //           </div>
 
@@ -683,16 +683,18 @@ export function Navbar() {
 //           </div>
 
 //           {/* Sign Up & Login for Desktop */}
-//           <div className="hidden lg:flex space-x-2 order-2 ">
+//           <div className="hidden lg:flex space-x-2 order-2">
 //             <button className="px-3 py-2 text-sm font-semibold text-white bg-cyan-400 rounded-xl whitespace-nowrap hover:opacity-90">
 //               Sign Up
 //             </button>
 //             <button className="px-3 py-2 text-sm font-semibold text-white bg-transparent border border-cyan-400 rounded-xl hover:bg-cyan-400 hover:text-black">
 //               Login
 //             </button>
+
 //           </div>
 //         </div>
 //       </div>
 //     </header>
 //   );
 // }
+
