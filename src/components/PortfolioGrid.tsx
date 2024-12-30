@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import { useKeenSlider, KeenSliderInstance } from "keen-slider/react";
 import "keen-slider/keen-slider.min.css";
+import { KeenSliderInstance, useKeenSlider } from "keen-slider/react";
+import React, { useState } from "react";
 import { PortfolioCard } from "./PortfolioCard";
 
 // Extend KeenSliderInstance to include custom autoplay methods
@@ -123,12 +123,12 @@ export const PortfolioGrid: React.FC = () => {
   return (
     <div className="flex flex-col items-center py-20 bg-black text-white">
       {/* Section Header */}
-      <h1 className="mb-5 text-center font-poppins tracking-wide leading-8 text-3xl pb-1 sm:text-4xl lg:text-4xl">
-        <span className="text-white">Nuqi</span>{" "}
-        <span className="text-white">Global</span>{" "}
-        <span className="text-white">CEP</span>{" "}
-        <span className="text-cyan-500">(Curated Equity Portfolios)</span>
-      </h1>
+      <h6 className="mb-5 text-center  font-poppins tracking-wide leading-9 text-3xl pb-1 sm:text-3xl font-medium lg:text-3xl">
+        <span className="text-white text-3xl">Nuqi</span>{" "}
+        <span className="text-white text-3xl">Global</span>{" "}
+        {/* <span className="text-white">CEP</span>{" "} */}
+        <span className="text-cyan-500 text-3xl">Curated Equity Portfolios (CEP)</span>
+      </h6>
 
       <p className="max-w-3xl text-center font-poppins tracking-wide leading-6 lg:text-lg text-[#b3b3b3] mb-2">
         At NUQI, our team of seasoned investment professionals crafts a diverse

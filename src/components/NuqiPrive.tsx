@@ -7,10 +7,7 @@ export const NuqiPrive: React.FC = () => {
       title="Prive"
       highlightedText="Nuqi"
       imageSrc="/priveeeeee 4.png"
-      description="At NUQI Prive, we understand that managing wealth is more than just numbers—it’s about 
-                  preserving and growing legacies while addressing unique financial aspirations. As our dedicated 
-                  asset management division, NUQI Prive caters exclusively to Ultra-High Net Worth Individuals 
-                (UHNI) with bespoke services that reflect our commitment to excellence and discretion."
+      description="Navigating Your Financial Voyage With Distinction Bespoke Wealth Management Solutioris Preserving and growing your legacy, with a focus on your values."
     />
   );
 };

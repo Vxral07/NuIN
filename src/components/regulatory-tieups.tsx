@@ -19,13 +19,13 @@ const RegulatoryTieups = () => {
       <div className="flex flex-col bg-[#0d0d0d] rounded-3xl justify-between items-center w-full">
         <div className="flex flex-col justify-between items-center w-full">
           <div className="flex flex-col gap-4 mb-16">
-            <h1 className="text-center pb-5 mt-10 font-medium tracking-wide leading-6 font-poppins text-4xl sm:text-4xl lg:text-4xl">
-              <span className="text-white">Building</span>{" "}
-              <span className="text-cyan-500">trust</span>{" "}
-              <span className="text-cyan-500">through</span>{" "}
-              <span className="text-cyan-500">collaboration</span>
+            <h1 className="text-center pb-5 mt-10  tracking-wide leading-6 font-poppins text-3xl font-medium sm:text-3xl lg:text-3xl">
+              <span className="text-white text-3xl font-medium">Building</span>{" "}
+              <span className="text-cyan-500 text-3xl font-medium">trust</span>{" "}
+              <span className="text-cyan-500 text-3xl font-medium">through</span>{" "}
+              <span className="text-cyan-500 text-3xl font-medium">collaboration</span>
             </h1>
-            <p className="text-center text-white leading-6 tracking-wide font-poppins">
+            <p className="text-center text-white text-sm leading-6 tracking-wide font-poppins">
               Our collaborations with esteemed financial institutions and regulatory authorities underscore our unwavering commitment to security and responsible financial practices, providing a trusted and reliable environment for managing your investments.
             </p>
           </div>

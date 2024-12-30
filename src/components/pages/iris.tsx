@@ -273,7 +273,7 @@ const Iris = () => {
             IRIS
           </h2> */}
           <div className="h-[10rem] w-full  flex flex-col items-center justify-center overflow-hidden rounded-md">
-            <h2 className="text-3xl font-poppins pb-5 font-medium leading-tight tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-4xl lg:text-5xl">
+            <h2 className="text-3xl -mt-16 font-poppins pb-5 font-medium leading-tight tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-3xl lg:text-5xl">
               IRIS
             </h2>
             <div className="w-[40rem] h-10 relative">
@@ -296,16 +296,16 @@ const Iris = () => {
               <div className="absolute inset-0 w-full h-full  [mask-image:radial-gradient(350px_200px_at_top,transparent_20%,white)]"></div>
             </div>
           </div>
-          <p className=" max-w-full mt-4  font-poppins text-lg leading-relaxed text-secondary text-white">
+          <p className=" max-w-full -mt-16  font-poppins text-lg leading-relaxed text-secondary text-white">
             Invest ethically with IRIS
           </p>
         </div>
       </div>
       
 
-      <div className="flex w-full justify-center items-center">
-        <div className=" self-center  font-poppins lg:max-w-screen-xl border-2 border-cyan-400 bg-black p-6 rounded-3xl sm:mx-6 lg:mx-36 mt-10 hover:shadow-[inset_0_0_20px_10px_rgba(0,255,255,0.7)] transition-shadow duration-300 ease-in-out">
-          <h4 className="text-left sm:text-center lg:text-left ml-7 text-lg font-bold leading-tight text-white sm:text-2xl lg:text-xl mt-2">
+      <div className="flex w-full justify-center  items-center">
+        <div className=" self-center mx-4  font-poppins lg:max-w-screen-xl border-2 border-cyan-400 bg-black p-6 rounded-3xl  lg:mx-36 mt-10 hover:shadow-[inset_0_0_20px_10px_rgba(0,255,255,0.7)] transition-shadow duration-300 ease-in-out">
+          <h4 className="text-left sm:text-center lg:text-left ml-7 text-xl font-medium leading-tight text-white sm:text-sxl lg:text-xl mt-2">
             Most Active
           </h4>
           <p className="max-w-full font-poppins mt-3 text-base leading-relaxed text-gray-300 sm:text-center lg:text-left sm:text-lg lg:text-base px-4">

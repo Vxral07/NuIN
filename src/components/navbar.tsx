@@ -326,7 +326,7 @@ export function Navbar() {
           </div>
 
           {/* Sign Up & Login for Desktop */}
-          <div className="hidden lg:flex space-x-2 order-2">
+          <div className="hidden lg:flex space-x-4 order-2">
             <button className="px-3 py-2 text-sm font-semibold text-white bg-cyan-400 rounded-xl whitespace-nowrap hover:opacity-90">
               Sign Up
             </button>

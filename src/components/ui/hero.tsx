@@ -23,19 +23,19 @@ const Hero = () => {
           ]}
         >
           <CarouselContent className="h-[4.5rem] justify-items-center">
-            <CarouselItem className="text-2xl font-poppins font-medium leading-tight sm:text-3xl lg:text-4xl text-transparent text-cyan-500 bg-black">
+            <CarouselItem className="text-2xl font-poppins font-medium leading-tight sm:text-3xl lg:text-3xl text-transparent text-cyan-500 bg-black">
               Stocks
             </CarouselItem>
-            <CarouselItem className="text-2xl font-poppins font-medium leading-tight sm:text-3xl lg:text-4xl text-transparent text-cyan-500 bg-black">
+            <CarouselItem className="text-3xl font-poppins font-medium leading-tight sm:text-3xl lg:text-3xl text-transparent text-cyan-500 bg-black">
               Derivatives
             </CarouselItem>
-            <CarouselItem className="text-2xl font-poppins font-medium leading-tight sm:text-3xl lg:text-4xl text-transparent text-cyan-500 bg-black">
+            <CarouselItem className="text-3xl font-poppins font-medium leading-tight sm:text-3xl lg:text-3xl text-transparent text-cyan-500 bg-black">
               Mutual Funds
             </CarouselItem>
-            <CarouselItem className="text-2xl font-poppins font-medium leading-tight sm:text-3xl lg:text-4xl text-transparent text-cyan-500 bg-black">
+            <CarouselItem className="text-3xl font-poppins font-medium leading-tight sm:text-3xl lg:text-3xl text-transparent text-cyan-500 bg-black">
               ETFs
             </CarouselItem>
-            <CarouselItem className="text-2xl font-poppins font-medium leading-tight sm:text-3xl lg:text-4xl text-transparent text-cyan-500 bg-black">
+            <CarouselItem className="text-3xl font-poppins font-medium leading-tight sm:text-3xl lg:text-3xl text-transparent text-cyan-500 bg-black">
               Bonds
             </CarouselItem>
           </CarouselContent>

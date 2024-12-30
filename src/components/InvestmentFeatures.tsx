@@ -52,7 +52,7 @@ export const InvestmentFeatures: React.FC = () => {
         </div>
 
         {/* Feature Cards Section */}
-        <div className="flex flex-col gap-8 lg:gap-8">
+        <div className="flex flex-col gap-8 lg:gap-7">
           {features.map((feature, index) => (
             <FeatureCard
               key={index}

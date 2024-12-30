@@ -36,7 +36,7 @@ export const News: React.FC = () => {
   return (
     <div className="flex flex-col mx-5 lg:mx-28 items-center justify-center mt-10">
       {/* Header */}
-      <h2 className="text-3xl text-cyan-400 font-poppins leading-6 tracking-wide mb-10 text-center lg:text-4xl">
+      <h2 className="text-3xl text-cyan-400  font-medium font-poppins leading-6 tracking-wide mb-10 text-center lg:text-3xl">
         <span className="text-white">Nuqi</span> in the News
       </h2>
 

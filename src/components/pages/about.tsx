@@ -7,9 +7,9 @@ const AboutPage = () => {
     return (
         <section className="py-10 sm:py-16 lg:py-20">
             <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-                <div className="h-[10rem] w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
+                <div className="h-[10rem] w-full -mt-24 flex flex-col items-center justify-center overflow-hidden rounded-md">
                     <h2 className="text-3xl pb-5 font-poppins font-medium leading-tight tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-4xl lg:text-5xl">
-                        About Us
+                       <span className="text-white text-5xl font-poppins font-medium"> About</span> Us
                     </h2>
                     <div className="w-[40rem] h-10 relative">
                         {/* Gradients */}
@@ -33,12 +33,12 @@ const AboutPage = () => {
                 </div>
 
                 <div className="max-w-3xl mx-auto text-center">
-                    <p className="text-white font-poppins max-w-2xl mx-auto mt-4 text-base sm:text-lg lg:text-xl leading-relaxed text-secondary">
+                    <p className="text-white font-poppins max-w-2xl mx-auto -mt-6 text-base sm:text-lg lg:text-xl leading-relaxed text-secondary">
                         Nuqi boasts top-tier financial experts and elite technology talent, striving to execute proven investment tactics and craft a bespoke investment journey for you. Our skilled team, with decades of experience from esteemed institutions like Citibank, Standard Chartered, Credit Suisse, Dubai Islamic Bank, Microsoft, IBM, ICICI Bank, and EY, is committed to your financial growth.
                     </p>
                 </div>
 
-                <h2 className="text-cyan-400 font-poppins text-4xl text-center mt-8 font-bold leading-tight">
+                <h2 className="text-white font-poppins text-3xl text-center mt-8 font-bold leading-tight">
                     Meet Our Team
                 </h2>
 
@@ -184,7 +184,7 @@ const AboutPage = () => {
                                 <h6 className="text-lg sm:text-xl lg:text-2xl font-semibold">
                                     <strong>Sohail Shafiq</strong>
                                     <br />
-                                    Islamic Banking Specialist
+                                    Global Head of Ethical Finance
                                 </h6>
                                 <img
                                     src="/team/ab-7.jpeg"

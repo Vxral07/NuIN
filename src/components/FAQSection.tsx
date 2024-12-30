@@ -4,30 +4,21 @@ import { FAQCard } from "./FAQCard";
 export const FAQSection: React.FC = () => {
   return (
     <div className="text-white -mt-5 px-5">
-      <h1 className="text-center pt-16 text-4xl font-poppins text-cyan-500 mb-7">
+      <h1 className="text-center pt-16 text-3xl font-medium font-poppins text-cyan-500 mb-7">
         FAQs
       </h1>
 
       {/* What is Nuqi Section */}
       <div className="p-8 bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d] max-w-[1100px] border-[#44464a] mx-auto border rounded-[61px] shadow-lg text-center mb-8 hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff] transition-all duration-300 ease-in-out">
-        <h2 className="text-2xl font-poppins mb-4 text-white">
+        <h2 className="text-lg font-semibold font-poppins mb-4 text-white">
           What is Nuqi?
         </h2>
         <p className="text-sm font-poppins leading-6 text-gray-300">
-          NUQI is an independent advisory platform, licensed by SEBI in India
-          aimed at both first-time investors starting their <br /> investment
-          journey and seasoned investors looking to diversify their portfolio.
-          NUQI deploys its in-house expertise to create <br /> portfolios
-          tailored for specific investor profiles / Investment Themes. NUQI has
-          a team of qualified Investment Managers and <br /> select financial
-          bodies to independently screen the Universe of Ethical Investments
-          with both Domestic and International <br /> market exposures. The
-          platform uses multiple criteria to make a selection of Stocks, ETFs,
-          Mutual funds, Sukuks etc. <br /> with Social Equity, Ethical
-          operations, good Governance, and Environment protection as core
-          investment themes which are
-          <br />
-          considered as key elements aimed towards Sustainable Growth.
+          NUQI is an independent advisory platform, licensed by DFSA in UAE aimed at both first-time investors starting their investment journey and seasoned investors looking to diversify their portfolio.
+          NUQI deploys its in-house expertise to create portfolios tailored for specific Investor profile/ Investment Themes. NUQI has a team of qualified Investment Advisors  and select financial bodies to independently screen the Universe of Ethical investments with both Domestic and International market exposures. The platform uses multiple criteria to make a selection of Stocks, ETFs, Mutual funds, Sukuks etc. with Social Equity, Ethical operations, good Governance, and Environment protection as core investment themes which are considered as key elements aimed towards Sustainable Growth.
+          NUQI is an independent advisory platform, licensed by DFSA in UAE aimed at both first-time investors starting their investment journey and seasoned investors looking to diversify their portfolio.
+          NUQI deploys its in-house expertise to create portfolios tailored for specific Investor profile/ Investment Themes. NUQI has a team of qualified Investment Advisors  and select financial bodies to independently screen the Universe of Ethical investments with both Domestic and International market exposures. The platform uses multiple criteria to make a selection of Stocks, ETFs, Mutual funds, Sukuks etc. with Social Equity, Ethical operations, good Governance, and Environment protection as core investment themes which are considered as key elements aimed towards Sustainable Growth.
+
         </p>
       </div>
 
@@ -120,7 +111,7 @@ export const FAQSection: React.FC = () => {
 
         <FAQCard
           title="How Does it work?"
-          description="NUQI mobile app is soon available for Android and iOS devices and is free to download. You can register for a free account and browse the how-to-use instructions, market news, featured portfolios – all in the app itself. Once you have filled out the personal assessment questionnaire, the NUQI platform will assign an investor profile to you based on your risk appetite and recommend investment instruments accordingly. You can always change your risk profile by re-taking the questionnaire and NUQI will once again offer you a list of new recommendations suited to you"
+          description="NUQI mobile app is soon available for Android and iOS devices and is free to download. You can register for a free account and browse the how-to-use instructions, market news, featured portfolios – all in the app itself. Once you have filled out the personal assessment questionnaire, the NUQI platform will assign an investor profile to you based on your risk appetite and recommend investment instruments accordingly. You can always change your risk profile by re-taking the questionnaire and NUQI will once again offer you a list of new recommendations suited to you."
           customStyles="col-span-1 lg:col-span-1 lg:row-span-2 ml-2 lg:ml-0 min-h-[200px] lg:h-[450px] border border-solid border-white border-opacity-40 rounded-[61px] max-md:mr-2 "
         />
 

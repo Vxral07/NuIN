@@ -66,7 +66,7 @@ const Ethosphere = () => {
   return (
     <div className="max-w-screen">
       <div className="h-[10rem] w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
-        <h2 className="text-3xl pb-5 font-poppins font-medium leading-tight tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-4xl lg:text-5xl">
+        <h2 className="text-3xl pb-5  -mt-16 font-poppins font-medium leading-tight tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-3xl lg:text-5xl">
           Ethosphere
         </h2>
         <div className="w-[40rem] h-10 relative">
