@@ -8,8 +8,8 @@ const AboutPage = () => {
         <section className="py-10 sm:py-16 lg:py-20">
             <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
                 <div className="h-[10rem] w-full -mt-24 flex flex-col items-center justify-center overflow-hidden rounded-md">
-                    <h2 className="text-3xl pb-5 font-poppins font-medium leading-tight tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-4xl lg:text-5xl">
-                       <span className="text-white text-5xl font-poppins font-medium"> About</span> Us
+                    <h2 className="text-5xl pb-5 font-poppins font-medium leading-tight tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-5xl lg:text-5xl">
+                       <span className="text-white text-5xl font-poppins font-medium"> About</span>gUs
                     </h2>
                     <div className="w-[40rem] h-10 relative">
                         {/* Gradients */}
