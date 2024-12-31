@@ -1,12 +1,12 @@
+import { globalBasketsData } from "@/lib/utils";
+import { PortfolioCardProps } from "@/types";
+import { AnimatePresence, motion } from "framer-motion";
 import React, { useEffect, useState } from "react";
 import ReactDOM from "react-dom"; // Import ReactDOM for portals
-import { AnimatePresence, motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
-import { PortfolioCardProps } from "@/types";
 import { LearnMoreButton } from "./LearnMoreButton";
 import Graph from "./trading/graph";
 import { ScrollArea } from "./ui/scroll-area";
-import { globalBasketsData } from "@/lib/utils";
 
 const globalApi = [11, 60, -1, -1];
 
