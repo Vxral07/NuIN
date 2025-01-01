@@ -45,7 +45,7 @@ const Partnership = () => {
                     <p className="mb-6 text-gray-300">
                         <strong className="font-bold text-white">Our Current Partnerships:</strong> <br /><br />
                         <strong className="font-bold text-white">Global Ethical Finance Initiative (GEFI)</strong><br /><br />
-                        <span className="text-cyan-400">NUQI</span>proudly partnered with GEFI to participate in events leading up to COP28 in the UAE and the Climate Summit in Edinburgh. Our association with GEFI emphasizes creating value in underserved areas across Africa, India, and the UAE. Together, we strive to promote ethical finance solutions that address pressing global challenges. Learn more about GEFI (Hyperlinked to [GEFI website] <span className="text-cyan-400">(https://www.globalethicalfinance.org/)</span> ).
+                        <span className="text-cyan-400">NUQI</span> proudly partnered with GEFI to participate in events leading up to COP28 in the UAE and the Climate Summit in Edinburgh. Our association with GEFI emphasizes creating value in underserved areas across Africa, India, and the UAE. Together, we strive to promote ethical finance solutions that address pressing global challenges. Learn more about GEFI (Hyperlinked to [GEFI website] <span className="text-cyan-400">(https://www.globalethicalfinance.org/)</span> ).
                     </p>
                     <p className="mb-6 text-gray-300">
                         Capitalised terms not defined in these Terms of Use shall have the same meaning attributed to them in the relevant Rules of the DIFC.

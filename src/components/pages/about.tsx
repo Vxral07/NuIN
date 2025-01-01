@@ -93,7 +93,7 @@ const AboutPage = () => {
                                         <span className="mr-36 whitespace-nowrap">Co-Founder & COO</span>
                                     </h6><br />
                                     <p className="text-lg text-left">
-                                        23 years of Global Banking Experience, MBA in marketing, Alternative Investment from Harvard Business School & Climate Finance from CFA Institute. Has been actively associated with India / GCC / Africa and Southeast Asian financial markets.
+                                        23 years of Global Banking Experience, MBA in marketing, Alternative Investment from <br/> Harvard Business School & Climate Finance from CFA Institute. Has <br/>been actively associated with India <br/>/ GCC / Africa and Southeast Asian financial markets.
                                     </p>
                                 </div>
                             </div>
@@ -121,7 +121,7 @@ const AboutPage = () => {
                                         <span className="mr-44 whitespace-nowrap">Head of Marketing</span>
                                     </h6><br />
                                     <p className="text-lg text-left">
-                                        Advertising and Marketing lead with focused digital ecosystem marketing experience across AMEA regions. Statistics graduate with over 25 years of industry experience.
+                                        Advertising and Marketing lead with focused digital ecosystem   marketin<br/>g experience across AMEA regions. Statistics graduate with over 25<br/> years of industry experience.
                                     </p>
                                 </div>
                             </div>
@@ -149,7 +149,7 @@ const AboutPage = () => {
                                         <span className="mr-36 whitespace-nowrap">Head of Technology</span>
                                     </h6><br />
                                     <p className="text-lg text-left">
-                                        10+ Years experience in IT Digital Transformation in Saudi Arabia, UAE & India. Certified Project Management Professional (PMP) and Oracle Certified Programmer (OCP) to lead Product Implementation.
+                                        10+ Years experience in IT Digital Transformation in Saudi Arabia,<br/>UAE  & India. Certified Project <br/>Management Professional (PMP)<br/> and Oracle Certified Programmer <br/>(OCP) to lead Product Implementation.
                                     </p>
                                 </div>
                             </div>
