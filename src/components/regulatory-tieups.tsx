@@ -26,7 +26,8 @@ const RegulatoryTieups = () => {
               <span className="text-cyan-500 text-3xl font-medium">collaboration</span>
             </h1>
             <p className="text-center text-white text-sm leading-6 tracking-wide font-poppins">
-              Our collaborations with esteemed financial institutions and regulatory authorities underscore our unwavering commitment to security and responsible financial practices, providing a trusted and reliable environment for managing your investments.
+              Our collaborations with esteemed financial institutions and regulatory authorities underscore our <br/> unwavering commitment to security and responsible financial practices, providing a <br/>
+              trusted and reliable environment for managing your investments.
             </p>
           </div>
 

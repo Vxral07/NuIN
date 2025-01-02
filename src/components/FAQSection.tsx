@@ -4,8 +4,8 @@ import { FAQCard } from "./FAQCard";
 export const FAQSection: React.FC = () => {
   return (
     <div className="text-white mt-4 px-5">
-      <h1 className="text-center pt-16 text-3xl font-medium font-poppins text-cyan-500 mb-7">
-        FAQs
+      <h1 className="text-center pt-32 text-3xl font-medium font-poppins text-cyan-500 mb-7">
+      <span className="text-white ">Frequently Asked Questions </span>  (FAQs)
       </h1>
 
       {/* What is Nuqi Section */}

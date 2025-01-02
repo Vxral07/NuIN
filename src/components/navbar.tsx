@@ -64,7 +64,7 @@ function DesktopNavigation() {
 
   return (
     <nav className="hidden md:flex tracking-wide font-poppins">
-      <ul className="flex items-center tracking-wider text-white text-[26px]">
+      <ul className="flex items-center -space-x-4 tracking-wider text-white text-[26px]">
         <NavItem
           href="/"
           isActive={activeTab === "/" || activeTab === "/#"}
@@ -207,7 +207,7 @@ function CountrySelect() {
           }
         }}
       >
-        <SelectTrigger className="w-12 bg-black text-white border border-cyan-400 rounded-3xl hover:bg-cyan-400 hover:text-black transition-all duration-200">
+        <SelectTrigger className="w-full bg-black text-white border border-cyan-400 rounded-3xl hover:bg-cyan-400 hover:text-black transition-all duration-200">
           <SelectValue>
             <Globe className="text-white" />
           </SelectValue>
@@ -327,7 +327,7 @@ export function Navbar() {
 
           {/* Sign Up & Login for Desktop */}
           <div className="hidden lg:flex space-x-4 order-2">
-            <button className="px-3 py-2 text-sm font-semibold text-white bg-cyan-400 rounded-xl whitespace-nowrap hover:opacity-90">
+            <button className="px-3 py-2 text-sm font-semibold text-black bg-cyan-400 rounded-xl whitespace-nowrap hover:text-black">
               Sign Up
             </button>
             <button className="px-3 py-2 text-sm font-semibold text-white bg-transparent border border-cyan-400 rounded-xl hover:bg-cyan-400 hover:text-black">

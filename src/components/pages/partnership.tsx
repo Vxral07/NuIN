@@ -43,7 +43,7 @@ const Partnership = () => {
                 </div>
                 <div className="text-base leading-relaxed">
                     <p className="mb-6 text-gray-300">
-                        <p className="font-bold text-xl text-white">Our Current Partnerships:</p> <br /><br />
+                        <p className="font-bold text-xl text-white">Our Current Partnerships:</p> <br />
                         <p className="font-bold text-xl text-white">Global Ethical Finance Initiative (GEFI)</p>
                         <span className="text-cyan-400">NUQI</span> proudly partnered with GEFI to participate in events leading up to COP28 in the UAE and the Climate Summit in Edinburgh. Our association with GEFI emphasizes creating value in underserved areas across Africa, India, and the UAE. Together, we strive to promote ethical finance solutions that address pressing global challenges. Learn more about GEFI (Hyperlinked to [GEFI website] <span className="text-cyan-400">(https://www.globalethicalfinance.org/)</span> ).
                     </p>
@@ -51,7 +51,7 @@ const Partnership = () => {
                         Capitalised terms not defined in these Terms of Use shall have the same meaning attributed to them in the relevant Rules of the DIFC.
                     </p>
                     <p className="mb-6 text-gray-300">
-                        <p className="font-bold text-xl text-white">IFA Sport</p><br />
+                        <p className="font-bold text-xl text-white">IFA Sport</p>
                         In collaboration with IFA Sport, a decade-old academy in the UAE, NUQI is making strides in shaping the future of over 1,000 families. By integrating financial literacy education into their youth programs, we aim to empower youngsters at a formative age, equipping them with the tools they need for a secure and informed financial future. Learn more about IFA Sport (Hyperlinked to [IFA website]   ) <span className="text-cyan-400">(https://ifasport.com/)</span>.
                     </p>
                 </div>

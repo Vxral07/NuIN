@@ -1,3 +1,5 @@
+
+
 import { LinkedinIcon } from "lucide-react";
 import { Link } from "react-router-dom";
 import "../../index.css";
@@ -44,7 +46,7 @@ const AboutPage = () => {
                 <div className="flex text-white font-poppins flex-col justify-center items-center mt-16">
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-2 gap-8">
                         {/* Team Member 1 */}
-                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4">
+                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4 bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d]  hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff]  transition-all duration-300 ease-in-out">
                             <div className="leftWrp text-center">
                                 <img
                                     src="/team/ab-1.png"
@@ -72,7 +74,7 @@ const AboutPage = () => {
                         </div>
 
                         {/* Team Member 2 */}
-                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4">
+                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4 bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d]  hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff]  transition-all duration-300 ease-in-out">
                             <div className="leftWrp text-center">
                                 <img
                                     src="/team/ab-2.png"
@@ -100,7 +102,7 @@ const AboutPage = () => {
                         </div>
 
                         {/* Team Member 3 */}
-                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4">
+                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4 bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d]  hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff]  transition-all duration-300 ease-in-out">
                             <div className="leftWrp text-center">
                                 <img
                                     src="/team/ab-4.png"
@@ -128,7 +130,7 @@ const AboutPage = () => {
                         </div>
 
                         {/* Team Member 4 */}
-                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4">
+                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4 bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d]  hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff]  transition-all duration-300 ease-in-out">
                             <div className="leftWrp text-center">
                                 <img
                                     src="/team/ab-5.png"
@@ -156,7 +158,7 @@ const AboutPage = () => {
                         </div>
 
                         {/* Team Member 5 */}
-                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4">
+                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4 bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d]  hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff]  transition-all duration-300 ease-in-out">
                             <div className="leftWrp text-center">
                                 <img
                                     src="/team/ab-6.png"
@@ -184,7 +186,7 @@ const AboutPage = () => {
                         </div>
 
                         {/* Team Member 6 */}
-                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4">
+                        <div className="abtWrap flex flex-col bg-stone-950 md:flex-row gap-4 justify-center items-center p-4 bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d]  hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff]  transition-all duration-300 ease-in-out">
                             <div className="leftWrp text-center">
                                 <img
                                     src="/team/ab-7.jpeg"

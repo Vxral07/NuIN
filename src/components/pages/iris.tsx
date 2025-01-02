@@ -304,8 +304,8 @@ const Iris = () => {
       
 
       <div className="flex w-full justify-center  items-center">
-        <div className=" self-center mx-4  font-poppins lg:max-w-screen-xl border-2 border-cyan-400 bg-black p-6 rounded-3xl  lg:mx-36 mt-10 hover:shadow-[inset_0_0_20px_10px_rgba(0,255,255,0.7)] transition-shadow duration-300 ease-in-out">
-          <h4 className="text-left sm:text-center lg:text-left ml-7 text-xl font-medium leading-tight text-white sm:text-sxl lg:text-xl mt-2">
+        <div className=" self-center mx-4  font-poppins lg:max-w-screen-xl border-2 border-cyan-400 bg-black p-6 rounded-3xl  lg:mx-36 mt-10 bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d]  hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff]  transition-all duration-300 ease-in-out">
+          <h4 className="text-left sm:text-center lg:text-left ml-4 text-xl font-medium leading-tight text-white sm:text-sxl lg:text-xl mt-2">
             Most Active
           </h4>
           <p className="max-w-full font-poppins mt-3 text-base leading-relaxed text-gray-300 sm:text-center lg:text-left sm:text-lg lg:text-base px-4">
