@@ -104,23 +104,21 @@ export const PortfolioCard: React.FC<
     <>
       {/* Card */}
       <div
-        className="flex flex-col items-center p-6 w-full max-w-[450px] h-[340px] bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d] text-cyan-400 border border-solid border-opacity-40 border-[#8a9299] rounded-[50px] shadow-lg hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff] transition-all duration-300 ease-in-out cursor-pointer"
+        className="flex flex-col items-center p-6 w-full max-w-[400px] h-[400px] bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d] text-cyan-400 border border-solid border-opacity-40 border-[#8a9299] rounded-[20px] shadow-lg hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff] transition-all duration-300 ease-in-out cursor-pointer"
         onClick={handleOpen}
       >
         {/* Video or GIF as Icon */}
-        {/* Video or GIF as Icon */}
-        {/* Video or GIF as Icon */}
-        <div className="flex items-center justify-center w-[60px] h-[60px] sm:w-[80px] sm:h-[80px] lg:w-[100px] lg:h-[100px] xl:w-[80px] xl:h-[80px] mb-4 overflow-hidden">
+        <div className="flex items-center justify-center w-[120px] h-[120px] mb-4 overflow-hidden rounded-full">
           {icon.endsWith(".gif") ? (
             <img
               src={icon}
               alt={`${title} GIF`}
-              className="w-full h-full object-contain"
+              className="w-[80px] h-[100px] object-contain"
             />
           ) : (
             <video
               src={icon}
-              className="w-full h-full object-contain"
+              className="w-[100px] h-[100px] object-contain"
               autoPlay
               loop
               muted
@@ -133,7 +131,7 @@ export const PortfolioCard: React.FC<
         <h3 className="text-xl font-poppins text-center mb-4">{title}</h3>
 
         {/* Description */}
-        <p className="text-sm text-center px-5 font-poppins text-white leading-relaxed flex-grow">
+        <p className="text-sm text-center px-4 font-poppins text-white leading-relaxed">
           {description}
         </p>
 
