@@ -127,21 +127,21 @@ export const PortfolioGrid: React.FC = () => {
       <div className="flex justify-center items-center gap-4 mt-4">
         <button
           onClick={handlePrev}
-          className={`w-10 h-10 bg-cyan-500 rounded-full flex items-center justify-center text-black shadow-lg hover:bg-gray-200 ${
+          className={`w-14 h-14 bg-cyan-500 rounded-full flex items-center justify-center text-black shadow-lg hover:bg-gray-200 ${
             isPrevDisabled ? "opacity-50 cursor-not-allowed" : ""
           }`}
           disabled={isPrevDisabled}
         >
-          ← {/* Left arrow */}
+          <span className="text-3xl font-bold">←</span> {/* Left arrow with bold and larger size */}
         </button>
         <button
           onClick={handleNext}
-          className={`w-10 h-10 bg-cyan-500 rounded-full flex items-center justify-center text-black shadow-lg hover:bg-gray-200 ${
+          className={`w-14 h-14 bg-cyan-500 rounded-full flex items-center justify-center text-black shadow-lg hover:bg-gray-200 ${
             isNextDisabled ? "opacity-50 cursor-not-allowed" : ""
           }`}
           disabled={isNextDisabled}
         >
-          → {/* Right arrow */}
+          <span className="text-3xl font-bold">→</span> {/* Right arrow with bold and larger size */}
         </button>
       </div>
     </div>

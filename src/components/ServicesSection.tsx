@@ -92,34 +92,33 @@ export const ServicesSection: React.FC = () => {
           {/* Previous Button */}
           <button
             ref={prevRef} // Attach ref for Swiper navigation
-            className={`sticky top-4 h-10 w-10 -mb-7 bg-cyan-400 hover:bg-white rounded-full flex items-center justify-center transition-colors duration-300 ${
+            className={`sticky top-4 h-14 w-14 -mb-7 bg-cyan-400 hover:bg-white rounded-full flex items-center justify-center transition-colors duration-300 ${
               isPrevDisabled ? "opacity-50 cursor-not-allowed" : ""
             }`}
             aria-label="Previous Slide"
             disabled={isPrevDisabled}
           >
             {/* Left Arrow Button (←) */}
-            <span className="text-black dark:text-neutral-900 text-lg">←</span>
+            <span className="text-black dark:text-neutral-900 text-3xl font-bold">←</span>
           </button>
 
           {/* Next Button */}
           <button
             ref={nextRef} // Attach ref for Swiper navigation
-            className={`sticky top-4 h-10 w-10 -mb-7 bg-cyan-400 hover:bg-white rounded-full flex items-center justify-center transition-colors duration-300 ${
+            className={`sticky top-4 h-14 w-14 -mb-7 bg-cyan-400 hover:bg-white rounded-full flex items-center justify-center transition-colors duration-300 ${
               isNextDisabled ? "opacity-50 cursor-not-allowed" : ""
             }`}
             aria-label="Next Slide"
             disabled={isNextDisabled}
           >
             {/* Right Arrow Button (→) */}
-            <span className="text-black dark:text-neutral-900 text-lg">→</span>
+            <span className="text-black dark:text-neutral-900 text-3xl font-bold">→</span>
           </button>
         </div>
       </div>
     </div>
   );
 };
-
 
 // import React, { useEffect, useRef } from "react";
 // import "swiper/css";

@@ -108,12 +108,14 @@ export const PortfolioCard: React.FC<
         onClick={handleOpen}
       >
         {/* Video or GIF as Icon */}
-        <div className="flex items-center justify-center w-[60px]  h-[120px] mb-4  overflow-hidden">
+        {/* Video or GIF as Icon */}
+        {/* Video or GIF as Icon */}
+        <div className="flex items-center justify-center w-[60px] h-[60px] sm:w-[80px] sm:h-[80px] lg:w-[100px] lg:h-[100px] xl:w-[80px] xl:h-[80px] mb-4 overflow-hidden">
           {icon.endsWith(".gif") ? (
             <img
               src={icon}
               alt={`${title} GIF`}
-              className="w-full bg-transparent h-full object-contain"
+              className="w-full h-full object-contain"
             />
           ) : (
             <video
@@ -146,7 +148,6 @@ export const PortfolioCard: React.FC<
     </>
   );
 };
-
 
 // import { globalBasketsData } from "@/lib/utils";
 // import { PortfolioCardProps } from "@/types";
