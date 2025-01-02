@@ -31,7 +31,7 @@ export const FeatureCard: React.FC<FeatureCardProps> = ({
           className="text-sm font-poppins text-gray-300 max-w-[70%] max-md:max-w-full"
           style={{
             display: "-webkit-box",
-            WebkitLineClamp: 4,
+            WebkitLineClamp: 5,
             WebkitBoxOrient: "vertical",
             overflow: "hidden",
           }}
