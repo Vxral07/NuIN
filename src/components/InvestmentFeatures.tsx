@@ -45,7 +45,7 @@ export const InvestmentFeatures: React.FC = () => {
         {/* Image Section */}
         <div className="flex justify-center items-center">
           <img
-            src="/home screen page_1.gif"
+            src="/homescreenpage-ezgif.com-video-to-gif-converter.gif"
             alt="Investment Features"
             className="h-auto w-full max-w-[650px] rounded-lg object-contain"
           />
