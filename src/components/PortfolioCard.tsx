@@ -108,7 +108,7 @@ export const PortfolioCard: React.FC<
         onClick={handleOpen}
       >
         {/* Video or GIF as Icon */}
-        <div className="flex items-center justify-center w-[70px] sm:w-[100px] h-[120px] mb-4  overflow-hidden">
+        <div className="flex items-center justify-center w-[60px]  h-[120px] mb-4  overflow-hidden">
           {icon.endsWith(".gif") ? (
             <img
               src={icon}
