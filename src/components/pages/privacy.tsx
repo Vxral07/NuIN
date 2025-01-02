@@ -66,15 +66,16 @@ const Privacy = () => {
           Links to other sites should not be taken as Nuqi’s endorsement or approval of such sites, the third parties named therein, or their products and services, nor is any liability assumed for incompatibility, non-suitability, viral infection or other destructive components on or from such sites.<br /><br />
           This is our TermsOfUse of legal liability. <br /><br />
           <p className="font-bold text-xl text-white">
-            3.2 TermsOfUse of Warranties </p>
+            3.2 Terms Of Use of Warranties </p>
 
           Your use of Nuqi's website, and the personal information you provide is at your sole discretion and risk. Nuqi's website and all materials, information, products and services included therein, are provided on an AS IS and AS AVAILABLE basis without any representations, warranties or conditions of any kind from Nuqi. Whether expressed or implied, and including without limitation implied representations, warranties or conditions of title, non-infringement, merchantability, fitness for a particular purpose, performance, durability, availability, timeliness, accuracy, or completeness, all of which are now disclaimed by Nuqi to the fullest extent permitted by law.<br /><br />
-
-          NUQI EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, RELATING TO NUQI'S WEBSITE, CONTENT, AND USER INFORMATION, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OF PROPRIETARY RIGHTS, COURSE OF DEALING, OR COURSE OF PERFORMANCE. NUQI DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO: <br /><br />
+          Nuqi expressly disclaims all warranties of any kind, whether express, implied, or statutory, relating to nuqi's website, content, and user information, including but not limited to the warranties of title, merchantability, fitness for a particular purpose, non-infringement of proprietary rights, course of dealing, or course of performance. Nuqi disclaims any warranties, express or implied, including but not limited to: <br /><br /> - The availability, security, accuracy, reliability, timeliness, and performance of nuqi's website, content, and/or user information.<br /> - That nuqi's website will be error-free or that any errors will be corrected.<br /> - That nuqi's website will be free from electronic viruses.<br /> - The performance of or accuracy, quality, currency, completeness, or usefulness of any information provided by nuqi on its website, including but not limited to information obtained through social media.<br /><br />
+          {/* NUQI EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, RELATING TO NUQI'S WEBSITE, CONTENT, AND USER INFORMATION, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OF PROPRIETARY RIGHTS, COURSE OF DEALING, OR COURSE OF PERFORMANCE. NUQI DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO: <br /><br />
           - THE AVAILABILITY, SECURITY, ACCURACY, RELIABILITY, TIMELINESS, AND PERFORMANCE OF NUQI'S WEBSITE, CONTENT, AND/OR USER INFORMATION.<br />
           - THAT NUQI'S WEBSITE WILL BE ERROR-FREE OR THAT ANY ERRORS WILL BE CORRECTED.<br />
           - THAT NUQI'S WEBSITE WILL BE FREE FROM ELECTRONIC VIRUSES.<br />
-          - THE PERFORMANCE OF OR ACCURACY, QUALITY, CURRENCY, COMPLETENESS, OR USEFULNESS OF ANY INFORMATION PROVIDED BY NUQI ON ITS WEBSITE, INCLUDING BUT NOT LIMITED TO INFORMATION OBTAINED THROUGH SOCIAL MEDIA.<br /><br />
+          - THE PERFORMANCE OF OR ACCURACY, QUALITY, CURRENCY, COMPLETENESS, OR USEFULNESS OF ANY INFORMATION PROVIDED BY NUQI ON ITS WEBSITE, INCLUDING BUT NOT LIMITED TO INFORMATION OBTAINED THROUGH SOCIAL MEDIA.<br /><br /> */}
+
 
           No advice or information, whether oral or written, obtained by you from Nuqi's website, shall create any warranty not expressly stated in this Terms of Use. If you choose to rely on such information, you do so solely at your own risk.<br /><br />
 
@@ -84,8 +85,8 @@ const Privacy = () => {
 
           <p className="font-bold text-xl text-white">  3.3 Limitation of Liability </p>
 
-          IN NO EVENT SHALL NUQI OR ANY OF ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU FOR ANY DAMAGES WHATSOEVER, INCLUDING WITHOUT LIMITATION INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF NUQI, CONTENT AND/OR USER INFORMATION, INCLUDING BUT NOT LIMITED TO THE QUALITY, ACCURACY, OR UTILITY OF THE INFORMATION PROVIDED AS PART OF OR THROUGH NUQI OR FOR ANY INVESTMENT DECISIONS MADE ON THE BASIS OF SUCH INFORMATION, WHETHER THE DAMAGES ARE FORESEEABLE AND WHETHER OR NOT NUQI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION AND IN NO EVENT SHALL NUQI'S CUMULATIVE LIABILITY TO YOU EXCEED U.S. AED250.<br /><br />
-
+          {/* IN NO EVENT SHALL NUQI OR ANY OF ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU FOR ANY DAMAGES WHATSOEVER, INCLUDING WITHOUT LIMITATION INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF NUQI, CONTENT AND/OR USER INFORMATION, INCLUDING BUT NOT LIMITED TO THE QUALITY, ACCURACY, OR UTILITY OF THE INFORMATION PROVIDED AS PART OF OR THROUGH NUQI OR FOR ANY INVESTMENT DECISIONS MADE ON THE BASIS OF SUCH INFORMATION, WHETHER THE DAMAGES ARE FORESEEABLE AND WHETHER OR NOT NUQI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION AND IN NO EVENT SHALL NUQI'S CUMULATIVE LIABILITY TO YOU EXCEED U.S. AED250.<br /><br /> */}
+          In no event shall nuqi or any of its officers, directors, employees, or agents be liable to you for any damages whatsoever, including without limitation indirect, incidental, special, punitive, or consequential damages, arising out of or in connection with your use of nuqi, content and/or user information, including but not limited to the quality, accuracy, or utility of the information provided as part of or through nuqi or for any investment decisions made on the basis of such information, whether the damages are foreseeable and whether or not nuqi has been advised of the possibility of such damages. The foregoing limitation of liability shall apply to the fullest extent permitted by law in the applicable jurisdiction and in no event shall nuqi's cumulative liability to you exceed U.S. AED250.<br /><br />
           Every effort has been made to ensure that the website's material is accurate at the time of publication. However, Nuqi will not under any circumstances be liable to you or any other person in any way for any loss or damages (direct, indirect, special, economic, incidental, consequential, punitive or exemplary, including without limitation loss of revenue, data, anticipated profits or lost business) in respect of the use of, or inability to use, or any reliance on, the website, any of its content or links (including without limitation any inaccuracies or viruses), or any web browser or other equipment.<br /><br />
 
           By accessing the website, you agree to indemnify and hold harmless Nuqi and its agents, suppliers and their respective directors, officers, and employees from and against all actions, proceedings, costs, claims, liabilities, damages, and expenses (including reasonable legal fees) arising from or in connection with a breach of these terms and conditions or the use of this website.<br /><br />
@@ -301,95 +302,8 @@ const Privacy = () => {
   };
 
   return (
-    // <section className="py-10 sm:py-16 text-white min-h-screen">
-    //   <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-    //     <div className="flex flex-col lg:flex-row gap-6">
-    //       {/* Left Side Navigation */}
-    //       <div className="lg:w-1/4 w-full p-4 rounded-lg shadow-lg">
-    //         <ul className="space-y-4">
-    //           <li>
-    //             <button
-    //               className={`block py-2 px-4 w-full text-left  rounded-3xl transition-colors duration-200 ${selectedPage === "terms"
-    //                 ? "bg-cyan-400 text-white font-semibold"
-    //                 : "hover:bg-cyan-400 text-white text-xl"
-    //                 }`}
-    //               onClick={() => setSelectedPage("terms")}
-    //             >
-    //               Terms of Use
-    //             </button>
-    //           </li>
-    //           <li>
-    //             <button
-    //               className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "termsConditions"
-    //                 ? "bg-cyan-400 text-white font-semibold"
-    //                 : "hover:bg-cyan-400 text-white text-xl"
-    //                 }`}
-    //               onClick={() => setSelectedPage("termsConditions")}
-    //             >
-    //               Terms & Conditions
-    //             </button>
-    //           </li>
-    //           <li>
-    //             <button
-    //               className={`block py-3 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "privacy"
-    //                 ? "bg-cyan-400 text-white font-semibold"
-    //                 : "hover:bg-cyan-400 text-white text-xl"
-    //                 }`}
-    //               onClick={() => setSelectedPage("privacy")}
-    //             >
-    //               Privacy Policy
-    //             </button>
-    //           </li>
 
-    //           <li>
-    //             <button
-    //               className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "disclaimer"
-    //                 ? "bg-cyan-400 text-white font-semibold"
-    //                 : "hover:bg-cyan-400  text-white text-xl"
-    //                 }`}
-    //               onClick={() => setSelectedPage("disclaimer")}
-    //             >
-    //               Disclaimer
-    //             </button>
-    //           </li>
-    //           <li>
-    //             <button
-    //               className={`block py-2 px-4 w-full text-left rounded-3xl  ${selectedPage === "cookie"
-    //                 ? "bg-cyan-400 text-white font-semibold"
-    //                 : "hover:bg-cyan-400 text-white text-xl "
-    //                 }`}
-    //               onClick={() => setSelectedPage("cookie text-black")}
-    //             >
-    //               Cookie Policy
-    //             </button>
-    //           </li>
-
-    //         </ul>
-    //       </div>
-
-    //       {/* Main Content */}
-    //       <div className="lg:w-3/4 w-full p-8 font-poppins rounded-lg shadow-lg ">
-    //         <div className="text-left">
-    //           <h2 className="text-3xl sm:text-4xl font-poppins font-medium leading-tight text-cyan-400 pb-6">
-    //             {selectedPage === "privacy"
-    //               ? "Privacy Policy"
-    //               : selectedPage === "terms"
-    //                 ? "Terms of Use"
-    //                 : selectedPage === "disclaimer"
-    //                   ? "Disclaimer"
-    //                   : selectedPage === "cookie"
-    //                     ? "Cookie Policy"
-    //                     : "Terms & Conditions"}
-    //           </h2>
-    //         </div>
-    //         <div className="mt-6  text-white text-base leading-relaxed">
-    //           {renderContent()}
-    //         </div>
-    //       </div>
-    //     </div>
-    //   </div>
-    // </section>
-    <section className="py-10 sm:py-16 text-white min-h-screen">
+    <section className="py-10 sm:py-16 -mt-24 text-white min-h-screen">
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="flex flex-col lg:flex-row gap-6">
           {/* Left Side Navigation */}
@@ -469,7 +383,7 @@ const Privacy = () => {
                         : "Terms & Conditions"}
               </h2>
             </div>
-            <div className="mt-6 text-white text-base leading-relaxed">
+            <div className="mt-1 text-white text-base leading-relaxed">
               {renderContent()}
             </div>
           </div>

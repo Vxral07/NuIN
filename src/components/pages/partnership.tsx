@@ -33,7 +33,7 @@ const Partnership = () => {
                         
                     </div>
                 </div>
-                <div className="text-base sm:text-lg lg:text-xl">
+                <div className="text-base leading-relaxed">
                     <p className="mb-6 text-gray-300">
                         At <span className="text-cyan-400">NUQI</span> Group, we firmly believe in the power of collaboration to drive meaningful change. Our partnerships reflect our commitment to creating lasting social impact by working with organizations and causes that align with our values of ethical growth and community development. With a strong focus on social responsibility and impactful initiatives, we aim to foster connections that uplift underserved communities and promote sustainability across various regions. These associations are not just collaborations; they are steps toward building a better tomorrow by making a tangible difference today.
                     </p>
@@ -41,17 +41,17 @@ const Partnership = () => {
                         Our social and impact philosophy is rooted in the belief that shared efforts lead to exponential outcomes. Whether it's through advancing financial literacy, supporting education, or driving climate-conscious efforts, our partnerships are a testament to our dedication to creating value for society at large. By uniting with like-minded organizations, we hope to extend our reach and amplify our impact in regions like Africa, India, and the UAE, where the need for innovative and inclusive solutions is most urgent.
                     </p>
                 </div>
-                <div className="text-base sm:text-lg lg:text-xl">
+                <div className="text-base leading-relaxed">
                     <p className="mb-6 text-gray-300">
-                        <strong className="font-bold text-white">Our Current Partnerships:</strong> <br /><br />
-                        <strong className="font-bold text-white">Global Ethical Finance Initiative (GEFI)</strong><br /><br />
+                        <p className="font-bold text-xl text-white">Our Current Partnerships:</p> <br /><br />
+                        <p className="font-bold text-xl text-white">Global Ethical Finance Initiative (GEFI)</p>
                         <span className="text-cyan-400">NUQI</span> proudly partnered with GEFI to participate in events leading up to COP28 in the UAE and the Climate Summit in Edinburgh. Our association with GEFI emphasizes creating value in underserved areas across Africa, India, and the UAE. Together, we strive to promote ethical finance solutions that address pressing global challenges. Learn more about GEFI (Hyperlinked to [GEFI website] <span className="text-cyan-400">(https://www.globalethicalfinance.org/)</span> ).
                     </p>
                     <p className="mb-6 text-gray-300">
                         Capitalised terms not defined in these Terms of Use shall have the same meaning attributed to them in the relevant Rules of the DIFC.
                     </p>
                     <p className="mb-6 text-gray-300">
-                        <strong className="font-bold text-white">IFA Sport</strong><br /><br />
+                        <p className="font-bold text-xl text-white">IFA Sport</p><br />
                         In collaboration with IFA Sport, a decade-old academy in the UAE, NUQI is making strides in shaping the future of over 1,000 families. By integrating financial literacy education into their youth programs, we aim to empower youngsters at a formative age, equipping them with the tools they need for a secure and informed financial future. Learn more about IFA Sport (Hyperlinked to [IFA website]   ) <span className="text-cyan-400">(https://ifasport.com/)</span>.
                     </p>
                 </div>
