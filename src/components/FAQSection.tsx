@@ -28,10 +28,10 @@ export const FAQSection: React.FC = () => {
         {/* FAQ Cards */}
         <FAQCard
           title="Why Invest through Nuqi?"
-          description="•Access diverse portfolio featuring 1000+ global stocks, along with ETFs, mutual funds, and sukuks.
-•	Access to global markets like US, UK, Europe and more.
-•	Access global and local ethical mutual funds for systematic investment planning and lumpsum.
-•	Pre-designed portfolios by qualified investment advisors for long term investing.
+          description="Access diverse portfolio featuring 1000+ global stocks, along with ETFs, mutual funds, and sukuks.
+	Access to global markets like US, UK, Europe and more.
+	Access global and local ethical mutual funds for systematic investment planning and lumpsum.
+	Pre-designed portfolios by qualified investment advisors for long term investing.
 "
           customStyles="col-span-1 max-sm:mx-2 lg:col-span-1 lg:row-span-2  min-h-[200px] lg:h-[450px] border border-solid border-white border-opacity-40 rounded-[61px]   "
         />
@@ -148,7 +148,7 @@ export const FAQSection: React.FC = () => {
         />
 
         <FAQCard
-          title="Does Nuqi collaborate with international brokers to offer a wider range of investment options??"
+          title="Does Nuqi collaborate with international brokers to offer a wider range of investment options?"
           description="YES collaborations is one of the pillars for NUQI Wealth to provide.."
           customStyles="min-h-[200px] lg:mr-0 mr-2 border border-solid border-white border-opacity-40 rounded-[50px] max-md:ml-2"
         />

@@ -113,12 +113,12 @@ export const PortfolioCard: React.FC<
             <img
               src={icon}
               alt={`${title} GIF`}
-              className="w-full h-full object-cover"
+              className="w-full bg-transparent h-full object-contain"
             />
           ) : (
             <video
               src={icon}
-              className="w-full h-full object-cover"
+              className="w-full h-full object-contain"
               autoPlay
               loop
               muted
