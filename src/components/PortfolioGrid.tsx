@@ -5,28 +5,28 @@ import { PortfolioCard } from "./PortfolioCard"; // Ensure this import is correc
 
 const portfolioData = [
   {
-    icon: "/entrenched.mp4",
+    icon: "/Entrenched enterprises.gif",
     title: "Entrenched Enterprises",
     description:
       "Entrenched Enterprises offers a selection of established companies with strong market presence and proven track records. These stocks represent stable and reliable investments in well-established industries.",
     basket: "global",
   },
   {
-    icon: "/APP_2.mp4",
+    icon: "/Income Generators.gif",
     title: "Income Generators",
     description:
       "Income Generators focuses on dividend-paying stocks known for their consistent income generation. These stocks provide investors with steady cash flow and potential for long-term wealth accumulation.",
     basket: "global",
   },
   {
-    icon: "/Artificial Intellegence.mp4",
+    icon: "/Artificial Intelligence.gif",
     title: "Artificial Intelligence",
     description:
       "Artificial Intelligence comprises stocks of companies at the forefront of AI technology development. These innovative companies leverage AI to drive growth, efficiency, and disruption in various sectors.",
     basket: "global",
   },
   {
-    icon: "/60 40.mp4",
+    icon: "/60 40 Portfolios (ETFs).gif",
     title: "60 40 Portfolios (ETFs)",
     description:
       "The 60/40 Portfolios offer a balanced approach to investment, consisting of a mix of 60% equity ETFs and 40% fixed-income ETFs. This diversified portfolio aims to provide stability and growth potential for investors.",

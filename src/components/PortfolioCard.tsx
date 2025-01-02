@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import ReactDOM from "react-dom"; // Import ReactDOM for portals
+import ReactDOM from "react-dom"; // For portals
 import { AnimatePresence, motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 import { PortfolioCardProps } from "@/types";
@@ -10,14 +10,9 @@ import { globalBasketsData } from "@/lib/utils";
 
 const globalApi = [11, 60, -1, -1];
 
-export const PortfolioCard: React.FC<PortfolioCardProps & { onModalToggle: (isOpen: boolean) => void }> = ({
-  icon,
-  title,
-  description,
-  index,
-  basket,
-  onModalToggle,
-}) => {
+export const PortfolioCard: React.FC<
+  PortfolioCardProps & { onModalToggle: (isOpen: boolean) => void }
+> = ({ icon, title, description, index, basket, onModalToggle }) => {
   const [open, setOpen] = useState(false);
   const navigate = useNavigate();
 
@@ -109,26 +104,34 @@ export const PortfolioCard: React.FC<PortfolioCardProps & { onModalToggle: (isOp
     <>
       {/* Card */}
       <div
-        className="flex flex-col  items-center p-6 w-full max-w-[450px] h-[340px] bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d] text-cyan-400 border border-solid border-opacity-40 border-[#8a9299] rounded-[50px] shadow-lg hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff] transition-all duration-300 ease-in-out cursor-pointer"
+        className="flex flex-col items-center p-6 w-full max-w-[450px] h-[340px] bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d] text-cyan-400 border border-solid border-opacity-40 border-[#8a9299] rounded-[50px] shadow-lg hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff] transition-all duration-300 ease-in-out cursor-pointer"
         onClick={handleOpen}
       >
-        {/* Video as Icon */}
-        <div className="flex items-center justify-center w-[80px] h-[80px] mb-4 bg-black rounded-2xl  overflow-hidden">
-          <video
-            src={icon}
-            className="w-full h-full object-cover"
-            autoPlay
-            loop
-            muted
-            playsInline
-          />
+        {/* Video or GIF as Icon */}
+        <div className="flex items-center justify-center w-[70px] h-[90px] mb-4  overflow-hidden">
+          {icon.endsWith(".gif") ? (
+            <img
+              src={icon}
+              alt={`${title} GIF`}
+              className="w-full h-full object-cover"
+            />
+          ) : (
+            <video
+              src={icon}
+              className="w-full h-full object-cover"
+              autoPlay
+              loop
+              muted
+              playsInline
+            />
+          )}
         </div>
 
         {/* Title */}
-        <h3 className="text-xl font-poppins  text-center mb-4">{title}</h3>
+        <h3 className="text-xl font-poppins text-center mb-4">{title}</h3>
 
         {/* Description */}
-        <p className="text-sm  text-center px-5 font-poppins text-white leading-relaxed flex-grow">
+        <p className="text-sm text-center px-5 font-poppins text-white leading-relaxed flex-grow">
           {description}
         </p>
 
