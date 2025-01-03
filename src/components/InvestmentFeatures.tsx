@@ -37,7 +37,7 @@ const features: InvestmentFeature[] = [
 
 export const InvestmentFeatures: React.FC = () => {
   return (
-    <div className="px-10 max-md:px-5 max-sm:mt-3 max-md:mt-3 lg:mt-52">
+    <div className="px-10 max-md:px-5  lg:mt-52">
       <div className="grid lg:grid-cols-2 gap-9 lg:gap-0 items-center max-md:flex-col">
         {/* Video Section */}
         <div className="flex justify-center items-center">
