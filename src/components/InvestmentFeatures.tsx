@@ -37,18 +37,17 @@ const features: InvestmentFeature[] = [
 
 export const InvestmentFeatures: React.FC = () => {
   return (
-    <div className="px-10 max-md:px-5  lg:mt-52">
+    <div className="px-10 max-md:px-5 lg:mt-52">
       <div className="grid lg:grid-cols-2 gap-9 lg:gap-0 items-center max-md:flex-col">
         {/* Video Section */}
         <div className="flex justify-center items-center">
-          <video
-            src="/home screen page 1.mp4"
+          <img
+            src="/home screen page 1.gif"
             className="h-auto w-full max-w-[650px] rounded-lg object-contain"
-            autoPlay
-            loop
-            muted
-            playsInline
-          ></video>
+            
+            
+            
+          ></img>
         </div>
 
         {/* Feature Cards Section */}
