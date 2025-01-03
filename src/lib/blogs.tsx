@@ -1470,5 +1470,278 @@ export const blogs = [
         ),
         date: "July 29, 2024",
         tags: ["gold", "gold price", "gold rise"],
-    }
+
+        
+    },
+
+    {
+        id: "17th",
+        image: "/etho/11.jpg",
+        heading: "NUQI 2024 Ethosphere : 31st Edition",
+        description: `Will there be quality jobs in 2026`,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-31sth-Edition.pdf",
+        content: (
+            <>
+                <p>
+                    In recent years, the price of gold has experienced a
+                    significant surge, reflecting its status as a valuable and
+                    sought-after asset. Let’s delve into the factors behind this
+                    remarkable rise and explore why gold continues to capture
+                    the attention of investors worldwide.
+                </p>
+
+                <p>
+                    1. Market Uncertainty: Gold has long been considered a
+                    safe-haven asset, particularly during times of economic
+                    uncertainty and geopolitical instability. In an increasingly
+                    volatile global landscape, investors turn to gold as a store
+                    of value and a hedge against inflation, currency
+                    fluctuations, and market downturns. The uncertainty
+                    surrounding major events such as Brexit, trade tensions, and
+                    the COVID-19 pandemic has fueled demand for gold, driving
+                    prices higher.
+                </p>
+
+                <p>
+                    2.Low Interest Rates: In a low-interest-rate environment,
+                    where traditional fixed-income investments offer minimal
+                    returns, gold becomes more attractive as an alternative
+                    asset class. With central banks around the world
+                    implementing accommodative monetary policies and keeping
+                    interest rates near historic lows, the opportunity cost of
+                    holding gold diminishes, leading investors to allocate more
+                    capital towards the precious metal.
+                </p>
+
+                <p>
+                    3. Dollar Weakness: The inverse relationship between the US
+                    dollar and gold prices is well-documented. A weaker US
+                    dollar typically boosts demand for gold as it becomes
+                    cheaper for international buyers. The depreciation of the
+                    dollar against other major currencies, coupled with concerns
+                    over its long-term stability, has bolstered gold prices and
+                    contributed to its upward trajectory.
+                </p>
+
+                <p>
+                    4.Supply Constraints: While the demand for gold continues to
+                    rise, the supply side faces challenges such as declining
+                    mine production and geopolitical tensions in key
+                    gold-producing regions. These supply constraints put upward
+                    pressure on gold prices, further driving its appreciation
+                    over time.
+                </p>
+
+                <p>
+                    5. Investor Sentiment: Beyond its fundamental value, gold
+                    also benefits from investor sentiment and market psychology.
+                    As fear and uncertainty grip financial markets, investors
+                    flock to gold for its perceived safety and stability,
+                    creating a self-reinforcing cycle of demand that propels
+                    prices higher.
+                </p>
+                <p>
+                    As Ethigold strives to democratize gold ownership and make
+                    it accessible to all individuals, the recent surge in gold
+                    prices underscores the importance of including gold in a
+                    diversified investment portfolio. With its mission to
+                    revolutionize gold investment in India, Ethigold empowers
+                    investors to participate in the potential wealth
+                    preservation and growth offered by gold, ensuring financial
+                    empowerment and security for a brighter tomorrow.
+                </p>
+            </>
+        ),
+        date: "December 16, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "16th",
+        image: "/etho/DALL·E 2025-01-03 21.19.05 - A symbolic and artistic image representing a crisis in France, intertwined with the themes of chance and patience. The scene features a blend of iconi.jpg",
+        heading: "NUQI 2024 Ethosphere : 30th Edition",
+        description: `Crisis in France... What if its Rhymed with chance and patience`,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-30th-Edition.pdf",
+        date: "December 09, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "29th",
+        image: "/etho/DALL·E 2025-01-03 21.15.41 - A conceptual and dramatic image representing the 2025 economic outlook, focusing on uncertainty and safety. The scene features a turbulent sky with st.jpg",
+        heading: "NUQI 2024 Ethosphere : 29th Edition",
+        description: `2025 Outlook: Where are the parachutes `,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-29th-Edition.pdf",
+        date: "December 02, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "28th",
+        image: "/etho/15.jpg",
+        heading: "NUQI 2024 Ethosphere : 28th Edition",
+        description: `2025 Outlook: Can Donald trump reduce the US trade deficit `,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-28th-Edition.pdf",
+        date: "November 25, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "27th",
+        image: "/etho/DALL·E 2025-01-03 21.14.21 - A visually dynamic and thought-provoking image contrasting happiness and euphoria. The scene features two side-by-side paths_ one with a serene, calm .jpg",
+        heading: "NUQI 2024 Ethosphere : 27th Edition",
+        description: `Happiness is not good enough? Demand Euphoria `,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-28th-Edition.pdf",
+        date: "November 18, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "26th",
+        image: "/etho/15.jpg",
+        heading: "NUQI 2024 Ethosphere : 26th Edition",
+        description: `Impact of US elections `,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-26th-Edition.pdf",
+        date: "November 11, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+
+    {
+        id: "25th",
+        image: "/etho/DALL·E 2025-01-03 21.12.25 - A striking image symbolizing the value and prestige of gold. The scene features a gleaming gold medal placed atop a pile of gold bars, with a radiant .jpg",
+        heading: "NUQI 2024 Ethosphere : 25th Edition",
+        description: `The Gold medal lives up to its name `,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-25th-Edition.pdf",
+        date: "October 30th, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "24th",
+        image: "/etho/DALL·E 2025-01-03 21.10.54 - A thought-provoking image exploring the credibility of China's economic rebound. The scene features a bustling modern cityscape with towering skyscrap.jpg",
+        heading: "NUQI 2024 Ethosphere : 24th Edition",
+        description: `Is China's spectacular rebound Credible?`,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-24th-Edition.pdf",
+        date: "October 21st, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "23rd",
+        image: "/etho/DALL·E 2025-01-03 21.09.40 - A finance-themed image representing stable and predictable stocks. The scene features a strong and steady financial graph with minimal fluctuations, s.jpg",
+        heading: "NUQI 2024 Ethosphere : 23rd Edition",
+        description: `Looking for Stable and predictable stocks`,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-24th-Edition.pdf",
+        date: "October 14th, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "22nd",
+        image: "/etho/10.jpg",
+        heading: "NUQI 2024 Ethosphere : 22nd Edition",
+        description: `France's Risk premium has not yet peeked`,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-22nd-Edition.pdf",
+        date: "October 07th, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "21st",
+        image: "/etho/DALL·E 2025-01-03 21.07.45 - A visually compelling image symbolizing bonds on the road to success. The scene features a winding road made of financial charts and bond certificates.jpg",
+        heading: "NUQI 2024 Ethosphere : 21st Edition",
+        description: `Bonds are on the road to success`,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-21st-Edition.pdf",
+        date: "September 30th, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "20th",
+        image: "/etho/DALL·E 2025-01-03 21.06.36 - A visually engaging image symbolizing confidence in the semiconductor industry. The scene features a futuristic circuit board with glowing pathways, s.jpg",
+        heading: "NUQI 2024 Ethosphere : 20th Edition",
+        description: `Semo Confidence in Semi Conductors`,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-20th-Edition.pdf",
+        date: "September 30th, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "19th",
+        image: "/etho/DALL·E 2025-01-03 21.04.34 - An informative and visually engaging image representing how to assess the risk of a recession. The scene features a balance scale with key economic in.jpg",
+        heading: "NUQI 2024 Ethosphere : 19th Edition",
+        description: `How do you access the risk of recession`,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-19th-Edition.pdf",
+        date: "September 16th, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "18th",
+        image: "/etho/DALL·E 2025-01-03 21.01.45 - A finance-themed visual illustrating the instability of small-cap stocks. The scene features a cracked, uneven floor under a stock chart, symbolizing .jpg",
+        heading: "NUQI 2024 Ethosphere : 18th Edition",
+        description: `Small Caps: The Floor is not solid enough`,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-18th-Edition.pdf",
+        date: "September 2nd, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "17th",
+        image: "/etho/DALL·E 2025-01-03 20.59.44 - A dramatic finance-themed image showcasing the paradox of unloved but valuable oil companies. The scene features a dusty oil rig in the foreground, co.jpg",
+        heading: "NUQI 2024 Ethosphere : 17th Edition",
+        description: `Unloved , but oil companies have serious Assets`,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-17th-Edition.pdf",
+        date: "August 28th, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    {
+        id: "16th",
+        image: "/etho/DALL·E 2025-01-03 20.57.37 - An elegant finance-themed visual representing luxury investments in the second-hand market, featuring high-end stock market symbols, gold bars, and lu.jpg",
+        heading: "NUQI 2024 Ethosphere : 16th Edition",
+        description: `Luxury looks at it second hand image in the second hand market`,
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-16th-Edition.pdf",
+        date: "August 21st, 2024",
+        tags: ["gold", "gold price", "gold rise"],
+
+        
+    },
+
+    
+
+
+    
 ];
+
