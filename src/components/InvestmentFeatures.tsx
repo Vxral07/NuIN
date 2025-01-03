@@ -9,46 +9,46 @@ const features: InvestmentFeature[] = [
       "Gain access to 5,000+ carefully selected stocks, screened through a robust exclusion list of industries and financial ratios to ensure quality and alignment. Additionally, explore 18+ expertly Curated Equity Portfolio’s, tailored to meet diverse financial goals and strategies." 
   },
   {
-    title: " Asset Diversification",
+    title: "Asset Diversification",
     description:
       "Equity, ETFs, and Mutual Funds to spread your exposure across various asset classes, enhancing stability and potential returns.",
   },
   {
     title: "Portfolio Rebalancing",
     description:
-    "NUQI's expert team of advisors, alongside a supervisory panel, ensures portfolios are rebalanced every six months to maintain alignment with your investment goals and market conditions."
-    
+      "NUQI's expert team of advisors, alongside a supervisory panel, ensures portfolios are rebalanced every six months to maintain alignment with your investment goals and market conditions."
   },
   {
     title: "Secure and Regulated",
     description:
-      "NUQI Digital Wealth (DIFC) operates under the robust oversight of DFSA regulations, ensuring smooth and compliant product offerings tailored to your requirements. With retail endorsement, NUQI lowers entry barriers,making quality investment opportunities more accessible ",
+      "NUQI Digital Wealth (DIFC) operates under the robust oversight of DFSA regulations, ensuring smooth and compliant product offerings tailored to your requirements. With retail endorsement, NUQI lowers entry barriers, making quality investment opportunities more accessible.",
   },
   {
     title: "Robo Advisory",
     description:
       "Utilize NUQI's AI-powered Robo Advisory, which analyzes industry trends and tailors recommendations to suit your unique risk profile and investment goals. This cutting-edge technology ensures smarter, data-driven decisions to optimize your portfolio.",
-
   },
   {
     title: "Global Market Access",
-
     description:
-      "Gain unparalleled access to 9+ global markets, complemented by in-depth fundamental data at your fingertips NUQI empowers you to make informed investment decisions with seamless access to international opportunities.",    
+      "Gain unparalleled access to 9+ global markets, complemented by in-depth fundamental data at your fingertips. NUQI empowers you to make informed investment decisions with seamless access to international opportunities.",
   },
 ];
 
 export const InvestmentFeatures: React.FC = () => {
   return (
-    <div className=" px-10 max-md:px-5">
+    <div className="px-10 max-md:px-5 mt-3 lg:mt-52">
       <div className="grid lg:grid-cols-2 gap-9 lg:gap-0 items-center max-md:flex-col">
-        {/* Image Section */}
+        {/* Video Section */}
         <div className="flex justify-center items-center">
-          <img
-            src="/homescreenpage-ezgif.com-video-to-gif-converter.gif"
-            alt="Investment Features"
+          <video
+            src="/home screen page 1.mp4"
             className="h-auto w-full max-w-[650px] rounded-lg object-contain"
-          />
+            autoPlay
+            loop
+            muted
+            playsInline
+          ></video>
         </div>
 
         {/* Feature Cards Section */}
@@ -66,4 +66,3 @@ export const InvestmentFeatures: React.FC = () => {
     </div>
   );
 };
-

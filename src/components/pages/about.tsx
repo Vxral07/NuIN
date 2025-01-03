@@ -98,7 +98,7 @@ const teamData = [
   },
   {
     name: "Shreemohan Chauhaan",
-    role: "Co-Founder & COO",
+    role: "Co-Founder & CXO",
     image: "/team/ab-2.png",
     linkedin: "https://www.linkedin.com/in/shreemohan-chauhaan/",
     description:

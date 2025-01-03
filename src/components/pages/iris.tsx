@@ -303,7 +303,7 @@ const Iris = () => {
       </div>
       
 
-      <div className="flex w-full justify-center  items-center">
+      {/* <div className="flex w-full justify-center  items-center">
         <div className=" self-center mx-4  font-poppins lg:max-w-screen-xl border-2 border-cyan-400 bg-black p-6 rounded-3xl  lg:mx-36 mt-10 bg-gradient-to-b from-[#1d1d1f] to-[#0d0d0d]  hover:!bg-black hover:!bg-none hover:shadow-[inset_0_0_20px_#0dd3ff]  transition-all duration-300 ease-in-out">
           <h4 className="text-left sm:text-center lg:text-left ml-4 text-xl font-medium leading-tight text-white sm:text-sxl lg:text-xl mt-2">
             Most Active
@@ -315,7 +315,7 @@ const Iris = () => {
             they meet ethical investment criteria.
           </p>
         </div>
-      </div>
+      </div> */}
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="max-w-3xl mx-auto text-center lg:text-left">
           <h2 className="text-xl  font-poppins sm:text-4xl lg:text-3xl font-medium leading-tight bg-gradient-to-r text-cyan-400 sm:text-center mt-10 lg:ml-0">

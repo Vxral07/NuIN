@@ -28,7 +28,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
 
           {/* Subheading */}
           {subheading && (
-            <div className="mt-6 text-xl text-white font-poppins ml-5">
+            <div className="mt-6 text-lg text-cyan-500  font-poppins font-medium ml-5">
               {subheading}
             </div>
           )}

@@ -12,7 +12,7 @@ const portfolioData = [
     basket: "global",
   },
   {
-    icon: "/Income Generators.gif",
+    icon: "/Income Generators_1.gif",
     title: "Income Generators",
     description:
       "Income Generators focuses on dividend-paying stocks known for their consistent income generation. These stocks provide investors with steady cash flow and potential for long-term wealth accumulation.",

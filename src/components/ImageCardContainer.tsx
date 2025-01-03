@@ -1,6 +1,6 @@
 import * as React from "react";
 import { ImageCard } from "./ImageCard";
-import { QRCode } from "./QRCode";
+// import { QRCode } from "./QRCode";
 
 const imageData = [
   {
@@ -24,7 +24,7 @@ export const ImageCardContainer: React.FC = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-10 mb-9 ">
       {/* Content Container */}
-      <div className="flex flex-col lg:flex-row items-center justify-between w-full max-w-[1200px] px-8 gap-8">
+      <div className="flex flex-col lg:flex-row items-center justify-center w-full max-w-[1200px] px-8 gap-8">
         {/* Left Section: Play Store & App Store */}
         <div
           className="flex flex-col gap-6 items-center justify-center p-12 relative"
@@ -37,7 +37,7 @@ export const ImageCardContainer: React.FC = () => {
             borderRadius: "20px",
           }}
         >
-          <h2 className="text-3xl lg:text-4xl font-poppins text-cyan-400 mb-6">Available on</h2>
+          <h2 className="text-3xl lg:text-4xl font-poppins text-cyan-400 mb-6">Coming Soon On</h2>
           <div className="flex gap-16">
             {imageData.slice(0, 2).map((image) => (
               <ImageCard key={image.id} imageSrc={image.src} imageAlt={image.alt} />
@@ -46,10 +46,10 @@ export const ImageCardContainer: React.FC = () => {
         </div>
 
         {/* Right Section: QR Code */}
-        <div className="flex flex-col items-center justify-center">
+        {/* <div className="flex flex-col items-center justify-center">
           <QRCode imageSrc={imageData[2].src} imageAlt={imageData[2].alt} />
           <p className="mt-4 text-white text-sm">Scan QR code</p>
-        </div>
+        </div> */}
       </div>
     </div>
   );
