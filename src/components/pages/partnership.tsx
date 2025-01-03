@@ -54,21 +54,21 @@ const Partnership = () => {
         </div>
         <div className="text-base leading-relaxed">
           <p className="mb-6 text-gray-300">
-            <p className="font-bold text-xl text-white">Our Current Partnerships:</p>
+            <p className="font-medium text-3xl font-poppins">Our Current Partnerships:</p>
             <br />
             {/* GEFI Partnership */}
             <div className="flex items-center gap-4 mb-6">
-              <p className="font-bold text-xl text-white">
+              <p className="font-semibold font-poppins text-xl text-cyan-500">
                 Global Ethical Finance Initiative (GEFI)
               </p>
               <img
                 src="/tmp_c224faea-f27f-4cbc-ae40-8be3ab977e12.png"
                 alt="GEFI Logo"
-                className="h-[3rem] w-[9rem] object-contain"
+                className="h-[3rem] w-[10rem] object-contain"
               />
             </div>
-            <p className="text-cyan-400">
-              NUQI proudly partnered with GEFI to participate in events leading
+            <p className="text-white font-poppins">
+              <span className="text-cyan-500">NUQI</span> proudly partnered with GEFI to participate in events leading
               up to COP28 in the UAE and the Climate Summit in Edinburgh. Our
               association with GEFI emphasizes creating value in underserved
               areas across Africa, India, and the UAE. Together, we strive to
@@ -76,21 +76,21 @@ const Partnership = () => {
               challenges.
             </p>
           </p>
-          <p className="mb-6 text-base text-gray-300">
+          <p className="mb-6 text-base font-poppins text-gray-300">
             Capitalised terms not defined in these Terms of Use shall have the
             same meaning attributed to them in the relevant Rules of the DIFC.
           </p>
           {/* IFA Sport Partnership */}
           <div className="mb-6">
             <div className="flex items-center gap-4 mb-6">
-              <p className="font-bold text-xl text-white">IFA Sport</p>
+              <p className="font-poppins font-semibold text-xl text-cyan-500">IFA Sport</p>
               <img
                 src="/tmp_2538863c-7ecc-45dc-88fb-a36b91146e6d.png"
                 alt="IFA Sport Logo"
                 className="h-[3rem] w-[5rem] object-contain"
               />
             </div>
-            <p className="text-gray-300">
+            <p className="text-gray-300 font-poppins">
               In collaboration with IFA Sport, a decade-old academy in the UAE,
               NUQI is making strides in shaping the future of over 1,000
               families. By integrating financial literacy education into their
