@@ -95,16 +95,7 @@ const Partnership = () => {
 
           {/* IFA Sport Partnership */}
           <div className="mb-6">
-            {/* <div className="flex items-center gap-4 mb-6">
-              <p className="font-poppins font-semibold text-xl text-cyan-500">
-                IFA Sport
-              </p>
-              <img
-                src="/tmp_2538863c-7ecc-45dc-88fb-a36b91146e6d.png"
-                alt="IFA Sport Logo"
-                className="h-[3rem] w-[5rem] object-contain"
-              />
-            </div> */}
+       
             <div className="flex items-center gap-4 mb-6">
               <a href="https://ifasport.com" target="_blank" rel="noopener noreferrer">
                 <p className="font-poppins font-semibold text-xl text-cyan-500">IFA Sport</p>
