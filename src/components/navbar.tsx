@@ -2,6 +2,7 @@ import { Popover, Transition } from "@headlessui/react";
 import { Globe, Menu, X } from "lucide-react";
 import { Fragment, ReactNode, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
+import { useActiveTab } from "./ActiveTabContext"; // Import the shared context
 import {
   Select,
   SelectContent,
@@ -9,7 +10,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "./ui/select"; // Assuming you have a custom Select component
-import { useActiveTab } from "./ActiveTabContext"; // Import the shared context
 
 // NavItem Component
 function NavItem({
@@ -28,9 +28,8 @@ function NavItem({
       <a
         href={href}
         onClick={onClick}
-        className={`block px-2 py-2 text-base font-bold transition ${
-          isActive ? "text-cyan-400" : "text-white hover:text-cyan-400"
-        }`}
+        className={`block px-2 py-2 text-base font-bold transition ${isActive ? "text-cyan-400" : "text-white hover:text-cyan-400"
+          }`}
       >
         {children}
       </a>
@@ -335,12 +334,25 @@ export function Navbar() {
 
           {/* Sign Up & Login for Desktop */}
           <div className="hidden lg:flex space-x-4 order-2">
-            <button className="px-3 py-2 text-sm font-semibold text-black bg-cyan-400 rounded-xl whitespace-nowrap hover:text-black">
+            {/* <button className="px-3 py-2 text-sm font-semibold text-black bg-cyan-400 rounded-xl whitespace-nowrap hover:text-black">
               Sign Up
-            </button>
-            <button className="px-3 py-2 text-sm font-semibold text-white bg-transparent border border-cyan-400 rounded-xl hover:bg-cyan-400 hover:text-black">
+            </button> */}
+            <a href="http://portal.nuqiwealth.com/signup" target="_blank" rel="noopener noreferrer">
+              <button className="px-3 py-2 text-sm font-semibold text-black bg-cyan-400 rounded-xl whitespace-nowrap hover:text-black">
+                Sign Up
+              </button>
+            </a>
+
+
+            {/* <button className="px-3 py-2 text-sm font-semibold text-white bg-transparent border border-cyan-400 rounded-xl hover:bg-cyan-400 hover:text-black">
               Login
-            </button>
+            </button> */}
+            <a href="http://portal.nuqiwealth.com/signin" target="_blank" rel="noopener noreferrer">
+              <button className="px-3 py-2 text-sm font-semibold text-white bg-transparent border border-cyan-400 rounded-xl hover:bg-cyan-400 hover:text-black">
+                Login
+              </button>
+            </a>
+
             <div className="flex lg:ml-4">
               <CountrySelect />
             </div>
