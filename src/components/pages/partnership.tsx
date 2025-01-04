@@ -57,7 +57,7 @@ const Partnership = () => {
             <p className="font-medium text-3xl font-poppins">Our Current Partnerships:</p>
             <br />
             {/* GEFI Partnership */}
-            <div className="flex items-center gap-4 mb-6">
+            {/* <div className="flex items-center gap-4 mb-6">
               <p className="font-semibold font-poppins text-xl text-cyan-500">
                 Global Ethical Finance Initiative (GEFI)
               </p>
@@ -66,7 +66,22 @@ const Partnership = () => {
                 alt="GEFI Logo"
                 className="h-[3rem] w-[10rem] object-contain"
               />
+            </div> */}
+            <div className="flex items-center gap-4 mb-6">
+              <a href="https://www.globalethicalfinance.org" target="_blank" rel="noopener noreferrer">
+                <p className="font-semibold font-poppins text-xl text-cyan-500">
+                  Global Ethical Finance Initiative (GEFI)
+                </p>
+              </a>
+              <a href="https://www.globalethicalfinance.org" target="_blank" rel="noopener noreferrer">
+                <img
+                  src="/tmp_c224faea-f27f-4cbc-ae40-8be3ab977e12.png"
+                  alt="GEFI Logo"
+                  className="h-[3rem] w-[10rem] object-contain"
+                />
+              </a>
             </div>
+
             <p className="text-white font-poppins">
               <span className="text-cyan-500">NUQI</span> proudly partnered with GEFI to participate in events leading
               up to COP28 in the UAE and the Climate Summit in Edinburgh. Our
@@ -76,20 +91,33 @@ const Partnership = () => {
               challenges.
             </p>
           </p>
-          <p className="mb-6 text-base font-poppins text-gray-300">
+          {/* <p className="mb-6 text-base font-poppins text-gray-300">
             Capitalised terms not defined in these Terms of Use shall have the
             same meaning attributed to them in the relevant Rules of the DIFC.
-          </p>
+          </p> */}
           {/* IFA Sport Partnership */}
           <div className="mb-6">
-            <div className="flex items-center gap-4 mb-6">
+            {/* <div className="flex items-center gap-4 mb-6">
               <p className="font-poppins font-semibold text-xl text-cyan-500">IFA Sport</p>
               <img
                 src="/tmp_2538863c-7ecc-45dc-88fb-a36b91146e6d.png"
                 alt="IFA Sport Logo"
                 className="h-[3rem] w-[5rem] object-contain"
               />
+            </div> */}
+            <div className="flex items-center gap-4 mb-6">
+              <a href="https://ifasport.com" target="_blank" rel="noopener noreferrer">
+                <p className="font-poppins font-semibold text-xl text-cyan-500">IFA Sport</p>
+              </a>
+              <a href="https://ifasport.com" target="_blank" rel="noopener noreferrer">
+                <img
+                  src="/tmp_2538863c-7ecc-45dc-88fb-a36b91146e6d.png"
+                  alt="IFA Sport Logo"
+                  className="h-[3rem] w-[5rem] object-contain"
+                />
+              </a>
             </div>
+
             <p className="text-gray-300 font-poppins">
               In collaboration with IFA Sport, a decade-old academy in the UAE,
               NUQI is making strides in shaping the future of over 1,000
@@ -103,7 +131,7 @@ const Partnership = () => {
 
         {/*Images IFSA */}
         <div className="mt-5">
-          
+
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             <img
               src="/DSC_8222 (1).jpg"
