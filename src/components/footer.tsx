@@ -87,110 +87,100 @@ export function Footer() {
         <div className="mt-10 grid grid-cols-2 md:grid-cols-3 lg:flex lg:justify-center gap-10 text-base font-poppins text-center">
           <a
             href="/"
-            className={`${
-              isActive("/")
+            className={`${isActive("/")
                 ? "text-cyan-400 font-bold"
                 : "text-white hover:text-cyan-400"
-            }`}
+              }`}
             onClick={() => setActiveTab("/")}
           >
             Home
           </a>
           <a
             href="/#advisory"
-            className={`${
-              isActive("/#advisory")
+            className={`${isActive("/#advisory")
                 ? "text-cyan-400 font-bold"
                 : "text-white hover:text-cyan-400"
-            }`}
+              }`}
             onClick={(e) => handleScrollToSection(e, "#advisory")}
           >
             Advisory
           </a>
           <a
             href="/#nuqiprive"
-            className={`${
-              isActive("/#nuqiprive")
+            className={`${isActive("/#nuqiprive")
                 ? "text-cyan-400 font-bold"
                 : "text-white hover:text-cyan-400"
-            }`}
+              }`}
             onClick={(e) => handleScrollToSection(e, "#nuqiprive")}
           >
             Prive
           </a>
           <a
             href="/IRIS"
-            className={`${
-              isActive("/IRIS")
+            className={`${isActive("/IRIS")
                 ? "text-cyan-400 font-bold"
                 : "text-white hover:text-cyan-400"
-            }`}
+              }`}
             onClick={() => setActiveTab("/IRIS")}
           >
             IRIS
           </a>
           <a
             href="/ethosphere"
-            className={`${
-              isActive("/ethosphere")
+            className={`${isActive("/ethosphere")
                 ? "text-cyan-400 font-bold"
                 : "text-white hover:text-cyan-400"
-            }`}
+              }`}
             onClick={() => setActiveTab("/ethosphere")}
           >
             Ethosphere
           </a>
           <a
             href="/Privacy"
-            className={`${
-              isActive("/Privacy")
+            className={`${isActive("/Privacy")
                 ? "text-cyan-400 font-bold"
                 : "text-white hover:text-cyan-400"
-            }`}
+              }`}
             onClick={() => setActiveTab("/Privacy")}
           >
             Legal
           </a>
           <a
             href="/About"
-            className={`${
-              isActive("/About")
+            className={`${isActive("/About")
                 ? "text-cyan-400 font-bold"
                 : "text-white hover:text-cyan-400"
-            }`}
+              }`}
             onClick={() => setActiveTab("/About")}
           >
             About
           </a>
           <a
             href="/partnership"
-            className={`${
-              isActive("/partnership")
+            className={`${isActive("/partnership")
                 ? "text-cyan-400 font-bold"
                 : "text-white hover:text-cyan-400"
-            }`}
+              }`}
             onClick={() => setActiveTab("/partnership")}
           >
             Partnership
           </a>
           <a
             href="/press"
-            className={`${
-              isActive("/press")
+            className={`${isActive("/press")
                 ? "text-cyan-400 font-bold"
                 : "text-white hover:text-cyan-400"
-            }`}
+              }`}
             onClick={() => setActiveTab("/press")}
           >
             News
           </a>
           <a
             href="/ContactsPage"
-            className={`${
-              isActive("/ContactsPage")
+            className={`${isActive("/ContactsPage")
                 ? "text-cyan-400 font-bold"
                 : "text-white hover:text-cyan-400"
-            }`}
+              }`}
             onClick={() => setActiveTab("/ContactsPage")}
           >
             Contact Us
@@ -200,17 +190,10 @@ export function Footer() {
         {/* Disclaimer Section */}
         <div className="mt-10 text-center text-xs text-gray-400 leading-relaxed">
           <p>
-            © 2025 Nuqi Digital Wealth Limited. All rights reserved. <br />
-            Nuqi Digital Wealth Limited is regulated by the Dubai Financial
-            Services Authority (“DFSA”) in the Dubai International Financial
-            Center (“DIFC”) and holds a <br />
-            Category 3C license with a Retail Client Endorsement. Arranging and
-            advising of financial services and managing assets.
-            <br /> Nuqi Digital Wealth Ltd is not authorised to hold client
-            money. Therefore, the client money rules do not apply to the
-            business currently undertaken by Nuqi Digital Wealth Limited. <br />
-            Nuqi Digital Wealth Limited’s registered address is UAE: Office 501,
-            05th Floor, Innovation One, DIFC, Dubai, UAE, United Arab Emirates.
+            ©2025 Nuqi Wealth India Pvt Ltd - Investment Advisory Unit (Separately Identifiable Unit) <br/>
+            SEBI RIA Registration No: INA000016612. CIN: U65990MH2020FTC351885. Validity of registration- 30th Jan 2022 - Perpetual <br/>
+            Registered Address: 16 Magnum Towers,4 Bunglow, Lokhandwala Complex, Andheri West, Mumbai – 400058, Maharashtra. <br/> Corporate Address: Office Nos 206, Parinee I, Veera Desai Road, Andheri West, Mumbai - 400053<br/>
+            Disclaimer: Past performance is not a guarantee of future results. <br/>The historical returns, expected returns, and probability projections provided on this website or App are for informational and illustrative purposes only.<br/> They are not an indication of future performance. All investing involves risk, including the possible loss of all the money you invest.The past performance of any trading system does not guarantee future performance. Nuqi Wealth assumes no responsibility for liability for your trading and investment results. Registration granted by SEBI is no way guarantee performance of the intermediary or provide any assurance of returns to investors.
             <br /> <br /> <br />
             <span>
               Please visit our{" "}

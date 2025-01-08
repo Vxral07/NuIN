@@ -5,7 +5,7 @@ export const FAQSection: React.FC = () => {
   return (
     <div className="text-white mt-4 px-5">
       <h1 className="text-center pt-32 text-3xl font-medium font-poppins text-cyan-500 mb-7">
-      <span className="text-white ">Frequently Asked Questions </span>  (FAQs)
+        <span className="text-white ">Frequently Asked Questions </span>  (FAQs)
       </h1>
 
       {/* What is Nuqi Section */}
@@ -14,10 +14,10 @@ export const FAQSection: React.FC = () => {
           What is Nuqi?
         </h2>
         <p className="text-sm font-poppins leading-6 text-gray-300">
-          NUQI is an independent advisory platform, licensed by DFSA in UAE aimed at both first-time investors starting their investment journey and seasoned investors looking to diversify their portfolio.
-          NUQI deploys its in-house expertise to create portfolios tailored for specific Investor profile/ Investment Themes. NUQI has a team of qualified Investment Advisors  and select financial bodies to independently screen the Universe of Ethical investments with both Domestic and International market exposures. The platform uses multiple criteria to make a selection of Stocks, ETFs, Mutual funds, Sukuks etc. with Social Equity, Ethical operations, good Governance, and Environment protection as core investment themes which are considered as key elements aimed towards Sustainable Growth.
-          NUQI is an independent advisory platform, licensed by DFSA in UAE aimed at both first-time investors starting their investment journey and seasoned investors looking to diversify their portfolio.
-          NUQI deploys its in-house expertise to create portfolios tailored for specific Investor profile/ Investment Themes. NUQI has a team of qualified Investment Advisors  and select financial bodies to independently screen the Universe of Ethical investments with both Domestic and International market exposures. The platform uses multiple criteria to make a selection of Stocks, ETFs, Mutual funds, Sukuks etc. with Social Equity, Ethical operations, good Governance, and Environment protection as core investment themes which are considered as key elements aimed towards Sustainable Growth.
+          NUQI is an independent advisory platform, licensed by SEBI in India aimed at both first-time investors starting their investment journey and seasoned investors looking to diversify their portfolio.
+          NUQI deploys its in-house expertise to create portfolios tailored for specific Investor profile/ Investment Themes. NUQI has a team of qualified Investment Managers and select financial bodies to
+          independently screen the Universe of Ethical investments with both Domestic and International market exposures. The platform uses multiple criteria to make a selection of Stocks, ETFs, Mutual funds, Sukuks etc.
+          with Social Equity, Ethical operations, good Governance, and Environment protection as core investment themes which are considered as key elements aimed towards Sustainable Growth.
 
         </p>
       </div>
@@ -28,10 +28,10 @@ export const FAQSection: React.FC = () => {
         {/* FAQ Cards */}
         <FAQCard
           title="Why Invest through Nuqi?"
-          description="Access diverse portfolio featuring 1000+ global stocks, along with ETFs, mutual funds, and sukuks.
-	Access to global markets like US, UK, Europe and more.
-	Access global and local ethical mutual funds for systematic investment planning and lumpsum.
-	Pre-designed portfolios by qualified investment advisors for long term investing.
+          description="Access diverse portfolio featuring 250+ Indian stocks and 1000+ global stocks, along with ETFs, mutual funds, and sukuks.
+Access to global markets like US, UK, Europe and more.
+Access global and local ethical mutual funds for systematic investment planning and lumpsum.
+Pre-designed portfolios by qualified investment advisors for long term investing..
 "
           customStyles="col-span-1 max-sm:mx-2 lg:col-span-1 lg:row-span-2  min-h-[200px] lg:h-[450px] border border-solid border-white border-opacity-40 rounded-[61px]   "
         />
