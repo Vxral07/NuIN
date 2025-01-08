@@ -7,7 +7,7 @@ const Hero = () => {
       {/* Text + Carousel Section */}
       <div className="flex flex-col items-center lg:items-start text-center lg:text-left  lg:w-2/2">
         <h1 className="text-4xl font-poppins leading-normal font-medium text-white tracking-wide max-md:text-xl lg:text-4xl">
-          UAE's Own Ethical Investment Advisory App
+          INDIA's Own Ethical Investment Advisory App
         </h1>
         <Carousel
           className="p- mt-5"

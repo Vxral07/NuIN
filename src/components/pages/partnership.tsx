@@ -4,7 +4,7 @@ const Partnership = () => {
   return (
     <section className="py-10 sm:py-16">
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl font-poppins">
-        <div className="h-[10rem] -mt-14 w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
+        <div className="h-[10rem] -mt-24 w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
           <h2 className="text-3xl pb-5 font-poppins font-medium leading-tight tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-4xl lg:text-5xl">
             Partnership
           </h2>
@@ -28,7 +28,7 @@ const Partnership = () => {
             <div className="absolute inset-0 w-full h-full [mask-image:radial-gradient(350px_200px_at_top,transparent_20%,white)]"></div>
           </div>
         </div>
-        <div className="text-base leading-relaxed">
+        <div className="text-base leading-relaxed -mt-6">
           <p className="mb-6 text-gray-300">
             At <span className="text-cyan-400">NUQI</span> Group, we firmly
             believe in the power of collaboration to drive meaningful change.

@@ -13,7 +13,7 @@ export const ContactsPage: React.FC = () => {
   return (
     <div className="flex flex-col bg-black min-h-screen pb-20">
       <div className="h-[10rem] w-full flex -mt-8 flex-col items-center justify-center overflow-hidden rounded-md">
-        <h2 className="text-3xl pb-5 font-poppins font-semibold leading-6 tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-4xl lg:text-5xl">
+        <h2 className="text-3xl pb-5 font-poppins font-medium leading-6 tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-4xl lg:text-4xl">
           Contact Us
         </h2>
         <div className="w-[40rem] h-10 relative">
@@ -36,22 +36,24 @@ export const ContactsPage: React.FC = () => {
           <div className="absolute inset-0 w-full h-full  [mask-image:radial-gradient(350px_200px_at_top,transparent_20%,white)]"></div>
         </div>
       </div>
+
       {/* Header */}
-      <h1 className="self-center -mt-10 text-3xl font-poppins tracking-wide leading-loose text-white max-md:text-2xl">
+      <h1 className="text-center -mt-10 text-3xl font-poppins tracking-wide leading-loose text-white max-md:text-2xl">
         Your questions, Our expertise - Let's talk
       </h1>
 
       {/* Main Content */}
-      <div className="mt-16 w-full px-5 max-w-[1732px]  mx-auto max-md:mt-10">
-        <div className="grid gap-8 lg:grid-cols-2">
+      <div className="mt-16 w-full px-5 max-w-[1732px] mx-auto max-md:mt-10">
+        <div className="grid gap-16 lg:grid-cols-2">
           {/* Left: Global Offices */}
-          <div className="flex flex-col ml-5 items-center lg:items-start">
-            <div className="text-3xl font-poppins tracking-wide mb-6 lg:pl-6 max-md:text-2xl">
+          <div className="flex flex-col items-center lg:items-start">
+            <div className="text-3xl font-poppins tracking-wide mb-8 lg:pl-6 max-md:text-2xl">
               <span className="text-white">Global</span>
               <span className="text-cyan-400"> Offices</span>
             </div>
 
-            <div className="flex flex-wrap gap-6 justify-center lg:justify-start">
+            {/* Updated Grid for Offices */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-20">
               {officeLocations.map((office, index) => (
                 <OfficeLocation key={index} {...office} />
               ))}
@@ -59,8 +61,8 @@ export const ContactsPage: React.FC = () => {
           </div>
 
           {/* Right: Contact Form */}
-          <div className="flex justify-center w-full ">
-            <div className="px-8 pt-10 pb-12 w-[100%] max-w-[600px] md:max-w-[450px] lg:max-w-[700px] bg-black border border-cyan-400 rounded-[30px] shadow-md max-md:px-6 max-md:pt-8 max-md:pb-10">
+          <div className="flex justify-center w-full">
+            <div className="px-8 pt-10 pb-12 w-[100%] max-w-[600px] md:max-w-[450px] lg:max-w-[500px] bg-black border border-cyan-400 rounded-[30px] shadow-md max-md:px-6 max-md:pt-8 max-md:pb-10">
               <ContactForm onSubmit={handleSubmit} />
             </div>
           </div>

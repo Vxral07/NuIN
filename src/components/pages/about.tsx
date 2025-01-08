@@ -107,7 +107,7 @@ const teamData = [
     name: "Irfan Mulla",
     role: "Head of Marketing",
     image: "/team/ab-4.png",
-    linkedin: "https://www.linkedin.com/in/irfan-mulla/",
+    linkedin: "https://www.linkedin.com/in/irfan-mulla-digital/",
     description:
       "Advertising and Marketing lead with focused digital ecosystem marketing experience across AMEA regions. Statistics graduate with over 25 years of industry experience.",
   },
