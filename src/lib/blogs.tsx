@@ -1,3 +1,4 @@
+
 export const blogs = [
     {
         id: "1st",
@@ -1448,7 +1449,7 @@ AND PATIENCE? `,
         image: "/etho/31.jpeg",
         heading: "NUQI 2024 Ethosphere : 21st Edition",
         description: `WILL THERE BE QUALITY JOBS IN 2025?`,
-        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-21st-Edition.pdf",
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-31sth-Edition.pdf",
         date: "December 16, 2024",
         tags: ["gold", "gold price", "gold rise"],
     },
@@ -1458,7 +1459,7 @@ AND PATIENCE? `,
         heading: "NUQI 2024 Ethosphere : 21st Edition",
         description: `VIETNAM GOES BEYOND ITS FRONTIERS TO BECOME A KEY
 PLAYER`,
-        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-21st-Edition.pdf",
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-32nd-Edition.pdf",
         date: "December 16, 2024",
         tags: ["gold", "gold price", "gold rise"],
     },

@@ -5,28 +5,28 @@ import { PortfolioCard } from "./PortfolioCard"; // Ensure this import is correc
 
 const portfolioData = [
   {
-    icon: "/Entrenched enterprises.gif",
+    icon: "/Entrenched-enterprises-unscreen.gif",
     title: "Entrenched Enterprises",
     description:
       "Entrenched Enterprises offers a selection of established companies with strong market presence and proven track records. These stocks represent stable and reliable investments in well-established industries.",
     basket: "global",
   },
   {
-    icon: "/Income Generators_1.gif",
+    icon: "/Income-Generators-1-unscreen.gif",
     title: "Income Generators",
     description:
       "Income Generators focuses on dividend-paying stocks known for their consistent income generation. These stocks provide investors with steady cash flow and potential for long-term wealth accumulation.",
     basket: "global",
   },
   {
-    icon: "/Artificial Intelligence.gif",
+    icon: "/Artificial-Intelligence-unscreen.gif",
     title: "Artificial Intelligence",
     description:
       "Artificial Intelligence comprises stocks of companies at the forefront of AI technology development. These innovative companies leverage AI to drive growth, efficiency, and disruption in various sectors.",
     basket: "global",
   },
   {
-    icon: "/60 40 Portfolios (ETFs).gif",
+    icon: "/60-40-Portfolios-ETFs--unscreen.gif",
     title: "60 40 Portfolios (ETFs)",
     description:
       "The 60/40 Portfolios offer a balanced approach to investment, consisting of a mix of 60% equity ETFs and 40% fixed-income ETFs. This diversified portfolio aims to provide stability and growth potential for investors.",
@@ -92,9 +92,9 @@ export const PortfolioGrid: React.FC = () => {
   }, [sliderInstance]);
 
   return (
-    <div className="flex mt-20 flex-col items-center py-20 bg-black text-white">
+    <div className="flex flex-col items-center py-20 bg-black text-white">
       {/* Section Header */}
-      <h6 className="mb-5 text-center font-poppins tracking-wide leading-9 text-3xl pb-1 sm:text-3xl font-medium lg:text-3xl">
+      <h6 className="mb-5 text-center mt-20 font-poppins tracking-wide leading-9 text-3xl pb-1 sm:text-3xl font-medium lg:text-3xl">
         <span className="text-white text-3xl">Nuqi</span>{" "}
         <span className="text-white text-3xl">Global</span>{" "}
         <span className="text-cyan-500 text-3xl">
@@ -147,6 +147,7 @@ export const PortfolioGrid: React.FC = () => {
     </div>
   );
 };
+
 
 // import "keen-slider/keen-slider.min.css";
 // import { useKeenSlider } from "keen-slider/react";

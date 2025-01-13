@@ -47,7 +47,7 @@ export const ContactForm: React.FC<ContactFormProps> = ({ onSubmit }) => {
       {/* Phone Input */}
       <div className="flex items-center mt-4 bg-black border border-gray-600 rounded-lg">
         <div className="flex items-center px-3">
-          <span className="text-white">+971</span>
+          <span className="text-white">+91</span>
         </div>
         <input
           type="tel"
