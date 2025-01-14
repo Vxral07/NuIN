@@ -18,7 +18,13 @@ const Ethosphere = () => {
   const [selectedMonth, setSelectedMonth] = useState<string>("none");
   const [viewMode, setViewMode] = useState<"carousel" | "grid">("carousel"); // State to toggle between carousel and grid view
 
-  const yearOptions = [{ label: "2024", value: "2024" }];
+  // const yearOptions = [{ label: "2024", value: "2024" }];
+
+  const yearOptions = [
+    { label: "2024", value: "2024" },
+    { label: "2025", value: "2025" }, // Added 2025 option
+  ];
+  
 
   const monthOptions = [
     { label: "All", value: "none" },

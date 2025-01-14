@@ -1463,7 +1463,15 @@ PLAYER`,
         date: "December 16, 2024",
         tags: ["gold", "gold price", "gold rise"],
     },
-
+    {
+        id: "33rd",
+        image: "/etho/33.jpeg",
+        heading: "NUQI 2025 Ethosphere : 33rd Edition",
+        description: `IN EUROPE, IT'S BETTER TO AIM OUTSIDE THE ZONE`,
+        path: "https://nuqiwealth.com/pdf/Ethosphere%2033rd%20edition%20(13th%20Jan%202025).pdf",
+        date: "December 13, 2025",
+        tags: ["gold", "gold price", "gold rise"],
+    },
 
 ];
 
