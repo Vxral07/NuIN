@@ -59,6 +59,7 @@ Pre-designed portfolios by qualified investment advisors for long term investing
           description="YES, NUQI performs through RISK profiling for all clients"
           customStyles="min-h-[200px] -ml-2 max-sm:mx-2  lg:mr-2 border border-solid border-white border-opacity-40 rounded-[50px] "
         />
+        
 
         <FAQCard
           title="Where can I invest?"
@@ -67,10 +68,25 @@ Pre-designed portfolios by qualified investment advisors for long term investing
         />
 
 
+
         <FAQCard
           title={
             <>
               Can you buy fractional shares of stocks through Nuqi ?
+            </>
+          }
+          description={
+            <>
+              Yes
+            </>
+          }
+          customStyles="min-h-[200px] max-sm:mx-2  border border-solid border-white border-opacity-40 rounded-[50px]"
+        />
+
+        <FAQCard
+          title={
+            <>
+              Can you set up Regular Investment Plan through the Nuqi app?
             </>
           }
           description={
@@ -93,21 +109,7 @@ Pre-designed portfolios by qualified investment advisors for long term investing
           }
           customStyles="min-h-[200px] max-sm:mx-2  border border-solid border-white border-opacity-40 rounded-[50px]"
         />
-        <FAQCard
-          title={
-            <>
-              Does Nuqi help with asset allocation based on your goals?
-            </>
-          }
-          description={
-            <>
-              YES, Asset allocation is the core for investment advisory.
 
-
-            </>
-          }
-          customStyles="min-h-[200px] max-sm:mx-2  border border-solid border-white border-opacity-40 rounded-[50px]"
-        />
 
         <FAQCard
           title="How Does it work?"
@@ -121,11 +123,11 @@ Pre-designed portfolios by qualified investment advisors for long term investing
           description="YES live online sessions / Global Event Participations on the cards."
           customStyles="min-h-[200px] mr-2 lg:mr-0 border border-solid border-white border-opacity-40 rounded-[50px] max-md:ml-2"
         />
-        <FAQCard
+        {/* <FAQCard
           title="Can you track your investments' performance live on the Nuqi app?"
           description="YES our exhaustive portfolio view will, give you 360 Degree View on your investments."
           customStyles="col-span-1 lg:col-span-1 lg:row-span-2 ml-2 lg:ml-0 min-h-[200px] lg:h-[450px] border border-solid border-white border-opacity-40 rounded-[61px] max-md:mr-2 "
-        />
+        /> */}
 
         <FAQCard
           title={
@@ -157,6 +159,17 @@ Pre-designed portfolios by qualified investment advisors for long term investing
           description="Yes IRIS & Ethosphere keep a watch."
           customStyles="min-h-[200px] lg:mr-0 mr-2 border border-solid border-white border-opacity-40 rounded-[50px] max-md:ml-2"
         />
+         <FAQCard
+          title=" Does Nuqi offer investment options that consider social responsibility?"
+          description="YES, our Curated Equity Portfolios (CEP’s) are based on Ethical / Social & Sustainable ESS Principles."
+          customStyles="min-h-[200px] lg:mr-0 mr-2 border border-solid border-white border-opacity-40 rounded-[50px] max-md:ml-2"
+        />
+         <FAQCard
+          title="Can you track your investments' performance live on the Nuqi app?"
+          description="YES our exhaustive portfolio view will, give you 360 Degree View on your investments."
+          customStyles="min-h-[200px] lg:mr-0 mr-2 border border-solid border-white border-opacity-40 rounded-[50px] max-md:ml-2"
+        />
+
 
 
 
