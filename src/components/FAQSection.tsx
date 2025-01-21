@@ -59,6 +59,7 @@ Pre-designed portfolios by qualified investment advisors for long term investing
           description="YES, NUQI performs through RISK profiling for all clients"
           customStyles="min-h-[200px] -ml-2 max-sm:mx-2  lg:mr-2 border border-solid border-white border-opacity-40 rounded-[50px] "
         />
+        
 
 
         {/* <FAQCard
