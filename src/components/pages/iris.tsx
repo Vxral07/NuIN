@@ -119,7 +119,7 @@ const Iris = () => {
   const [email, setEmail] = useState("");
   const [otpHash, setOTPHash] = useState(``);
   const [name, setName] = useState("");
-  const [number, setNumber] = useState("");
+  const [] = useState("");
 
   const onSendOTP = async () => {
     const hash = await otpMailer(email);
