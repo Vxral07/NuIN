@@ -1472,6 +1472,16 @@ PLAYER`,
         date: "December 13, 2025",
         tags: ["gold", "gold price", "gold rise"],
     },
+    {
+        id: "34th",
+        image: "/etho/34.jpeg",
+        heading: "NUQI 2025 Ethosphere : 34th Edition",
+        description: `RATES ARE SOARING, SHOULD WE WORRY OR SEIZE THE OPPORTUNITY?`,
+
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-34th-Edition.pdf",
+        date: "january 20, 2025",
+        tags: ["gold", "gold price", "gold rise"],
+    },
 
 ];
 
