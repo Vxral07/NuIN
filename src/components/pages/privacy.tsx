@@ -89,7 +89,7 @@ const Privacy = () => {
 
           Nuqi Wealth shall be discharged from such performance to the extent of and during the period of such Force Majeure Event, and such non-performance of its obligations shall, in no event whatsoever, amount to a breach of its obligations.<br /><br />
 
-          <p className="font-bold text-xl text-white text-center">Miscellaneous:</p> <br /><br />
+          <p className="font-bold text-xl text-white">Miscellaneous:</p> 
           <p className="font-bold text-xl text-white">• Governing laws</p>
           For the resolution of any disputes arising out of your use of the Services or in connection with these Terms, these Terms shall be governed, interpreted, and construed by the laws of India, without giving effect to any conflicts of law’s provisions. Notwithstanding the foregoing, you agree that<br /><br /> (i) Nuqi Wealth may bring any proceedings before any court or forum of competent jurisdiction, and you irrevocably consent to their jurisdiction; and <br />(ii) any proceeding brought by you shall be exclusively before the courts in Mumbai, India.<br /><br />
 
@@ -117,7 +117,7 @@ const Privacy = () => {
               Privacy Policy
             </h1> */}
             <p className=" font-poppins">
-              <p className="font-bold text-xl text-white">1. Privacy Policy</p>
+              <p className="font-bold  text-xl text-white">1. Privacy Policy</p>
               This privacy policy applies to Nuqi Wealth India Pvt Ltd (herein referred to as "Nuqi") website at https://www.nuqiwealth.com (the "Website"). PLEASE REVIEW THIS PRIVACY POLICY CAREFULLY. By visiting and/or submitting information to or through this Website, you agree to be bound by the terms and consent to the collection, use, disclosure, retention and processing of your information as described in this privacy policy.<br /><br />
 
               <p className="font-bold text-xl text-white">2. Exclusion</p>
@@ -126,7 +126,7 @@ const Privacy = () => {
               <p className="font-bold text-xl text-white">3. Amendments to the Privacy Policy</p>
               This Privacy Policy will come into effect on February 20, 2021 (the "Effective Date"). Although most changes are likely to be minor, we may change our privacy policy from time to time, to reflect changes to the Website, customer feedback and applicable law and in our sole discretion. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. We encourage you to frequently check this page for any changes to the privacy policy. We will not make retroactive changes that reduce your privacy rights unless we are legally required to do so. Your continued use of the Website after any change in this privacy policy will constitute your acceptance of the amended privacy policy. <br /><br />
 
-              <p className="font-bold text-xl text-white text-center">INFORMATION WE COLLECT</p> <br />
+              <p className="font-bold text-xl text-white ">INFORMATION WE COLLECT</p> <br />
 
               <p className="font-bold text-xl text-white"> 4. Types of Information</p>
               We collect various kinds of information that you provide to us as well as information we obtain from your use of the Website. Some of the types of information that we collect include:<br /><br />
@@ -139,16 +139,16 @@ const Privacy = () => {
 
               <p className="font-bold text-xl text-white">Usage Data</p>
 
-              Information about an individual's online activity that, by itself, does not identify the individual, such as:<br /><br />
+              Information about an individual's online activity that, by itself, does not identify the individual, such as:<br />
 
               • technical information, including your browser type, service provider, IP address, operating system and webpages visited;<br />
               • information about what you've searched for and looked at while using the Website; or<br />
               • metadata, which means information related to items you made available through the Website, such as the date, time or location that a shared photograph or video was taken or posted.<br />
               Generally, we do not consider Usage Data as Personal Information because Usage Data by itself usually does not identify an individual. Personal Information and Usage Data may be linked together. Different types of information also may be linked together and, once linked, may identify an individual person. Some Usage Data may be Personal Information under applicable law.<br /><br />
 
-              <p className="font-bold text-xl text-white">Location Data</p> <br />
+              <p className="font-bold text-xl text-white">Location Data</p> 
 
-              A category of Personal Information collected about the location of a mobile device or computer, including:<br /><br />
+              A category of Personal Information collected about the location of a mobile device or computer, including:<br />
 
               • the location of the mobile device or computer used to access the Website derived from GPS or WiFi use;<br />
               • the IP address of the mobile device or computer or internet service used to access the Website; and; and<br />
@@ -156,7 +156,7 @@ const Privacy = () => {
               <p className="font-bold text-xl text-white"> 5. How We Collect Information</p>
               Whether we collect certain types of information and how we process it depends on how you use and access the Website. Some information is collected automatically through use of cookies and similar data collection tools. We collect information about you in the following ways: From You<br /><br />
 
-              <p className="font-bold text-xl text-white"> We collect information from you when you:</p> <br />
+              <p className="font-bold text-xl text-white"> We collect information from you when you:</p> 
 
               • Use our services. We collect Personal Information from you when you create an account to use one of our services, contact us for help or information or otherwise voluntarily provide your Personal Information.<br />
               • Connect with social media though the Website. The Website may offer you the ability to use Facebook Connect or other social media services (collectively, "Social Media") in conjunction with certain services. When you access the Website through your Facebook or other Social Media account, the Website may, depending on your privacy settings, have access to information that you have provided to the Social Media platform. We may use this information for the purposes described in section 6.<br />
@@ -164,13 +164,13 @@ const Privacy = () => {
 
               Third parties that assist us with our business operations also collect information (including Personal Information and Usage Data) about you through the Website and share it with us.<br />
 
-              We may combine the information we collect from you with information from other sources and use the combined information as described in this privacy policy.<br />
+              We may combine the information we collect from you with information from other sources and use the combined information as described in this privacy policy.<br /><br/>
 
-              <p className="font-bold text-xl text-white">Usage Data</p> <br />
+              <p className="font-bold text-xl text-white">Usage Data</p>
 
               We also automatically collect Usage Data when you interact with the Website.<br /><br />
 
-              <p className="font-bold text-xl text-white">From cookies and other data collection tools</p> <br />
+              <p className="font-bold text-xl text-white">From cookies and other data collection tools</p> 
 
               Our Website uses cookies. We use cookies to gather information about your computer for our services and to provide statistical information regarding the use of our Website. Such information will not identify you personally - it is statistical data about our visitors and their use of our Website. This statistical data does not identify any personal details whatsoever. We may also gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer, as cookies contain information that is transferred to your computer's hard drive. They help us to improve our Website and the service that we provide to you by tracking users' navigation habits and storing users' password, customizing users' experience with the Website; enabling us to analyze technical and navigational information; and helping to detect and prevent fraud.<br />
 
@@ -182,7 +182,7 @@ const Privacy = () => {
 
               All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our Website.<br /><br />
 
-              <p className="font-bold text-xl text-white"> 6. How We Use Your Information</p> <br />
+              <p className="font-bold text-xl text-white"> 6. How We Use Your Information</p> 
               We may process the information we collect/you provide to us primarily to enable us to provide our services to you. In addition, we may use the information for the following purposes:<br />
 
               • to operate, improve and personalize the products and services we offer, and to give each user a more consistent and personalized experience when interacting with us;<br />
@@ -197,7 +197,7 @@ const Privacy = () => {
 
               For example, personal information collected during use of one of the services may be used to suggest particular content that can be made available to the user on another service or be used to try to present more relevant advertising in another service.<br /><br />
 
-              <p className="font-bold text-xl text-white"> 7. How We Share and Disclose Your Information</p> <br />
+              <p className="font-bold text-xl text-white"> 7. How We Share and Disclose Your Information</p> 
               We may share and disclose information as described at the time information is collected or as follows:
 
               <p className="font-bold text-xl text-white">When you consent</p> <br />
@@ -214,15 +214,15 @@ const Privacy = () => {
 
               We may disclose Personal Information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries in order to perform services requested or functions initiated by users. In addition, we may disclose Personal Information in order to identify a user in connection with communications sent through the Website. With third party service providers performing services on our behalf We share information, including Personal Information, with our service providers to perform the functions for which we engage them (such as hosting and data analyses). We may share information as needed to operate other related services.<br /><br />
 
-              <p className="font-bold text-xl text-white text-center">For legal purposes</p> <br />
+              <p className="font-bold text-xl text-white">For legal purposes</p> 
 
-              We also may share information that we collect from users, as needed, to enforce our rights, protect our property or protect the rights, property or safety of others, or as needed to support external auditing, compliance and corporate governance functions. We will disclose Personal Information as we deem necessary to respond to a subpoena, regulation, binding order of a data protection agency, legal process, governmental request or other legal or regulatory process. We may also share Personal Information as required to pursue available remedies or limit damages we may sustain.<br />
+              We also may share information that we collect from users, as needed, to enforce our rights, protect our property or protect the rights, property or safety of others, or as needed to support external auditing, compliance and corporate governance functions. We will disclose Personal Information as we deem necessary to respond to a subpoena, regulation, binding order of a data protection agency, legal process, governmental request or other legal or regulatory process. We may also share Personal Information as required to pursue available remedies or limit damages we may sustain.<br /><br/>
 
-              <p className="font-bold text-xl text-white text-center"> In aggregated form</p> <br />
+              <p className="font-bold text-xl text-white "> In aggregated form</p> 
 
               We may share Personal Information about you in an aggregated form that is, in a statistical or summary form that does not include any personal identifiers, with third parties in order to discover and reveal trends about how users like you interact with our services.<br />
 
-              During corporate changes<br /><br />
+              During corporate changes<br />
 
               We may transfer information, including your Personal Information, in connection with a merger, sale, acquisition or other change of ownership or control by or of us or any affiliated company (in each case whether in whole or in part). When one of these events occurs, we will use reasonable efforts to notify users before your information is transferred or becomes subject to a different privacy policy.<br /><br />
 
@@ -328,7 +328,7 @@ const Privacy = () => {
 
           <p className="font-bold text-xl text-white">Nuqi Wealth India Private Limited</p> (herein after referred as ‘Investment Adviser’) is a partnership firm registered with Securities and Exchange Board of India under SEBI (Investment Advisers) Regulations, 2013 (“Regulations”) as an Investment Advisor, with Registration No. INA000016612 dated 31 January 2022, having its registered office at 16 Magnum Towers, 4 Bunglow, Lokandwala Complex, NR Rajput Dairy, Andheri West, Mumbai – 400058, Maharashtra, of the<p className="font-bold text-xl text-white">ONE PART.</p>
 
-          AND<br /><br />
+          AND<br />
 
           <p className="font-bold text-xl text-white">The Client</p> (also referred to as ‘the Client’) which expression shall, unless repugnant to or inconsistent with the context or meaning thereof, be deemed to mean and include if the Client is an individual (his/her heirs, executors, administrators and legal representatives and permitted assigns/family members); if the Client is a Partnership Firm, (the partners for the time being of the said firm, the survivor or survivors of them and their respective heirs, executors, administrators and legal representatives/its successors and permitted assigns); if the Client is a company or a body corporate or limited liability partnership or sole proprietor (its successors and permitted assigns); if the Client is the Karta of a Hindu Undivided Family, (the members for the time being of the said Hindu Undivided Family and their respective heirs, executors, administrators and assigns); if the Client is a Trust, (the principal trustee or the board of trustees or the trustees or person authorised by the board of trustees for the time being and from time to time) of the<p className="font-bold text-xl text-white">OTHER PART.</p> <br />
 
@@ -339,15 +339,15 @@ const Privacy = () => {
           With each of your visits to our website or app, we may automatically collect the following information: <br /> <br />• Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, location; browser plug-in types and versions, operating system, as well as the admin system and aggregated data reports. That data is statistical in nature and tells us about the navigational behaviour and actions of our users and does not divulge any information about the identity of any individual; and <br /><br />• Information about your visit; services you viewed or searched for; page response times, download errors, length of visits, page interaction information (such as scrolling, clicks, and mouse-overs); and • In addition, we may use third party services such as Google Analytics that collect, monitor and analyze information about Demographics and Navigational Behaviour. Demographics may include information such as gender, country of provenance and age. Navigational Behaviour may include information such as pages viewed during a session, time spent on a given page and engagement with the Site's content such as clicks and form submissions (e.g. an email subscription to our newsletter). <br /><br />
 
 
-          NUQI WEALTH INVESTMENT ADVISORY AGREEMENT <br /><br /><br />
+          NUQI WEALTH INVESTMENT ADVISORY AGREEMENT <br /><br />
 
 
 
 
 
-          <p className="font-bold text-xl text-white">Nuqi Wealth India Private Limited</p> (herein after referred as ‘Investment Adviser’) is a partnership firm registered with Securities and Exchange Board of India under SEBI (Investment Advisers) Regulations, 2013 (“Regulations”) as an Investment Advisor, with Registration No. INA000016612 dated 31 January 2022, having its registered office at 16 Magnum Towers, 4 Bunglow, Lokandwala Complex, NR Rajput Dairy, Andheri West, Mumbai – 400058, Maharashtra, of the<p className="font-bold text-xl text-white">ONE PART.</p> 
+          <p className="font-bold text-xl text-white">Nuqi Wealth India Private Limited</p> (herein after referred as ‘Investment Adviser’) is a partnership firm registered with Securities and Exchange Board of India under SEBI (Investment Advisers) Regulations, 2013 (“Regulations”) as an Investment Advisor, with Registration No. INA000016612 dated 31 January 2022, having its registered office at 16 Magnum Towers, 4 Bunglow, Lokandwala Complex, NR Rajput Dairy, Andheri West, Mumbai – 400058, Maharashtra, of the<p className="font-bold text-xl text-white">ONE PART.</p>
 
-          AND<br /><br />
+          AND<br />
 
           <p className="font-bold text-xl text-white">The Client</p> (also referred to as ‘the Client’) which expression shall, unless repugnant to or inconsistent with the context or meaning thereof, be deemed to mean and include if the Client is an individual (his/her heirs, executors, administrators and legal representatives and permitted assigns/family members); if the Client is a Partnership Firm, (the partners for the time being of the said firm, the survivor or survivors of them and their respective heirs, executors, administrators and legal representatives/its successors and permitted assigns); if the Client is a company or a body corporate or limited liability partnership or sole proprietor (its successors and permitted assigns); if the Client is the Karta of a Hindu Undivided Family, (the members for the time being of the said Hindu Undivided Family and their respective heirs, executors, administrators and assigns); if the Client is a Trust, (the principal trustee or the board of trustees or the trustees or person authorised by the board of trustees for the time being and from time to time) of the<p className="font-bold text-xl text-white">OTHER PART.</p> <br />
 

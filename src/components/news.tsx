@@ -30,6 +30,14 @@ const newsData = [
     imageAlt: "Generation Z empowerment initiative",
     link: "https://dailyguardian.ae/empowering-gen-z-nuqi-digital-wealths-approach-to-sustainable-investing-for-the-younger-generation/",
   },
+  
+  {
+    imageSrc:
+      "https://cdn.builder.io/api/v1/image/assets/TEMP/be4457d7fbb826cadc89ca9b6a85977daabbe691adf0bfd88325245b34fcc843?placeholderIfAbsent=true&apiKey=8031103fb59b4417b3d6df6558972104",
+    title: "Empowering Gen Z",
+    imageAlt: "Generation Z empowerment initiative",
+    link: "https://dailyguardian.ae/empowering-gen-z-nuqi-digital-wealths-approach-to-sustainable-investing-for-the-younger-generation/",
+  },
 ];
 
 export const News: React.FC = () => {
