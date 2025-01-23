@@ -17,7 +17,7 @@ export const FAQSection: React.FC = () => {
           NUQI is an independent advisory platform, licensed by SEBI in India aimed at both first-time investors starting their investment journey and seasoned investors looking to diversify their portfolio.
           NUQI deploys its in-house expertise to create portfolios tailored for specific Investor profile/ Investment Themes. NUQI has a team of qualified Investment Managers and select financial bodies to
           independently screen the Universe of Ethical investments with both Domestic and International market exposures. The platform uses multiple criteria to make a selection of Stocks, ETFs, Mutual funds, Sukuks etc.
-          with Social Equity, Ethical operations, good Governance, and Environment protection as core investment themes which are considered as key elements aimed towards Sustainable Growth.
+          with Social Equity, Ethical operations, good Governance, and Environment protection as core iqnvestment themes which are considered as key elements aimed towards Sustainable Growth.
 
         </p>
       </div>
