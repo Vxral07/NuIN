@@ -38,9 +38,9 @@ const newsData = [
   {
     imageSrc:
       "/khaleeji.png",
-    title: "",
+    title: "Nuqi Digital wealth granted DFSA license",
     imageAlt: "Generation Z empowerment initiative",
-    link: "https://dailyguardian.ae/empowering-gen-z-nuqi-digital-wealths-approach-to-sustainable-investing-for-the-younger-generation/",
+    link: "https://www.khaleejtimes.com/kt-network/nuqi-digital-wealth-granted-dfsa-licence",
   },
 ];
 
