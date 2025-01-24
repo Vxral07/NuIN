@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const Privacy = () => {
-  const [selectedPage, setSelectedPage] = useState("privacy"); // Default to Privacy Policy
+  const [selectedPage, setSelectedPage] = useState("terms"); // Default to Privacy Policy
 
   const renderContent = () => {
     switch (selectedPage) {
@@ -197,10 +197,10 @@ const Privacy = () => {
 
               For example, personal information collected during use of one of the services may be used to suggest particular content that can be made available to the user on another service or be used to try to present more relevant advertising in another service.<br /><br />
 
-              <p className="font-bold text-xl text-white"> 7. How We Share and Disclose Your Information</p> 
+              <p className="font-bold text-xl text-white"> 7. How We Share and Disclose Your Information We may share and disclose information as described at the time information is collected or as follows:</p> 
               We may share and disclose information as described at the time information is collected or as follows:
 
-              <p className="font-bold text-xl text-white">When you consent</p> <br />
+              <p className="font-bold text-xl text-white">When you consent</p> 
 
               We may share Personal Information with third parties if you have given us your consent to do so or:<br />
 
@@ -324,13 +324,13 @@ const Privacy = () => {
         return <p>
 
 
-          NUQI WEALTH INVESTMENT ADVISORY AGREEMENT <br /><br /><br />
+          NUQI WEALTH INVESTMENT ADVISORY AGREEMENT <br /><br />
 
-          <p className="font-bold text-xl text-white">Nuqi Wealth India Private Limited</p> (herein after referred as ‘Investment Adviser’) is a partnership firm registered with Securities and Exchange Board of India under SEBI (Investment Advisers) Regulations, 2013 (“Regulations”) as an Investment Advisor, with Registration No. INA000016612 dated 31 January 2022, having its registered office at 16 Magnum Towers, 4 Bunglow, Lokandwala Complex, NR Rajput Dairy, Andheri West, Mumbai – 400058, Maharashtra, of the<p className="font-bold text-xl text-white">ONE PART.</p>
+          <p className="font-bold text-xl text-white">Nuqi Wealth India Private Limited</p> (herein after referred as ‘Investment Adviser’) is a partnership firm registered with Securities and Exchange Board of India under SEBI (Investment Advisers) Regulations, 2013 (“Regulations”) as an Investment Advisor, with Registration No. INA000016612 dated 31 January 2022, having its registered office at 16 Magnum Towers, 4 Bunglow, Lokandwala Complex, NR Rajput Dairy, Andheri West, Mumbai – 400058, Maharashtra, of the<p className="font-semibold text-lg text-white">ONE PART.</p>
 
           AND<br />
 
-          <p className="font-bold text-xl text-white">The Client</p> (also referred to as ‘the Client’) which expression shall, unless repugnant to or inconsistent with the context or meaning thereof, be deemed to mean and include if the Client is an individual (his/her heirs, executors, administrators and legal representatives and permitted assigns/family members); if the Client is a Partnership Firm, (the partners for the time being of the said firm, the survivor or survivors of them and their respective heirs, executors, administrators and legal representatives/its successors and permitted assigns); if the Client is a company or a body corporate or limited liability partnership or sole proprietor (its successors and permitted assigns); if the Client is the Karta of a Hindu Undivided Family, (the members for the time being of the said Hindu Undivided Family and their respective heirs, executors, administrators and assigns); if the Client is a Trust, (the principal trustee or the board of trustees or the trustees or person authorised by the board of trustees for the time being and from time to time) of the<p className="font-bold text-xl text-white">OTHER PART.</p> <br />
+          <p className="font-semibold text-lg text-white">The Client</p> (also referred to as ‘the Client’) which expression shall, unless repugnant to or inconsistent with the context or meaning thereof, be deemed to mean and include if the Client is an individual (his/her heirs, executors, administrators and legal representatives and permitted assigns/family members); if the Client is a Partnership Firm, (the partners for the time being of the said firm, the survivor or survivors of them and their respective heirs, executors, administrators and legal representatives/its successors and permitted assigns); if the Client is a company or a body corporate or limited liability partnership or sole proprietor (its successors and permitted assigns); if the Client is the Karta of a Hindu Undivided Family, (the members for the time being of the said Hindu Undivided Family and their respective heirs, executors, administrators and assigns); if the Client is a Trust, (the principal trustee or the board of trustees or the trustees or person authorised by the board of trustees for the time being and from time to time) of the<p className="font-semibold text-lg text-white">OTHER PART.</p> 
 
           “Parties” means the Investment Adviser and the Client; and “Party” shall be construed accordingly.
         </p>;
@@ -339,17 +339,17 @@ const Privacy = () => {
           With each of your visits to our website or app, we may automatically collect the following information: <br /> <br />• Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, location; browser plug-in types and versions, operating system, as well as the admin system and aggregated data reports. That data is statistical in nature and tells us about the navigational behaviour and actions of our users and does not divulge any information about the identity of any individual; and <br /><br />• Information about your visit; services you viewed or searched for; page response times, download errors, length of visits, page interaction information (such as scrolling, clicks, and mouse-overs); and • In addition, we may use third party services such as Google Analytics that collect, monitor and analyze information about Demographics and Navigational Behaviour. Demographics may include information such as gender, country of provenance and age. Navigational Behaviour may include information such as pages viewed during a session, time spent on a given page and engagement with the Site's content such as clicks and form submissions (e.g. an email subscription to our newsletter). <br /><br />
 
 
-          NUQI WEALTH INVESTMENT ADVISORY AGREEMENT <br /><br />
+          NUQI WEALTH INVESTMENT ADVISORY AGREEMENT <br />
 
 
 
 
 
-          <p className="font-bold text-xl text-white">Nuqi Wealth India Private Limited</p> (herein after referred as ‘Investment Adviser’) is a partnership firm registered with Securities and Exchange Board of India under SEBI (Investment Advisers) Regulations, 2013 (“Regulations”) as an Investment Advisor, with Registration No. INA000016612 dated 31 January 2022, having its registered office at 16 Magnum Towers, 4 Bunglow, Lokandwala Complex, NR Rajput Dairy, Andheri West, Mumbai – 400058, Maharashtra, of the<p className="font-bold text-xl text-white">ONE PART.</p>
+          <p className="font-bold text-xl text-white">Nuqi Wealth India Private Limited</p> (herein after referred as ‘Investment Adviser’) is a partnership firm registered with Securities and Exchange Board of India under SEBI (Investment Advisers) Regulations, 2013 (“Regulations”) as an Investment Advisor, with Registration No. INA000016612 dated 31 January 2022, having its registered office at 16 Magnum Towers, 4 Bunglow, Lokandwala Complex, NR Rajput Dairy, Andheri West, Mumbai – 400058, Maharashtra, of the<p className="font-semibold text-lg text-white">ONE PART.</p>
 
           AND<br />
 
-          <p className="font-bold text-xl text-white">The Client</p> (also referred to as ‘the Client’) which expression shall, unless repugnant to or inconsistent with the context or meaning thereof, be deemed to mean and include if the Client is an individual (his/her heirs, executors, administrators and legal representatives and permitted assigns/family members); if the Client is a Partnership Firm, (the partners for the time being of the said firm, the survivor or survivors of them and their respective heirs, executors, administrators and legal representatives/its successors and permitted assigns); if the Client is a company or a body corporate or limited liability partnership or sole proprietor (its successors and permitted assigns); if the Client is the Karta of a Hindu Undivided Family, (the members for the time being of the said Hindu Undivided Family and their respective heirs, executors, administrators and assigns); if the Client is a Trust, (the principal trustee or the board of trustees or the trustees or person authorised by the board of trustees for the time being and from time to time) of the<p className="font-bold text-xl text-white">OTHER PART.</p> <br />
+          <p className="font-semibold text-lg text-white">The Client</p> (also referred to as ‘the Client’) which expression shall, unless repugnant to or inconsistent with the context or meaning thereof, be deemed to mean and include if the Client is an individual (his/her heirs, executors, administrators and legal representatives and permitted assigns/family members); if the Client is a Partnership Firm, (the partners for the time being of the said firm, the survivor or survivors of them and their respective heirs, executors, administrators and legal representatives/its successors and permitted assigns); if the Client is a company or a body corporate or limited liability partnership or sole proprietor (its successors and permitted assigns); if the Client is the Karta of a Hindu Undivided Family, (the members for the time being of the said Hindu Undivided Family and their respective heirs, executors, administrators and assigns); if the Client is a Trust, (the principal trustee or the board of trustees or the trustees or person authorised by the board of trustees for the time being and from time to time) of the<p className="font-semibold text-lg text-white">OTHER PART.</p> 
 
           “Parties” means the Investment Adviser and the Client; and “Party” shall be construed accordingly.
         </p>; <br />

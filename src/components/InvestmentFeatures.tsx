@@ -19,7 +19,7 @@ export const InvestmentFeatures: React.FC = () => {
     {
       title: "Secure and Regulated",
       description:
-        "NUQI Digital Wealth (DIFC) operates under the robust oversight of DFSA regulations, ensuring smooth and compliant product offerings tailored to your requirements. With retail endorsement, NUQI lowers entry barriers, making quality investment opportunities more accessible.",
+        "NUQI Digital Wealth (SEBI) operates under the robust oversight of DFSA regulations, ensuring smooth and compliant product offerings tailored to your requirements. With retail endorsement, NUQI lowers entry barriers, making quality investment opportunities more accessible.",
     },
     {
       title: "Tailored Equity Solutions",
