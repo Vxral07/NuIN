@@ -320,7 +320,7 @@ const Privacy = () => {
           For Queries/Grievances Email: investorgrievance@nuqiwealth.com
 
         </p>;
-      case "cookie":
+      case "legal":
         return <p>
 
 
@@ -334,7 +334,7 @@ const Privacy = () => {
 
           “Parties” means the Investment Adviser and the Client; and “Party” shall be construed accordingly.
         </p>;
-      case "termsConditions":
+      case "cokies":
         return <p>
           With each of your visits to our website or app, we may automatically collect the following information: <br /> <br />• Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, location; browser plug-in types and versions, operating system, as well as the admin system and aggregated data reports. That data is statistical in nature and tells us about the navigational behaviour and actions of our users and does not divulge any information about the identity of any individual; and <br /><br />• Information about your visit; services you viewed or searched for; page response times, download errors, length of visits, page interaction information (such as scrolling, clicks, and mouse-overs); and • In addition, we may use third party services such as Google Analytics that collect, monitor and analyze information about Demographics and Navigational Behaviour. Demographics may include information such as gender, country of provenance and age. Navigational Behaviour may include information such as pages viewed during a session, time spent on a given page and engagement with the Site's content such as clicks and form submissions (e.g. an email subscription to our newsletter). <br /><br />
 
@@ -382,7 +382,7 @@ const Privacy = () => {
                     ? "bg-cyan-400 text-black font-semibold"
                     : "hover:bg-cyan-400 text-white text-xl"
                     }`}
-                  onClick={() => setSelectedPage("termsConditions")}
+                  onClick={() => setSelectedPage("cokies")}
                 >
                   Cookie Policy
                 </button>
@@ -427,7 +427,7 @@ const Privacy = () => {
                     ? "bg-cyan-400 text-black font-semibold"
                     : "hover:bg-cyan-400 text-white text-xl"
                     }`}
-                  onClick={() => setSelectedPage("cookie")}
+                  onClick={() => setSelectedPage("legal")}
                 >
                   Legal & Regulatory
                 </button>
@@ -445,10 +445,10 @@ const Privacy = () => {
                     ? "Terms of Use"
                     : selectedPage === "disclaimer"
                       ? "Disclaimer"
-                      : selectedPage === "cookie"
+                      : selectedPage === "legal"
                         ? "Legal & Regulatory"
-                        : selectedPage === "moneyDisclaimer"
-                          ? "Disclaimer for Money" // New section added here
+                        : selectedPage === "cokies"
+                          ? "Cookie Police" // New section added here
                           : "Cookie Policy"}
               </h2>
             </div>
