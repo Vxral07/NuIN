@@ -131,7 +131,7 @@ Pre-designed portfolios by qualified investment advisors for long term investing
           }
           description={
             <>
-              YES, our Curated Equity Portfolios (CEP’s) are based on Ethical / Social & Sustainable ESS Principles.
+              YES, our Curated Equity Portfolios (CEPs) are based on Ethical / Social & Sustainable ESS Principles.
             </>
           }
           customStyles="min-h-[200px] max-sm:mx-2  border border-solid border-white border-opacity-40 rounded-[50px]"
