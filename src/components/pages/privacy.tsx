@@ -89,7 +89,7 @@ const Privacy = () => {
 
           Nuqi Wealth shall be discharged from such performance to the extent of and during the period of such Force Majeure Event, and such non-performance of its obligations shall, in no event whatsoever, amount to a breach of its obligations.<br /><br />
 
-          <p className="font-bold text-xl text-white">Miscellaneous:</p> 
+          <p className="font-bold text-xl text-white">Miscellaneous:</p>
           <p className="font-bold text-xl text-white">• Governing laws</p>
           For the resolution of any disputes arising out of your use of the Services or in connection with these Terms, these Terms shall be governed, interpreted, and construed by the laws of India, without giving effect to any conflicts of law’s provisions. Notwithstanding the foregoing, you agree that<br /><br /> (i) Nuqi Wealth may bring any proceedings before any court or forum of competent jurisdiction, and you irrevocably consent to their jurisdiction; and <br />(ii) any proceeding brought by you shall be exclusively before the courts in Mumbai, India.<br /><br />
 
@@ -146,7 +146,7 @@ const Privacy = () => {
               • metadata, which means information related to items you made available through the Website, such as the date, time or location that a shared photograph or video was taken or posted.<br />
               Generally, we do not consider Usage Data as Personal Information because Usage Data by itself usually does not identify an individual. Personal Information and Usage Data may be linked together. Different types of information also may be linked together and, once linked, may identify an individual person. Some Usage Data may be Personal Information under applicable law.<br /><br />
 
-              <p className="font-bold text-xl text-white">Location Data</p> 
+              <p className="font-bold text-xl text-white">Location Data</p>
 
               A category of Personal Information collected about the location of a mobile device or computer, including:<br />
 
@@ -156,7 +156,7 @@ const Privacy = () => {
               <p className="font-bold text-xl text-white"> 5. How We Collect Information</p>
               Whether we collect certain types of information and how we process it depends on how you use and access the Website. Some information is collected automatically through use of cookies and similar data collection tools. We collect information about you in the following ways: From You<br /><br />
 
-              <p className="font-bold text-xl text-white"> We collect information from you when you:</p> 
+              <p className="font-bold text-xl text-white"> We collect information from you when you:</p>
 
               • Use our services. We collect Personal Information from you when you create an account to use one of our services, contact us for help or information or otherwise voluntarily provide your Personal Information.<br />
               • Connect with social media though the Website. The Website may offer you the ability to use Facebook Connect or other social media services (collectively, "Social Media") in conjunction with certain services. When you access the Website through your Facebook or other Social Media account, the Website may, depending on your privacy settings, have access to information that you have provided to the Social Media platform. We may use this information for the purposes described in section 6.<br />
@@ -164,13 +164,13 @@ const Privacy = () => {
 
               Third parties that assist us with our business operations also collect information (including Personal Information and Usage Data) about you through the Website and share it with us.<br />
 
-              We may combine the information we collect from you with information from other sources and use the combined information as described in this privacy policy.<br /><br/>
+              We may combine the information we collect from you with information from other sources and use the combined information as described in this privacy policy.<br /><br />
 
               <p className="font-bold text-xl text-white">Usage Data</p>
 
               We also automatically collect Usage Data when you interact with the Website.<br /><br />
 
-              <p className="font-bold text-xl text-white">From cookies and other data collection tools</p> 
+              <p className="font-bold text-xl text-white">From cookies and other data collection tools</p>
 
               Our Website uses cookies. We use cookies to gather information about your computer for our services and to provide statistical information regarding the use of our Website. Such information will not identify you personally - it is statistical data about our visitors and their use of our Website. This statistical data does not identify any personal details whatsoever. We may also gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer, as cookies contain information that is transferred to your computer's hard drive. They help us to improve our Website and the service that we provide to you by tracking users' navigation habits and storing users' password, customizing users' experience with the Website; enabling us to analyze technical and navigational information; and helping to detect and prevent fraud.<br />
 
@@ -182,7 +182,7 @@ const Privacy = () => {
 
               All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our Website.<br /><br />
 
-              <p className="font-bold text-xl text-white"> 6. How We Use Your Information</p> 
+              <p className="font-bold text-xl text-white"> 6. How We Use Your Information</p>
               We may process the information we collect/you provide to us primarily to enable us to provide our services to you. In addition, we may use the information for the following purposes:<br />
 
               • to operate, improve and personalize the products and services we offer, and to give each user a more consistent and personalized experience when interacting with us;<br />
@@ -197,10 +197,10 @@ const Privacy = () => {
 
               For example, personal information collected during use of one of the services may be used to suggest particular content that can be made available to the user on another service or be used to try to present more relevant advertising in another service.<br /><br />
 
-              <p className="font-bold text-xl text-white"> 7. How We Share and Disclose Your Information We may share and disclose information as described at the time information is collected or as follows:</p> 
+              <p className="font-bold text-xl text-white"> 7. How We Share and Disclose Your Information We may share and disclose information as described at the time information is collected or as follows:</p>
               We may share and disclose information as described at the time information is collected or as follows:
 
-              <p className="font-bold text-xl text-white">When you consent</p> 
+              <p className="font-bold text-xl text-white">When you consent</p>
 
               We may share Personal Information with third parties if you have given us your consent to do so or:<br />
 
@@ -214,11 +214,11 @@ const Privacy = () => {
 
               We may disclose Personal Information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries in order to perform services requested or functions initiated by users. In addition, we may disclose Personal Information in order to identify a user in connection with communications sent through the Website. With third party service providers performing services on our behalf We share information, including Personal Information, with our service providers to perform the functions for which we engage them (such as hosting and data analyses). We may share information as needed to operate other related services.<br /><br />
 
-              <p className="font-bold text-xl text-white">For legal purposes</p> 
+              <p className="font-bold text-xl text-white">For legal purposes</p>
 
-              We also may share information that we collect from users, as needed, to enforce our rights, protect our property or protect the rights, property or safety of others, or as needed to support external auditing, compliance and corporate governance functions. We will disclose Personal Information as we deem necessary to respond to a subpoena, regulation, binding order of a data protection agency, legal process, governmental request or other legal or regulatory process. We may also share Personal Information as required to pursue available remedies or limit damages we may sustain.<br /><br/>
+              We also may share information that we collect from users, as needed, to enforce our rights, protect our property or protect the rights, property or safety of others, or as needed to support external auditing, compliance and corporate governance functions. We will disclose Personal Information as we deem necessary to respond to a subpoena, regulation, binding order of a data protection agency, legal process, governmental request or other legal or regulatory process. We may also share Personal Information as required to pursue available remedies or limit damages we may sustain.<br /><br />
 
-              <p className="font-bold text-xl text-white "> In aggregated form</p> 
+              <p className="font-bold text-xl text-white "> In aggregated form</p>
 
               We may share Personal Information about you in an aggregated form that is, in a statistical or summary form that does not include any personal identifiers, with third parties in order to discover and reveal trends about how users like you interact with our services.<br />
 
@@ -247,110 +247,97 @@ const Privacy = () => {
         );
       case "disclaimer":
         return <p>
-      
-          Nuqi Wealth India Private Limited (Nuqi Wealth)<br/><br/>
 
-          Nuqi Wealth makes no warranties or representations, express or implied, on products and services offered through the website/or its platform. It accepts no liability for any damages or losses, however, caused in connection with the use of related services.<br/><br/>
+          Nuqi Wealth India Private Limited (Nuqi Wealth)<br /><br />
 
-          All information placed on Nuqi Wealth website is for the securities quoted are for illustration only and are not recommendatory and does not constitute as an offer to sell or buy a security. Further, any information on the website is not intended as investment advice. The information is only for consumption by the client and such material should not be redistributed.<br/><br/>
+          Nuqi Wealth makes no warranties or representations, express or implied, on products and services offered through the website/or its platform. It accepts no liability for any damages or losses, however, caused in connection with the use of related services.<br /><br />
 
-          Once customers have been referred, they are solely responsible for any and all orders placed by them, and understand that all orders are unsolicited and based on their own investment decisions. All processes including KYC will be executed by the referred Third Party broker & Banks where applicable as specified by the government regulations, directly with client and Nuqi Wealth will not incur any personal financial liability.<br/><br/>
+          All information placed on Nuqi Wealth website is for the securities quoted are for illustration only and are not recommendatory and does not constitute as an offer to sell or buy a security. Further, any information on the website is not intended as investment advice. The information is only for consumption by the client and such material should not be redistributed.<br /><br />
 
-          Nuqi Wealth, its affiliates, directors and employees may have a long or short position in any securities of this issuer(s) or in related investments. Nuqi Wealth is a financial advisory service and is engaged as a distributor of financial products & services in strategic distribution partnerships. Customers need to check products & features before investing since the contours of the product rates may change from time to time. All logos and trademarks belong to their respective legal owners.<br/><br/>
+          Once customers have been referred, they are solely responsible for any and all orders placed by them, and understand that all orders are unsolicited and based on their own investment decisions. All processes including KYC will be executed by the referred Third Party broker & Banks where applicable as specified by the government regulations, directly with client and Nuqi Wealth will not incur any personal financial liability.<br /><br />
 
-           <p className="font-bold text-xl text-white">Investment risks</p>
-          Investments carry unknown risks and uncertainties linked to markets, as well as analysts’ expectations about future events. They should not, therefore, be the sole basis of investment decisions. There are risks associated with investing in securities, stocks, bonds, exchange traded funds, mutual funds, and money market funds involve risk of loss. Loss of principal is possible. Any investment opportunities’ past performance does not guarantee future performance. Historical returns, expected returns, and probability projections are provided for informational and illustrative purposes, and may not reflect actual future performance. The securities quoted are for illustration only and are not recommendatory. Keep in mind that while diversification may help spread risk it does not assure a profit, or protect against loss, in a down market. There is always the potential of losing money when you invest in securities, or other financial products. Investors should consider their investment objectives and risks carefully before investing. Investors should be aware that system response, execution price, speed, liquidity, market data, and account access times are affected by many factors, including market volatility, size and type of order, market conditions, system performance, and other factors.<br/><br/>
+          Nuqi Wealth, its affiliates, directors and employees may have a long or short position in any securities of this issuer(s) or in related investments. Nuqi Wealth is a financial advisory service and is engaged as a distributor of financial products & services in strategic distribution partnerships. Customers need to check products & features before investing since the contours of the product rates may change from time to time. All logos and trademarks belong to their respective legal owners.<br /><br />
 
-          The recommendations and reviews do not guarantee fund performance, nor should they be viewed as an assessment of a fund’s, or the fund’s underlying securities’ creditworthiness.<br/><br/>
+          <p className="font-bold text-xl text-white">Investment risks</p>
+          Investments carry unknown risks and uncertainties linked to markets, as well as analysts’ expectations about future events. They should not, therefore, be the sole basis of investment decisions. There are risks associated with investing in securities, stocks, bonds, exchange traded funds, mutual funds, and money market funds involve risk of loss. Loss of principal is possible. Any investment opportunities’ past performance does not guarantee future performance. Historical returns, expected returns, and probability projections are provided for informational and illustrative purposes, and may not reflect actual future performance. The securities quoted are for illustration only and are not recommendatory. Keep in mind that while diversification may help spread risk it does not assure a profit, or protect against loss, in a down market. There is always the potential of losing money when you invest in securities, or other financial products. Investors should consider their investment objectives and risks carefully before investing. Investors should be aware that system response, execution price, speed, liquidity, market data, and account access times are affected by many factors, including market volatility, size and type of order, market conditions, system performance, and other factors.<br /><br />
 
-          Investments in securities market are subject to market risks. Read all the related documents carefully before investing.<br/><br/>
+          The recommendations and reviews do not guarantee fund performance, nor should they be viewed as an assessment of a fund’s, or the fund’s underlying securities’ creditworthiness.<br /><br />
 
-          Registration granted by SEBI, membership of BASL and certification from NISM in no way guarantee performance of the intermediary or provide any assurance of returns to investors.<br/><br/>
+          Investments in securities market are subject to market risks. Read all the related documents carefully before investing.<br /><br />
 
-          Nuqi Wealth makes no warranties or representations, express or implied, on products offered through the platform. It accepts no liability for any damages or losses, however caused, in connection with the use of, or on the reliance of its product or related services. Terms and conditions of the website are applicable.<br/><br/>
+          Registration granted by SEBI, membership of BASL and certification from NISM in no way guarantee performance of the intermediary or provide any assurance of returns to investors.<br /><br />
+
+          Nuqi Wealth makes no warranties or representations, express or implied, on products offered through the platform. It accepts no liability for any damages or losses, however caused, in connection with the use of, or on the reliance of its product or related services. Terms and conditions of the website are applicable.<br /><br />
 
           <p className="font-bold text-xl text-white">Operating countries </p>
-          While this website can be accessed worldwide, it is intended for use only in the country specified and licensed to operate as shared. Presently the intended use is for Indians residing in India. If you choose to access this website from any location then you do so at your own risk. The owners of this website do not partake any responsibility in such.<br/><br/>
+          While this website can be accessed worldwide, it is intended for use only in the country specified and licensed to operate as shared. Presently the intended use is for Indians residing in India. If you choose to access this website from any location then you do so at your own risk. The owners of this website do not partake any responsibility in such.<br /><br />
 
-         <p className="font-bold text-xl text-white">  Use of the website</p>
-          The access and use of any product, service or links on this website is expressly subject to the terms of this Disclaimer and the Terms of Use of Nuqi Wealth India Pvt Ltd. (herein referred to as "Nuqi/Nuqi Wealth") and group companies. If you do not agree with any part of this Disclaimer and/or the Terms of Use, you must immediately discontinue your access and any use of this website. This Disclaimer and/or the Terms of Use may change from time to time without notice. By continuing to access and/or use any information/ products/services available on or through this website, you are bound in agreement by this Disclaimer.<br/><br/>
+          <p className="font-bold text-xl text-white">  Use of the website</p>
+          The access and use of any product, service or links on this website is expressly subject to the terms of this Disclaimer and the Terms of Use of Nuqi Wealth India Pvt Ltd. (herein referred to as "Nuqi/Nuqi Wealth") and group companies. If you do not agree with any part of this Disclaimer and/or the Terms of Use, you must immediately discontinue your access and any use of this website. This Disclaimer and/or the Terms of Use may change from time to time without notice. By continuing to access and/or use any information/ products/services available on or through this website, you are bound in agreement by this Disclaimer.<br /><br />
 
-          The owners, directors, partners and employees of Nuqi Wealth shall not in any event be liable for any damages or lawsuits arising out of your access and use of this website and its mobile app, or from your reliance on any information provided here. The website and mobile app of Nuqi is hosted by a third party and uses high speed internet to function including a password chosen by its registered users. Any loss of data, lost profit, damages or any resulting loss and any liability as such is disclaimed by Nuqi.<br/><br/>
+          The owners, directors, partners and employees of Nuqi Wealth shall not in any event be liable for any damages or lawsuits arising out of your access and use of this website and its mobile app, or from your reliance on any information provided here. The website and mobile app of Nuqi is hosted by a third party and uses high speed internet to function including a password chosen by its registered users. Any loss of data, lost profit, damages or any resulting loss and any liability as such is disclaimed by Nuqi.<br /><br />
 
-           <p className="font-bold text-xl text-white">General Information and Circulation</p>
-          The information and materials provided here, or from third parties, on Nuqi’s website/webpages, on partner websites, in marketing materials, videos, newsletters or any form of communications are provided for general information only.<br/><br/>
+          <p className="font-bold text-xl text-white">General Information and Circulation</p>
+          The information and materials provided here, or from third parties, on Nuqi’s website/webpages, on partner websites, in marketing materials, videos, newsletters or any form of communications are provided for general information only.<br /><br />
 
-           <p className="font-bold text-xl text-white">No Recommendation or Advice</p>
-          None of the information contained here constitutes an offer (or solicitation of an offer) to buy or sell any currency, product or financial instrument, to make any investment, or to participate in any particular trading strategy.<br/><br/>
+          <p className="font-bold text-xl text-white">No Recommendation or Advice</p>
+          None of the information contained here constitutes an offer (or solicitation of an offer) to buy or sell any currency, product or financial instrument, to make any investment, or to participate in any particular trading strategy.<br /><br />
 
           Nuqi also does not warrant that such information and publications are accurate, up to date or applicable to the circumstances of any particular case.
 
-          Any expression of opinion (which may be subject to change without notice) is personal to the author and the author makes no guarantee of any sort regarding accuracy or completeness of any information or analysis supplied.<br/><br/>
+          Any expression of opinion (which may be subject to change without notice) is personal to the author and the author makes no guarantee of any sort regarding accuracy or completeness of any information or analysis supplied.<br /><br />
 
-           <p className="font-bold text-xl text-white">Copyright</p>
-          The works of authorship contained in this website, including but not limited to all designs, texts and images, are owned, except as otherwise expressly stated, by Nuqi, and may not be copied, reproduced, transmitted, displayed, performed, distributed, rented, sublicensed, altered, stored for subsequent use or otherwise used in whole or in part in any manner without the prior written consent of Nuqi.<br/><br/>
+          <p className="font-bold text-xl text-white">Copyright</p>
+          The works of authorship contained in this website, including but not limited to all designs, texts and images, are owned, except as otherwise expressly stated, by Nuqi, and may not be copied, reproduced, transmitted, displayed, performed, distributed, rented, sublicensed, altered, stored for subsequent use or otherwise used in whole or in part in any manner without the prior written consent of Nuqi.<br /><br />
 
-          Third party services – Linked Sites and Banners <br/><br/><p className="font-bold text-xl text-white">The Client</p>
-          On this website, other companies and third parties may advertise or may have their products and/or services accessible through links or banners. Any descriptions of, references to, or links to other products, publications or services does not constitute an endorsement, authorisation, sponsorship by or affiliation with Nuqi Wealth with respect to any linked site or its sponsor, unless expressly stated by Nuqi Wealth. Any such information, products or sites have not necessarily been reviewed by Nuqi Wealth and are provided or maintained by third parties over whom Nuqi Wealth exercise no control. Nuqi. Nuqi is not responsible/liable and does not accept any responsibility/liability for the contents of any such banners, linked sites or for the products and/or services offered/accessible from such banners or linked sites. If you decide to act on any such information or offers, you do so entirely at your own risk. In particular you agree that if you should access such linked sites through clicking on the relevant site link(s) on this website, you will then be leaving this website and be proceeding on to the linked site where you will be subject to the terms of that linked site.<br/><br/>
+          Third party services – Linked Sites and Banners <br /><br /><p className="font-bold text-xl text-white">The Client</p>
+          On this website, other companies and third parties may advertise or may have their products and/or services accessible through links or banners. Any descriptions of, references to, or links to other products, publications or services does not constitute an endorsement, authorisation, sponsorship by or affiliation with Nuqi Wealth with respect to any linked site or its sponsor, unless expressly stated by Nuqi Wealth. Any such information, products or sites have not necessarily been reviewed by Nuqi Wealth and are provided or maintained by third parties over whom Nuqi Wealth exercise no control. Nuqi. Nuqi is not responsible/liable and does not accept any responsibility/liability for the contents of any such banners, linked sites or for the products and/or services offered/accessible from such banners or linked sites. If you decide to act on any such information or offers, you do so entirely at your own risk. In particular you agree that if you should access such linked sites through clicking on the relevant site link(s) on this website, you will then be leaving this website and be proceeding on to the linked site where you will be subject to the terms of that linked site.<br /><br />
 
           <p className="font-bold text-xl text-white">No Endorsement of Third Party Services </p>
-          Reference to any third party information (including information provided by a third party or accessible through any linked site), product, process, or services at this website or any linked site is not an express or implied endorsement by Nuqi of the same.<br/><br/>
+          Reference to any third party information (including information provided by a third party or accessible through any linked site), product, process, or services at this website or any linked site is not an express or implied endorsement by Nuqi of the same.<br /><br />
 
-        <p className="font-bold text-xl text-white">  Social Media Disclaimer </p>
-          The social media accounts are maintained by the Nuqi team. None of the information posted via Nuqi’s social media accounts constitutes an offer (or solicitation of an offer) to buy or sell any currency, product or financial instrument, to make any investment, or to participate in any particular investment strategy. Nuqi shall not be responsible for any loss arising from any investment based on any forecast or other information made available via any Nuqi’s social media accounts. Any information posted on Nuqi’s social media accounts shall not be considered as personal' investment advice or be construed as an express or implied promise, guarantee or implication by Nuqi that clients will profit from the strategies or that losses in connection therewith can or will be limited. Terms applies as mentioned here on this page.<br/><br/>
+          <p className="font-bold text-xl text-white">  Social Media Disclaimer </p>
+          The social media accounts are maintained by the Nuqi team. None of the information posted via Nuqi’s social media accounts constitutes an offer (or solicitation of an offer) to buy or sell any currency, product or financial instrument, to make any investment, or to participate in any particular investment strategy. Nuqi shall not be responsible for any loss arising from any investment based on any forecast or other information made available via any Nuqi’s social media accounts. Any information posted on Nuqi’s social media accounts shall not be considered as personal' investment advice or be construed as an express or implied promise, guarantee or implication by Nuqi that clients will profit from the strategies or that losses in connection therewith can or will be limited. Terms applies as mentioned here on this page.<br /><br />
 
-          All trademarks and registered trademarks are the properties of their respective owners.<br/>
+          All trademarks and registered trademarks are the properties of their respective owners.<br />
 
-          “Interactive Brokers LLC is a registered Broker-Dealer, Futures Commission Merchant and Forex Dealer Member, regulated by the U.S. Securities and Exchange Commission (SEC), the Commodity Futures Trading Commission (CFTC) and the National Futures Association (NFA), and is a member of the Financial Industry Regulatory Authority (FINRA) and several other self-regulatory organizations. Interactive Brokers does not endorse or recommend any introducing brokers, third-party financial advisors or hedge funds, including NUQI WEALTH INDIA PRIVATE LIMITED. Interactive Brokers provides execution and clearing services to customers. None of the information contained herein constitutes a recommendation, offer, or solicitation of an offer by Interactive Brokers to buy, sell or hold any security, financial product or instrument or to engage in any specific investment strategy. Interactive Brokers makes no representation, and assumes no liability to the accuracy or completeness of the information provided on this website.<br/><br/>
+          “Interactive Brokers LLC is a registered Broker-Dealer, Futures Commission Merchant and Forex Dealer Member, regulated by the U.S. Securities and Exchange Commission (SEC), the Commodity Futures Trading Commission (CFTC) and the National Futures Association (NFA), and is a member of the Financial Industry Regulatory Authority (FINRA) and several other self-regulatory organizations. Interactive Brokers does not endorse or recommend any introducing brokers, third-party financial advisors or hedge funds, including NUQI WEALTH INDIA PRIVATE LIMITED. Interactive Brokers provides execution and clearing services to customers. None of the information contained herein constitutes a recommendation, offer, or solicitation of an offer by Interactive Brokers to buy, sell or hold any security, financial product or instrument or to engage in any specific investment strategy. Interactive Brokers makes no representation, and assumes no liability to the accuracy or completeness of the information provided on this website.<br /><br />
 
-          For more information regarding Interactive Brokers, please visit www.interactivebrokers.com.”<br/>
+          For more information regarding Interactive Brokers, please visit www.interactivebrokers.com.”<br />
 
-          Indian residents can only open a cash account, no leverage, no margin trading is permitted at all. Client-owned, fully-paid securities are protected in accounts at depositories and custodians that are specifically identified for the exclusive benefit of clients. IBKR reconciles positions in securities owned by clients daily to ensure that these securities have been received at the depositories and custodians. In addition, every customer is protected by the Securities and Investment Protection Council Insurance (SIPC insurance) by up to USD 500,000 split as USD 250,000 in cash and USD 250,000 in stocks. Any insurance claims arising out of a transaction shall be dealt and handled directly by IBKR and Nuqi Wealth shall not be liable for rejection of any claims raised therein.<br/><br/>
+          Indian residents can only open a cash account, no leverage, no margin trading is permitted at all. Client-owned, fully-paid securities are protected in accounts at depositories and custodians that are specifically identified for the exclusive benefit of clients. IBKR reconciles positions in securities owned by clients daily to ensure that these securities have been received at the depositories and custodians. In addition, every customer is protected by the Securities and Investment Protection Council Insurance (SIPC insurance) by up to USD 500,000 split as USD 250,000 in cash and USD 250,000 in stocks. Any insurance claims arising out of a transaction shall be dealt and handled directly by IBKR and Nuqi Wealth shall not be liable for rejection of any claims raised therein.<br /><br />
 
-          All disputes are subject to Mumbai, India jurisdiction only<br/><br/>
+          All disputes are subject to Mumbai, India jurisdiction only<br /><br />
 
-           <p className="font-bold text-xl text-white">Disclosures: -</p>
-          • Full name: Nuqi Wealth India Pvt Ltd<br/>
-          • SEBI IA Registration Number – INA000016612 and BASL Membership Id number - 1750<br/>
-          • Type of Registration – Non-Individual Validity: Perpetual<br/>
-          • Principal Officer – Sarfaraz Noorula Shaikh, Sarfaraz.shaikh@nuqiwealth.com, +91 22 40112962 & Compliance Officer - AAMIR FAROOQUI, compliance@nuqiwealth.in<br/>
-          • Details of Contacting Nuqi (Website - https://www.nuqiwealth.com ,Email – service@nuqiwealth.me, Tel, Corporate Address - Office Nos 205, Parinee I, Veera Desai Road, Andheri West, Mumbai - 400053. Registered Address - 16 Magnum Towers, 4 Bunglow, Lokhandwala Complex, Andheri West, Mumbai 400058 and CIN - U65990MH2020FTC351885<br/><br/>
-          SEBI Office Details :- SEBI Bhavan BKC, Plot No.C4-A, ‘G’ Block Bandra-Kurla Complex, Bandra (East), Mumbai - 400051, Maharashtra | Tel : +91-22-26449000 / 40459000<br/><br/>
+          <p className="font-bold text-xl text-white">Disclosures: -</p>
+          • Full name: Nuqi Wealth India Pvt Ltd<br />
+          • SEBI IA Registration Number – INA000016612 and BASL Membership Id number - 1750<br />
+          • Type of Registration – Non-Individual Validity: Perpetual<br />
+          • Principal Officer – Sarfaraz Noorula Shaikh, Sarfaraz.shaikh@nuqiwealth.com, +91 22 40112962 & Compliance Officer - AAMIR FAROOQUI, compliance@nuqiwealth.in<br />
+          • Details of Contacting Nuqi (Website - https://www.nuqiwealth.com ,Email – service@nuqiwealth.me, Tel, Corporate Address - Office Nos 205, Parinee I, Veera Desai Road, Andheri West, Mumbai - 400053. Registered Address - 16 Magnum Towers, 4 Bunglow, Lokhandwala Complex, Andheri West, Mumbai 400058 and CIN - U65990MH2020FTC351885<br /><br />
+          SEBI Office Details :- SEBI Bhavan BKC, Plot No.C4-A, ‘G’ Block Bandra-Kurla Complex, Bandra (East), Mumbai - 400051, Maharashtra | Tel : +91-22-26449000 / 40459000<br /><br />
 
           For Queries/Grievances Email: investorgrievance@nuqiwealth.com
 
         </p>;
-      case "legal":
+
+      case "legalAndRegulatory":
         return <p>
-
-
           NUQI WEALTH INVESTMENT ADVISORY AGREEMENT <br /><br />
-
           <p className="font-bold text-xl text-white">Nuqi Wealth India Private Limited</p> (herein after referred as ‘Investment Adviser’) is a partnership firm registered with Securities and Exchange Board of India under SEBI (Investment Advisers) Regulations, 2013 (“Regulations”) as an Investment Advisor, with Registration No. INA000016612 dated 31 January 2022, having its registered office at 16 Magnum Towers, 4 Bunglow, Lokandwala Complex, NR Rajput Dairy, Andheri West, Mumbai – 400058, Maharashtra, of the<p className="font-semibold text-lg text-white">ONE PART.</p>
-
           AND<br />
-
-          <p className="font-semibold text-lg text-white">The Client</p> (also referred to as ‘the Client’) which expression shall, unless repugnant to or inconsistent with the context or meaning thereof, be deemed to mean and include if the Client is an individual (his/her heirs, executors, administrators and legal representatives and permitted assigns/family members); if the Client is a Partnership Firm, (the partners for the time being of the said firm, the survivor or survivors of them and their respective heirs, executors, administrators and legal representatives/its successors and permitted assigns); if the Client is a company or a body corporate or limited liability partnership or sole proprietor (its successors and permitted assigns); if the Client is the Karta of a Hindu Undivided Family, (the members for the time being of the said Hindu Undivided Family and their respective heirs, executors, administrators and assigns); if the Client is a Trust, (the principal trustee or the board of trustees or the trustees or person authorised by the board of trustees for the time being and from time to time) of the<p className="font-semibold text-lg text-white">OTHER PART.</p> 
+          <p className="font-semibold text-lg text-white">The Client</p> (also referred to as ‘the Client’) which expression shall, unless repugnant to or inconsistent with the context or meaning thereof, be deemed to mean and include if the Client is an individual (his/her heirs, executors, administrators and legal representatives and permitted assigns/family members); if the Client is a Partnership Firm, (the partners for the time being of the said firm, the survivor or survivors of them and their respective heirs, executors, administrators and legal representatives/its successors and permitted assigns); if the Client is a company or a body corporate or limited liability partnership or sole proprietor (its successors and permitted assigns); if the Client is the Karta of a Hindu Undivided Family, (the members for the time being of the said Hindu Undivided Family and their respective heirs, executors, administrators and assigns); if the Client is a Trust, (the principal trustee or the board of trustees or the trustees or person authorised by the board of trustees for the time being and from time to time) of the<p className="font-semibold text-lg text-white">OTHER PART.</p>
 
           “Parties” means the Investment Adviser and the Client; and “Party” shall be construed accordingly.
         </p>;
-      case "cokies":
+
+      case "cookies":
         return <p>
           With each of your visits to our website or app, we may automatically collect the following information: <br /> <br />• Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, location; browser plug-in types and versions, operating system, as well as the admin system and aggregated data reports. That data is statistical in nature and tells us about the navigational behaviour and actions of our users and does not divulge any information about the identity of any individual; and <br /><br />• Information about your visit; services you viewed or searched for; page response times, download errors, length of visits, page interaction information (such as scrolling, clicks, and mouse-overs); and • In addition, we may use third party services such as Google Analytics that collect, monitor and analyze information about Demographics and Navigational Behaviour. Demographics may include information such as gender, country of provenance and age. Navigational Behaviour may include information such as pages viewed during a session, time spent on a given page and engagement with the Site's content such as clicks and form submissions (e.g. an email subscription to our newsletter). <br /><br />
-
-
           NUQI WEALTH INVESTMENT ADVISORY AGREEMENT <br />
-
-
-
-
-
           <p className="font-bold text-xl text-white">Nuqi Wealth India Private Limited</p> (herein after referred as ‘Investment Adviser’) is a partnership firm registered with Securities and Exchange Board of India under SEBI (Investment Advisers) Regulations, 2013 (“Regulations”) as an Investment Advisor, with Registration No. INA000016612 dated 31 January 2022, having its registered office at 16 Magnum Towers, 4 Bunglow, Lokandwala Complex, NR Rajput Dairy, Andheri West, Mumbai – 400058, Maharashtra, of the<p className="font-semibold text-lg text-white">ONE PART.</p>
-
           AND<br />
-
-          <p className="font-semibold text-lg text-white">The Client</p> (also referred to as ‘the Client’) which expression shall, unless repugnant to or inconsistent with the context or meaning thereof, be deemed to mean and include if the Client is an individual (his/her heirs, executors, administrators and legal representatives and permitted assigns/family members); if the Client is a Partnership Firm, (the partners for the time being of the said firm, the survivor or survivors of them and their respective heirs, executors, administrators and legal representatives/its successors and permitted assigns); if the Client is a company or a body corporate or limited liability partnership or sole proprietor (its successors and permitted assigns); if the Client is the Karta of a Hindu Undivided Family, (the members for the time being of the said Hindu Undivided Family and their respective heirs, executors, administrators and assigns); if the Client is a Trust, (the principal trustee or the board of trustees or the trustees or person authorised by the board of trustees for the time being and from time to time) of the<p className="font-semibold text-lg text-white">OTHER PART.</p> 
-
+          <p className="font-semibold text-lg text-white">The Client</p> (also referred to as ‘the Client’) which expression shall, unless repugnant to or inconsistent with the context or meaning thereof, be deemed to mean and include if the Client is an individual (his/her heirs, executors, administrators and legal representatives and permitted assigns/family members); if the Client is a Partnership Firm, (the partners for the time being of the said firm, the survivor or survivors of them and their respective heirs, executors, administrators and legal representatives/its successors and permitted assigns); if the Client is a company or a body corporate or limited liability partnership or sole proprietor (its successors and permitted assigns); if the Client is the Karta of a Hindu Undivided Family, (the members for the time being of the said Hindu Undivided Family and their respective heirs, executors, administrators and assigns); if the Client is a Trust, (the principal trustee or the board of trustees or the trustees or person authorised by the board of trustees for the time being and from time to time) of the<p className="font-semibold text-lg text-white">OTHER PART.</p>
           “Parties” means the Investment Adviser and the Client; and “Party” shall be construed accordingly.
         </p>; <br />
     }
@@ -376,28 +363,18 @@ const Privacy = () => {
                   Terms of Use
                 </button>
               </li>
-               <li>
+              <li>
                 <button
-                  className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "termsConditions"
+                  className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "cookies"
                     ? "bg-cyan-400 text-black font-semibold"
                     : "hover:bg-cyan-400 text-white text-xl"
                     }`}
-                  onClick={() => setSelectedPage("cokies")}
+                  onClick={() => setSelectedPage("cookies")}
                 >
                   Cookie Policy
                 </button>
               </li>
-              {/* <li>
-                <button
-                  className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "moneyDisclaimer"
-                    ? "bg-cyan-400 text-black font-semibold"
-                    : "hover:bg-cyan-400 text-white text-xl"
-                    }`}
-                  onClick={() => setSelectedPage("moneyDisclaimer")} // Set the selected page to "moneyDisclaimer"
-                >
-                  Disclaimer for Money
-                </button>
-              </li> */}
+
               <li>
                 <button
                   className={`block py-3 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "privacy"
@@ -423,11 +400,11 @@ const Privacy = () => {
               </li>
               <li>
                 <button
-                  className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "cookie"
+                  className={`block py-2 px-4 w-full text-left rounded-3xl transition-colors duration-200 ${selectedPage === "legalAndRegulatory"
                     ? "bg-cyan-400 text-black font-semibold"
                     : "hover:bg-cyan-400 text-white text-xl"
                     }`}
-                  onClick={() => setSelectedPage("legal")}
+                  onClick={() => setSelectedPage("legalAndRegulatory")}
                 >
                   Legal & Regulatory
                 </button>
@@ -445,11 +422,11 @@ const Privacy = () => {
                     ? "Terms of Use"
                     : selectedPage === "disclaimer"
                       ? "Disclaimer"
-                      : selectedPage === "legal"
+                      : selectedPage === "legalAndRegulatory"
                         ? "Legal & Regulatory"
-                        : selectedPage === "cokies"
-                          ? "Cookie Police" // New section added here
-                          : "Cookie Policy"}
+                        : selectedPage === "cookies"
+                          ? "Cookie Policy"
+                          : "Terms of Use"}
               </h2>
             </div>
             <div className="mt-1 text-white text-base leading-relaxed">
@@ -459,6 +436,7 @@ const Privacy = () => {
         </div>
       </div>
     </section>
+
 
   );
 };
