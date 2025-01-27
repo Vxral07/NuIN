@@ -1482,6 +1482,16 @@ PLAYER`,
         date: "january 20, 2025",
         tags: ["gold", "gold price", "gold rise"],
     },
+    {
+        id: "35th",
+        image: "/etho/etho35.jpeg",
+        heading: "NUQI 2025 Ethosphere : 35th Edition",
+        description: `SMALL OR LARGE CAPS? IT'S TIME TO COMPROMISE`,
+
+        path: "https://nuqiwealth.com/pdf/NUQI-2024-Ethosphere-35th-Edition.pdf",
+        date: "january 27, 2025",
+        tags: ["gold", "gold price", "gold rise"],
+    },
 
 ];
 
