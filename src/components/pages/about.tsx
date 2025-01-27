@@ -10,8 +10,8 @@ const AboutPage = () => {
       <div className="px-4 mx-auto sm:px-6 -mt-8 lg:px-8 max-w-7xl">
         {/* Header Section */}
         <div className="h-[10rem] w-full flex -mt-24 flex-col items-center justify-center overflow-hidden rounded-md">
-          <h2 className="text-3xl pb-5 font-poppins font-semibold leading-6 tracking-wide text-cyan-400 hover:text-cyan-400 sm:text-4xl lg:text-5xl">
-            About <span className="text-white">Us</span>
+          <h2 className="text-3xl pb-5 font-poppins font-semibold leading-6 tracking-wide text-white hover:text-cyan-400 sm:text-4xl lg:text-5xl">
+            About <span className="text-cyan-500">Us</span>
           </h2>
           <div className="w-[40rem] h-10 relative">
             {/* Gradients */}

@@ -96,7 +96,7 @@ export const PortfolioGrid: React.FC = () => {
       {/* Section Header */}
       <h6 className="mb-5 text-center mt-20 font-poppins tracking-wide leading-9 text-3xl pb-1 sm:text-3xl font-medium lg:text-3xl">
         <span className="text-white text-3xl">Nuqi</span>{" "}
-        <span className="text-white text-3xl">Global</span>{" "}
+        {/* <span className="text-white text-3xl">Global</span>{" "} */}
         <span className="text-cyan-500 text-3xl">
           Curated Equity Portfolios (CEP)
         </span>
