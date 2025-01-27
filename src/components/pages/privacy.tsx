@@ -333,13 +333,24 @@ const Privacy = () => {
 
       case "cookies":
         return <p>
-          With each of your visits to our website or app, we may automatically collect the following information: <br /> <br />• Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, location; browser plug-in types and versions, operating system, as well as the admin system and aggregated data reports. That data is statistical in nature and tells us about the navigational behaviour and actions of our users and does not divulge any information about the identity of any individual; and <br /><br />• Information about your visit; services you viewed or searched for; page response times, download errors, length of visits, page interaction information (such as scrolling, clicks, and mouse-overs); and • In addition, we may use third party services such as Google Analytics that collect, monitor and analyze information about Demographics and Navigational Behaviour. Demographics may include information such as gender, country of provenance and age. Navigational Behaviour may include information such as pages viewed during a session, time spent on a given page and engagement with the Site's content such as clicks and form submissions (e.g. an email subscription to our newsletter). <br /><br />
-          NUQI WEALTH INVESTMENT ADVISORY AGREEMENT <br />
-          <p className="font-bold text-xl text-white">Nuqi Wealth India Private Limited</p> (herein after referred as ‘Investment Adviser’) is a partnership firm registered with Securities and Exchange Board of India under SEBI (Investment Advisers) Regulations, 2013 (“Regulations”) as an Investment Advisor, with Registration No. INA000016612 dated 31 January 2022, having its registered office at 16 Magnum Towers, 4 Bunglow, Lokandwala Complex, NR Rajput Dairy, Andheri West, Mumbai – 400058, Maharashtra, of the<p className="font-semibold text-lg text-white">ONE PART.</p>
-          AND<br />
-          <p className="font-semibold text-lg text-white">The Client</p> (also referred to as ‘the Client’) which expression shall, unless repugnant to or inconsistent with the context or meaning thereof, be deemed to mean and include if the Client is an individual (his/her heirs, executors, administrators and legal representatives and permitted assigns/family members); if the Client is a Partnership Firm, (the partners for the time being of the said firm, the survivor or survivors of them and their respective heirs, executors, administrators and legal representatives/its successors and permitted assigns); if the Client is a company or a body corporate or limited liability partnership or sole proprietor (its successors and permitted assigns); if the Client is the Karta of a Hindu Undivided Family, (the members for the time being of the said Hindu Undivided Family and their respective heirs, executors, administrators and assigns); if the Client is a Trust, (the principal trustee or the board of trustees or the trustees or person authorised by the board of trustees for the time being and from time to time) of the<p className="font-semibold text-lg text-white">OTHER PART.</p>
-          “Parties” means the Investment Adviser and the Client; and “Party” shall be construed accordingly.
-        </p>; <br />
+          With each of your visits to our website or app, we may automatically collect the following information:<br /><br />
+
+          • Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, location; browser plug-in types and versions, operating system, as well as the admin system and aggregated data reports. That data is statistical in nature and tells us about the navigational behaviour and actions of our users and does not divulge any information about the identity of any individual; and <br /><br />
+
+          • Information about your visit; services you viewed or searched for; page response times, download errors, length of visits, page interaction information (such as scrolling, clicks, and mouse-overs); and • In addition, we may use third party services such as Google Analytics that collect, monitor and analyze information about Demographics and Navigational Behaviour. Demographics may include information such as gender, country of provenance and age. Navigational Behaviour may include information such as pages viewed during a session, time spent on a given page and engagement with the Site's content such as clicks and form submissions (e.g. an email subscription to our newsletter). <br /><br />
+
+          For that same reason, we can obtain information about your general use of the internet using cookie files, which are small files that are sent to us and which are stored in your computer or other device's hard drive. The cookies help us improve our Site as well as provide a better and more personalized service. They allow us to:<br /><br />
+
+          • Estimate the size and nature of our audience as well as its behavioural tendencies on our Site<br /><br />
+
+          • Store information about our users' preferences, which allows us to personalize our Site in conjunction with individual interests<br /><br />
+
+          • Accelerate your search<br /> <br />
+
+          • Recognize you when you come back on our Site<br /> <br />
+
+          If you wish to remove cookies, you can deactivate cookies within your browser's parameters. However, if you deactivate your cookies, you might not be able to access some parts of our Site. We offer a free app for a variety of mobile devices. The app processes the personal details you give us in much the same way as our website does. With your consent, we may send you push notifications with information. You may grant us access to your location data or contact details in order to provide services requested by you. Please read the instructions of your mobile device to understand how to change the settings and enable the sharing of such data or the receipt of push notifications.<br /><br />
+        </p>; 
     }
 
   };
